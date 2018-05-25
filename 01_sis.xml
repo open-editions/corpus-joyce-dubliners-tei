@@ -1,32 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<TEI>
-    <teiHeader type="ISBD-ER">
-        <fileDesc>
-            <titleStmt>
-                <title>Dubliners</title>
-                <author>Joyce, James, 1882-1941</author>
-                <respStmt>
-                    <resp>text edited by</resp>
-                    <name>Gabler, Hans Walter, 1938-</name>
-                    <name>Walter Hettche</name>
-                </respStmt>
-            </titleStmt>
-        <sourceDesc>
-            <biblFull>
-                <titleStmt>
-                    <title>Dubliners</title>
-                    <author>Joyce, James, 1882-1941</author>
-                    <editor>Gabler, Hans Walter, 1938-</editor>
-                    <editor>Hettche, Walter</editor>
-                </titleStmt>
-            </biblFull>
-        </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div n="1" type="story">
-                <head> <lb n="01000"/> <emph>The Sisters</emph> </head>
+﻿<div n="1" type="story">
+    <head> <lb n="01000"/> <emph>The Sisters</emph> </head>
 <lb n="01001"/> <p>There was no hope for him this time: it was the third stroke.
 <lb n="01002"/> Night after night I had passed the house (it was vacation time)
 <lb n="01003"/> and studied the lighted square of window: and night after night
@@ -61,7 +34,7 @@
 <lb n="01032"/> <said who="narrator">―Who? said I.</said>
 <lb n="01033"/> <said who="narrator's uncle">―Father Flynn.</said>
 <lb n="01034"/> <said who="narrartor">―Is he dead?</said>
-<lb n="01035"/> <said who="narrator's uncle">―</said>Mr Cotter here has just told us. He was passing by the
+<lb n="01035"/> <said who="narrator's uncle">―Mr Cotter here has just told us. He was passing by the
 <lb n="01036"/> house.</said></p>
 <lb n="01037"/> <p>I knew that I was under observation so I continued eating as
 <lb n="01038"/> if the news had not interested me. My uncle explained to old
@@ -120,12 +93,12 @@
 <lb n="01091"/> with ribbon. Two poor women and a telegram boy were
 <lb n="01092"/> reading the card pinned on the crape. I also approached and
 <lb n="01093"/> read:</p>
-<ab rend="center">
-<lb n="01094"/> <p>July 1st 1895</p>
-<lb n="01095"/> <p>The Rev. James Flynn (formerly of S. Catherine's
-<lb n="01096"/> Church, Meath Street) aged sixty-five years.</p>
-<lb n="01097"/> <p>R.I.P.</p>
-</ab>
+<lg rend="center">
+<lb n="01094"/> <l>July 1st 1895</l>
+<lb n="01095"/> <l>The Rev. James Flynn (formerly of S. Catherine's
+<lb n="01096"/> Church, Meath Street) aged sixty-five years.</l>
+<lb n="01097"/> <l>R.I.P.</l>
+</lg>
 <lb n="01098"/> <p>The reading of the card persuaded me that he was dead and
 <lb n="01099"/> I was disturbed to find myself at check. Had he not been dead I
 <lb n="01100"/> would have gone into the little dark room behind the shop to
@@ -317,7 +290,7 @@
 <lb n="01286"/> him!</said>
 <lb n="01287"/> <said who="narrator's aunt">―And was that it? said my aunt. I heard something. .......</said></p>
 <lb n="01288"/> <p>Eliza nodded.
-<lb n="01289"/> <said who="narrator's aunt">―That affected his mind,</said> she said. <said who="narrator's aunt"After that he began to
+<lb n="01289"/> <said who="narrator's aunt">―That affected his mind,</said> she said. <said who="narrator's aunt">After that he began to
 <lb n="01290"/> mope by himself, talking to no-one and wandering about by
 <lb n="01291"/> himself. So one night he was wanted for to go on a call and
 <lb n="01292"/> they couldn't find him anywhere. They looked high up and low
@@ -336,4 +309,4 @@
 <lb n="01305"/> <said who="Eliza">―Wideawake and laughing-like to himself. ... So then of
 <lb n="01306"/> course when they saw that that made them think that there was
 <lb n="01307"/> something gone wrong with him. ....</said></p>
-            </div>
+</div>

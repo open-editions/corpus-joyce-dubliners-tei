@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2003/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dubliners</title>
+                <author>Joyce, James, 1882-1941</author>
+                <respStmt>
+                    <resp>text edited by</resp>
+                    <name>Gabler, Hans Walter, 1938-</name>
+                    <name>Walter Hettche</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Dubliners</title>
+                        <author>Joyce, James, 1882-1941</author>
+                        <editor>Gabler, Hans Walter, 1938-</editor>
+                        <editor>Hettche, Walter</editor>
+                    </titleStmt>
+                    <publicationStmt>
+                        <p></p>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <xi:include href="01_sis.xml"/>
+            <xi:include href="12_ivy.xml"/>
+        </body>
+    </text>
+</TEI>
