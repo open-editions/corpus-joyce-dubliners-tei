@@ -10,28 +10,30 @@
 <lb n="12008"/> mouth fell open at times, munching once or twice mechanically
 <lb n="12009"/> when it closed. When the cinders had caught he laid the piece
 <lb n="12010"/> of cardboard against the wall, sighed and said:
-<lb n="12011"/> <said who="">―</said>That's better now, Mr O'Connor.</p>
+<lb n="12011"/> <said who="Old Jack">―That's better now, Mr O'Connor.</said></p>
 <lb n="12012"/> <p>Mr O'Connor, a greyhaired young man, whose face was
 <lb n="12013"/> disfigured by many blotches and pimples, had just brought the
 <lb n="12014"/> tobacco for a cigarette into a shapely cylinder but, when
 <lb n="12015"/> spoken to, he undid his handiwork meditatively. Then he be=
 <lb n="12016"/> gan to roll the tobacco again meditatively and, after a mo=
 <lb n="12017"/> ment's thought, decided to lick the paper.
-<lb n="12018"/> <said who="">―</said>Did Mr Tierney say when he'd be back? he asked in a husky
-<lb n="12019"/> <emph>falsetto.</emph>
-<lb n="12020"/> <said who="">―</said>He didn't say.</p>
+<lb n="12018"/> <said who="Mr O'Connor">―Did Mr Tierney say when he'd be back? he asked in a husky
+<lb n="12019"/> <emph>falsetto.</emph></said>
+<lb n="12020"/> <said who="Old Jack">―He didn't say.</said></p>
 <lb n="12021"/> <p>Mr O'Connor put his cigarette into his mouth and began to
 <lb n="12022"/> search his pockets. He took out a pack of thin pasteboard
 <lb n="12023"/> cards.
-<lb n="12024"/> <said who="">―</said>I'll get you a match, said the old man.
-<lb n="12025"/> <said who="">―</said>Never mind, this'll do, said Mr O'Connor.</p>
+<lb n="12024"/> <said who="Old Jack">―I'll get you a match,</said> said the old man.
+<lb n="12025"/> <said who="Mr O'Connor">―Never mind, this'll do,</said> said Mr O'Connor.</p>
 <lb n="12026"/> <p>He selected one of the cards and read what was printed on
 <lb n="12027"/> it:</p>
-<lb n="12028"/> <p>Municipal Elections
-<lb n="12029"/> Royal Exchange Ward
-<lb n="12030"/> Mr Richard J Tierney P. L. G. respectfully solicits
-<lb n="12031"/> the favour of your vote and influence at the coming
-<lb n="12032"/> election in the Royal Exchange Ward.</p>
+<lg rend="center">
+<lb n="12028"/> <l>Municipal Elections</l>
+<lb n="12029"/> <l>Royal Exchange Ward</l>
+<lb n="12030"/> <l>Mr Richard J Tierney P. L. G. respectfully solicits</l>
+<lb n="12031"/> <l>the favour of your vote and influence at the coming</l>
+<lb n="12032"/> <l>election in the Royal Exchange Ward.</l>
+</lg>
 <lb n="12033"/> <p>Mr O'Connor had been engaged by Mr Tierney's agent to
 <lb n="12034"/> canvass one part of the ward but, as the weather was inclement
 <lb n="12035"/> and his boots let in the wet, he spent a great part of the day
@@ -44,41 +46,41 @@
 <lb n="12042"/> ivy in the lapel of his coat. The old man watched him attent=
 <lb n="12043"/> ively and then, taking up the piece of cardboard again, began to
 <lb n="12044"/> fan the fire slowly while his companion smoked.
-<lb n="12045"/> <said who="">―</said>Ah, yes, he said, continuing, it's hard to know what way to
+<lb n="12045"/> <said who="Old Jack">―Ah, yes,</said> he said, continuing, <said who="Mr O'Connor">it's hard to know what way to
 <lb n="12046"/> bring up children. Now who'd think he'd turn out like that. I
 <lb n="12047"/> sent him to the Christian Brothers and I done what I could for
 <lb n="12048"/> him and there he goes boosing about. I tried to make him
-<lb n="12049"/> someway decent.</p>
+<lb n="12049"/> someway decent.</said></p>
 <lb n="12050"/> <p>He replaced the cardboard wearily.
-<lb n="12051"/> <said who="">―</said>Only I'm an old man now I'd change his tune for him. I'd
+<lb n="12051"/> <said who="Old Jack">―Only I'm an old man now I'd change his tune for him. I'd
 <lb n="12052"/> take the stick to his back and beat him while I could stand over
 <lb n="12053"/> him - as I done many a time before. The mother, you know, she
-<lb n="12054"/> cocks him up with this and that ....
-<lb n="12055"/> <said who="">―</said>That's what ruins children, said Mr O'Connor.
-<lb n="12056"/> <said who="">―</said>To be sure it is, said the old man. And little thanks you get
+<lb n="12054"/> cocks him up with this and that ....</said>
+<lb n="12055"/> <said who="Mr O'Connor">―That's what ruins children,</said> said Mr O'Connor.
+<lb n="12056"/> <said who="Old Jack">―To be sure it is, said the old man. And little thanks you get
 <lb n="12057"/> for it, only impudence. He takes the upper hand of me when=
 <lb n="12058"/> ever he sees I've a sup taken. What's the world coming to when
-<lb n="12059"/> sons speaks that way to their father?
-<lb n="12060"/> <said who="">―</said>What age is he? said Mr O'Connor.
-<lb n="12061"/> <said who="">―</said>Nineteen, said the old man.
-<lb n="12062"/> <said who="">―</said>Why don't you put him to something?
-<lb n="12063"/> <said who="">―</said>Sure, amn't I never done at the drunken bowsey ever since
-<lb n="12064"/> he left school. <emph>I won't keep you</emph>, I says. <emph>You must get a job for
-<lb n="12065"/> yourself.</emph> But, sure, it's worse whenever he gets a job: he drinks
-<lb n="12066"/> it all.</p>
+<lb n="12059"/> sons speaks that way to their father?</said>
+<lb n="12060"/> <said who="Mr O'Connor">―What age is he?</said> said Mr O'Connor.
+<lb n="12061"/> <said who="Old Jack">―Nineteen,</said> said the old man.
+<lb n="12062"/> <said who="Mr O'Connor">―Why don't you put him to something?</said>
+<lb n="12063"/> <said who="Old Jack">―Sure, amn't I never done at the drunken bowsey ever since
+<lb n="12064"/> he left school. <said who="Old Jack" direct="false" rend="italics">I won't keep you</said>, I says. <said who="Old Jack" direct="false" rend="italics">You must get a job for
+<lb n="12065"/> yourself.</said> But, sure, it's worse whenever he gets a job: he drinks
+<lb n="12066"/> it all.</said></p>
 <lb n="12067"/> <p>Mr O'Connor shook his head in sympathy and the old man
 <lb n="12068"/> fell silent, gazing into the fire. Someone opened the door of the
 <lb n="12069"/> room and called out:
-<lb n="12070"/> <said who="">―</said>Hello! Is this a Freemasons' meeting?
-<lb n="12071"/> <said who="">―</said>Who's that? said the old man.
-<lb n="12072"/> <said who="">―</said>What are you doing in the dark? asked a voice.
-<lb n="12073"/> <said who="">―</said>Is that you, Hynes? asked Mr O'Connor.
-<lb n="12074"/> <said who="">―</said>Yes. What are you doing in the dark? said Mr Hynes
+<lb n="12070"/> <said who="Mr O'Connor">―Hello! Is this a Freemasons' meeting?</said>
+<lb n="12071"/> <said who="Old Jack">―Who's that?</said> said the old man.
+<lb n="12072"/> <said who="Mr Hynes">―What are you doing in the dark?</said> asked a voice.
+<lb n="12073"/> <said who="Mr O'Connor">―Is that you, Hynes?</said> asked Mr O'Connor.
+<lb n="12074"/> <said who="Mr Hynes">―Yes. What are you doing in the dark?</said> said Mr Hynes
 <lb n="12075"/> advancing into the light of the fire.</p>
 <lb n="12076"/> <p>He was a tall slender young man with a light brown mous=
 <lb n="12077"/> tache. Imminent little drops of rain hung at the brim of his hat
 <lb n="12078"/> and the collar of his jacket coat was turned up.
-<lb n="12079"/> <said who="">―</said>Well, Mat, he said to Mr O'Connor, how goes it?</p>
+<lb n="12079"/> <said who="Mr Hynes">―Well, Mat, he said to Mr O'Connor, how goes it?</said></p>
 <lb n="12080"/> <p>Mr O'Connor shook his head. The old man left the hearth
 <lb n="12081"/> and after stumbling about the room returned with two candle=
 <lb n="12082"/> sticks which he thrust one after the other into the fire and
@@ -87,20 +89,20 @@
 <lb n="12085"/> except for a copy of an election address. In the middle of the
 <lb n="12086"/> room was a small table on which papers were heaped.</p>
 <lb n="12087"/> <p>Mr Hynes leaned against the mantelpiece and asked:
-<lb n="12088"/> <said who="">―</said>Has he paid you yet?
-<lb n="12089"/> <said who="">―</said>Not yet, said Mr O'Connor. I hope to God he'll not leave us
-<lb n="12090"/> in the lurch tonight.</p>
+<lb n="12088"/> <said who="Mr Hynes">―Has he paid you yet?</said>
+<lb n="12089"/> <said who="Mr O'Connor">―Not yet, said Mr O'Connor. I hope to God he'll not leave us
+<lb n="12090"/> in the lurch tonight.</said></p>
 <lb n="12091"/> <p>Mr Hynes laughed.
-<lb n="12092"/> <said who="">―</said>O, he'll pay you. Never fear, he said.
-<lb n="12093"/> <said who="">―</said>I hope he'll look smart about it if he means business, said
+<lb n="12092"/> <said who="Mr Hynes">―O, he'll pay you. Never fear,</said> he said.
+<lb n="12093"/> <said who="Mr O'Connor">―I hope he'll look smart about it if he means business,</said> said
 <lb n="12094"/> Mr O'Connor.
-<lb n="12095"/> <said who="">―</said>What do you think, Jack? said Mr Hynes satirically to the
+<lb n="12095"/> <said who="Mr Hynes">―What do you think, Jack?</said> said Mr Hynes satirically to the
 <lb n="12096"/> old man.</p>
 <lb n="12097"/> <p>The old man returned to his seat by the fire, saying:
-<lb n="12098"/> <said who="">―</said>It isn't but he has it, anyway. Not like the other tinker.
-<lb n="12099"/> <said who="">―</said>What other tinker? said Mr Hynes.
-<lb n="12100"/> <said who="">―</said>Colgan, said the old man scornfully.
-<lb n="12101"/> <said who="">―</said>Is it because Colgan's a workingman you say that? What's
+<lb n="12098"/> <said who="Old Jack">―It isn't but he has it, anyway. Not like the other tinker.</said>
+<lb n="12099"/> <said who="Mr Hynes">―What other tinker?</said> said Mr Hynes.
+<lb n="12100"/> <said who="Old Jack">―Colgan,</said> said the old man scornfully.
+<lb n="12101"/> <said who="Mr Hynes">―Is it because Colgan's a workingman you say that? What's
 <lb n="12102"/> the difference between a good honest bricklayer and a publican
 <lb n="12103"/> <said who="">―</said>eh? Hasn't the workingman as good a right to be in the
 <lb n="12104"/> Corporation as anyone else - aye, and a better right than those
