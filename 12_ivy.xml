@@ -263,7 +263,7 @@
 <lb n="12259"/> <said who="Father Keon">―No, no, no!</said> said Father Keon, speaking in a discreet indul=
 <lb n="12260"/> gent velvety voice, <said who="Father Keon">don't let me disturb you now! I'm just look=
 <lb n="12261"/> ing for Mr Fanning ...</said>
-<lb n="12262"/> <said who="Mr Henchy">―He's round at the <placeName type="pub" sameAs="Tierney's pub">Black Eagle</placeName>, said Mr Henchy. <said who="Mr Henchy">But won't
+<lb n="12262"/> <said who="Mr Henchy">―He's round at the <placeName type="pub" sameAs="Tierney's pub">Black Eagle</placeName>,</said> said Mr Henchy. <said who="Mr Henchy">But won't
 <lb n="12263"/> you come in and sit down a minute?</said>
 <lb n="12264"/> <said who="Father Keon">―No, no, thank you. It was just a little business matter,</said> said
 <lb n="12265"/> Father Keon. <said who="Father Keon">Thank you, indeed.</said></p>
@@ -273,10 +273,10 @@
 <lb n="12269"/> <said who="Mr Henchy">―No, but the stairs is so dark.</said>
 <lb n="12270"/> <said who="Father Keon">―No, no, I can see .... Thank you, indeed.</said>
 <lb n="12271"/> <said who="Mr Henchy">―Are you right now?</said>
-<lb n="12272"/> <said who="Father Keon">―All right, thanks ... Thanks.</p></said>
+<lb n="12272"/> <said who="Father Keon">―All right, thanks ... Thanks.</said></p>
 <lb n="12273"/> <p>Mr Henchy returned with the candlestick and put it on the
 <lb n="12274"/> table. He sat down again at the fire. There was silence for a
-<lb n="12275"/> few moments.
+<lb n="12275"/> few moments.</p>
 <lb n="12276"/> <said who="Mr O'Connor">―Tell me, John,</said> said Mr O'Connor, lighting his cigarette with
 <lb n="12277"/> another pasteboard card.
 <lb n="12278"/> <said who="Mr Henchy">―Hm?</said>
@@ -303,7 +303,7 @@
 <lb n="12299"/> <said who="Mr Henchy">―Well, I couldn't go over while he was talking to Alderman
 <lb n="12300"/> Cowley. I just waited till I caught his eye and said: <said who="Mr Henchy" direct="false" rend="italics">About that
 <lb n="12301"/> little matter I was speaking to you about ...</said> <said who="shoeboy" direct="false" rend="italics">That'll be all right,
-<lb n="12302"/> Mr H.</said>, he said. <said who="Mr Henchy">Yerra, sure the little hop-o'-my-thumb has
+<lb n="12302"/> Mr H.</said>, he said. Yerra, sure the little hop-o'-my-thumb has
 <lb n="12303"/> forgotten all about it.</said>
 <lb n="12304"/> <said who="Mr O'Connor">―There's some deal on in that quarter,</said> said Mr O'Connor
 <lb n="12305"/> thoughtfully. <said who="Mr O'Connor">I saw the three of them hard at it yesterday at
@@ -312,15 +312,15 @@
 <lb n="12308"/> <said who="Mr Henchy">You must owe the City Fathers money nowadays if you want to
 <lb n="12309"/> be made Lord Mayor. Then they'll make you Lord Mayor. By
 <lb n="12310"/> God I'm thinking seriously of becoming a City Father myself.
-<lb n="12311"/> What do you think? Would I do for the job?</said></p>
+<lb n="12311"/> What do you think? Would I do for the job?</said>
 <lb n="12312"/> <p>Mr O'Connor laughed.
 <lb n="12313"/> <said who="Mr O'Connor">―So far as owing money goes ....</said>
 <lb n="12314"/> <said who="Mr Henchy">―Driving out of the Mansion House,</said> said Mr Henchy, <said who="Mr Henchy">in all
 <lb n="12315"/> my vermin, with Jack here standing up behind me in a pow=
 <lb n="12316"/> dered wig—eh?</said>
-<lb n="12317"/> <said who="Mr O'Connor">―And make me your private secretary, John.
+<lb n="12317"/> <said who="Mr O'Connor">―And make me your private secretary, John.</said>
 <lb n="12318"/> <said who="Mr Henchy">―Yes. And I'll make Father Keon my private chaplain. We'll
-<lb n="12319"/> have a family party.
+<lb n="12319"/> have a family party.</said>
 <lb n="12320"/> <said who="Old Jack">―Faith, Mr Henchy,</said> said the old man, <said who="Old Jack">you'd keep up better
 <lb n="12321"/> style than some of them. I was talking one day to old Keegan,
 <lb n="12322"/> the porter.</said> <said who="Old Jack" direct="false" rend="italics">And how do you like your new master, Pat?</said> says I
@@ -333,11 +333,11 @@
 <lb n="12329"/> sending out for a pound of chops for his dinner? How's that for
 <lb n="12330"/> high living?</said> says he. <said who="Old Jack" direct="false" rend="italics">Wisha! wisha</said>, says I. <said who="Old Keegan" direct="false" rend="italics">A pound of chops</said>,
 <lb n="12331"/> says he, <said who="Old Jack" direct="false" rend="italics">coming into the Mansion House. Wisha!</said> says I, <said who="Old Jack" direct="false" rend="italics">what
-<lb n="12332"/> kind of people is going at all now?</said></p>
+<lb n="12332"/> kind of people is going at all now?</said></said></p>
 <lb n="12333"/> <p>At this point there was a knock at the door and a boy put in
 <lb n="12334"/> his head.
 <lb n="12335"/> <said who="Old Jack">―What is it?</said> said the old man.
-<lb n="12336"/> <said who="delivery boy">―</said>From the <placeName rend="italics">Black Eagle</placeName><said>, said the boy, walking in sideways and
+<lb n="12336"/> <said who="delivery boy">―From the <placeName rend="italics">Black Eagle</placeName></said>, said the boy, walking in sideways and
 <lb n="12337"/> depositing a basket on the floor with a noise of shaken bottles.</p>
 <lb n="12338"/> <p>The old man helped the boy to transfer the bottles from the
 <lb n="12339"/> basket to the table and counted the full tally. After the transfer
@@ -364,7 +364,7 @@
 <lb n="12360"/> <p>The boy came back with the corkscrew. The old man
 <lb n="12361"/> opened three bottles and was handing back the corkscrew
 <lb n="12362"/> when Mr Henchy said to the boy:
-<lb n="12363"/> <said who="Mr Henchy">―Would you like a drink, boy?
+<lb n="12363"/> <said who="Mr Henchy">―Would you like a drink, boy?</said>
 <lb n="12364"/> <said who="delivery boy">―If you please, sir, said the boy.</said></p>
 <lb n="12365"/> <p>The old man opened another bottle grudgingly and handed
 <lb n="12366"/> it to the boy.
@@ -416,7 +416,7 @@
 <lb n="12412"/> edge of the table, pushed his hat towards the nape of his neck
 <lb n="12413"/> and began to swing his legs.
 <lb n="12414"/> <said who="Mr Lyons">―</said>Which is my bottle? he asked.
-<lb n="12415"/> <said who="Mr Henchy">―This lad, said Mr Henchy.</p>
+<lb n="12415"/> <said who="Mr Henchy">―This lad</said>, said Mr Henchy.</p>
 <lb n="12416"/> <p>Mr Crofton sat down on a box and looked fixedly at the
 <lb n="12417"/> other bottle on the hob. He was silent for two reasons. The
 <lb n="12418"/> first reason, sufficient in itself, was that he had nothing to say;
@@ -520,53 +520,77 @@
 <lb n="12516"/> took off his hat, laid it on the table and stood up. He seemed to
 <lb n="12517"/> be rehearsing the piece in his mind. After a rather long pause he
 <lb n="12518"/> announced:</p>
-<lb n="12519"/> <p>The Death of Parnell
-<lb n="12520"/> 6th October 1891</p>
+<div type="poem">
+<lb n="12519"/> <head rend="align(center)">The Death of Parnell</head>
+<lb n="12520"/> <head rent="align(center)"><date when="1891-10-06">6th October 1891</date></head>
 <lb n="12521"/> <p>He cleared his throat once or twice and then began to recite:</p>
-<lb n="12522"/> <p>He is dead. Our Uncrowned King is dead.
-<lb n="12523"/> O, Erin, mourn with grief and woe
-<lb n="12524"/> For he lies dead whom the fell gang
-<lb n="12525"/> Of modern hypocrites laid low.</p>
-<lb n="12526"/> <p>He lies slain by the coward hounds
-<lb n="12527"/> He raised to glory from the mire:
-<lb n="12528"/> And Erin's hopes and Erin's dreams
-<lb n="12529"/> Perish upon her monarch's pyre.</p>
-<lb n="12530"/> <p>In palace, cabin or in cot
-<lb n="12531"/> The Irish heart where'er it be
-<lb n="12532"/> Is bowed with woe—for he is gone
-<lb n="12533"/> Who would have wrought her destiny.</p>
-<lb n="12534"/> <p>He would have had his Erin famed,
-<lb n="12535"/> The green flag gloriously unfurled,
-<lb n="12536"/> Her statesmen, bards and warriors raised
-<lb n="12537"/> Before the nations of the world.</p>
-<lb n="12538"/> <p>He dreamed (alas,'twas but a dream!)
-<lb n="12539"/> Of Liberty: but as he strove
-<lb n="12540"/> To clutch that idol, treachery
-<lb n="12541"/> Sundered him from the thing he loved.</p>
-<lb n="12542"/> <p>Shame on the coward caitiff hands
-<lb n="12543"/> That smote their Lord or with a kiss
-<lb n="12544"/> Betrayed him to the rabble-rout
-<lb n="12545"/> Of fawning priests—no friends of his!</p>
-<lb n="12546"/> <p>May everlasting shame consume
-<lb n="12547"/> The memory of those who tried
-<lb n="12548"/> To befoul and smear th' exalted name
-<lb n="12549"/> Of one who spurned them in his pride!</p>
-<lb n="12550"/> <p>He fell, as fall the mighty ones,
-<lb n="12551"/> Nobly undaunted to the last,
-<lb n="12552"/> And Death has now united him
-<lb n="12553"/> With Erin's heroes of the past.</p>
-<lb n="12554"/> <p>No sound of strife disturb his sleep!
-<lb n="12555"/> Calmly he rests: no human pain
-<lb n="12556"/> Or high ambition spurs him now
-<lb n="12557"/> The peaks of glory to attain.</p>
-<lb n="12558"/> <p>They had their way: they laid him low.
-<lb n="12559"/> But Erin, list, his spirit may
-<lb n="12560"/> Rise, like the Phoenix from the flames,
-<lb n="12561"/> When breaks the dawning of the day,</p>
-<lb n="12562"/> <p>The day that brings us Freedom's reign.
-<lb n="12563"/> And on that day may Erin well
-<lb n="12564"/> Pledge in the cup she lifts to Joy
-<lb n="12565"/> One grief—the memory of Parnell.</p>
+<lg>
+<lb n="12522"/> <l>He is dead. Our Uncrowned King is dead.</l>
+<lb n="12523"/> <l>O, Erin, mourn with grief and woe</l>
+<lb n="12524"/> <l>For he lies dead whom the fell gang</l>
+<lb n="12525"/> <l>Of modern hypocrites laid low.</l>
+</lg>
+<lg>
+    <lb n="12526"/> <l>He lies slain by the coward hounds</l>
+    <lb n="12527"/> <l>He raised to glory from the mire:</l>
+    <lb n="12528"/> <l>And Erin's hopes and Erin's dreams</l>
+    <lb n="12529"/> <l>Perish upon her monarch's pyre.</l>
+</lg>
+<lg>
+    <lb n="12530"/> <l>In palace, cabin or in cot</l>
+    <lb n="12531"/> <l>The Irish heart where'er it be</l>
+    <lb n="12532"/> <l>Is bowed with woe—for he is gone</l>
+    <lb n="12533"/> <l>Who would have wrought her destiny.</l>
+</lg>
+<lg>
+    <lb n="12534"/> <l>He would have had his Erin famed,</l>
+    <lb n="12535"/> <l>The green flag gloriously unfurled,</l>
+    <lb n="12536"/> <l>Her statesmen, bards and warriors raised</l>
+    <lb n="12537"/> <l>Before the nations of the world.</l>
+</lg>
+<lg>
+    <lb n="12538"/> <l>He dreamed (alas,'twas but a dream!)</l>
+    <lb n="12539"/> <l>Of Liberty: but as he strove</l>
+    <lb n="12540"/> <l>To clutch that idol, treachery</l>
+    <lb n="12541"/> <l>Sundered him from the thing he loved.</l>
+</lg>
+<lg>
+    <lb n="12542"/> <l>Shame on the coward caitiff hands</l>
+    <lb n="12543"/> <l>That smote their Lord or with a kiss</l>
+    <lb n="12544"/> <l>Betrayed him to the rabble-rout</l>
+    <lb n="12545"/> <l>Of fawning priests—no friends of his!</l>
+</lg>
+<lg>
+    <lb n="12546"/> <l>May everlasting shame consume</l>
+    <lb n="12547"/> <l>The memory of those who tried</l>
+    <lb n="12548"/> <l>To befoul and smear th' exalted name</l>
+    <lb n="12549"/> <l>Of one who spurned them in his pride!</l>
+</lg>
+<lg>
+    <lb n="12550"/> <l>He fell, as fall the mighty ones,</l>
+    <lb n="12551"/> <l>Nobly undaunted to the last,</l>
+    <lb n="12552"/> <l>And Death has now united him</l>
+    <lb n="12553"/> <l>With Erin's heroes of the past.</l>
+</lg>
+<lg>
+    <lb n="12554"/> <l>No sound of strife disturb his sleep!</l>
+    <lb n="12555"/> <l>Calmly he rests: no human pain</l>
+    <lb n="12556"/> <l>Or high ambition spurs him now</l>
+    <lb n="12557"/> <l>The peaks of glory to attain.</l>
+</lg>
+<lg>
+    <lb n="12558"/> <l>They had their way: they laid him low.</l>
+    <lb n="12559"/> <l>But Erin, list, his spirit may</l>
+    <lb n="12560"/> <l>Rise, like the Phoenix from the flames,</l>
+    <lb n="12561"/> <l>When breaks the dawning of the day,</l>
+</lg>
+<lg>
+    <lb n="12562"/> <l>The day that brings us Freedom's reign.</l>
+    <lb n="12563"/> <l>And on that day may Erin well</l>
+    <lb n="12564"/> <l>Pledge in the cup she lifts to Joy</l>
+    <lb n="12565"/> <l>One grief—the memory of Parnell.</l>
+</lg>
+</div>
 <lb n="12566"/> <p>Mr Hynes sat down again on the table. When he had
 <lb n="12567"/> finished his recitation there was a silence and then a burst of
 <lb n="12568"/> clapping: even Mr Lyons clapped. The applause continued for
