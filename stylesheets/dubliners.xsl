@@ -43,13 +43,15 @@
 </xsl:template>
 
 <xsl:template match="lb">
-	<xsl:apply-templates/>
-  <xsl:if test="@n mod 5 = 0" > 
-    <span class="tag lineNumber">
-      <xsl:value-of select="@n" />
-    </span>
-  </xsl:if> 
-  <br/>
+    <xsl:apply-templates/>
+    <xsl:if test="@n mod 5 = 0" >
+        <span class="tag lineNumber">
+          <xsl:value-of select="@n" />
+        </span>
+    </xsl:if>
+    <xsl:if test="./ancestor::p">
+          <br/>
+    </xsl:if>
 </xsl:template>
 
 <xsl:template match="lg">
