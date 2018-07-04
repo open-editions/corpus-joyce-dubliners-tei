@@ -84,9 +84,15 @@ span.tag.lang {
 }
 
 span.tag.dialog {
-	border: 1px solid #A0A0C3;
-	background-color: #D5D5F3;
-	left: -18%;
+    border: 1px solid #A0A0C3;
+    background-color: #D5D5F3;
+
+    padding: 1px 3px 0 3px;
+    font-size: smaller;
+
+    right: 102%;
+    max-width: none;
+    white-space: nowrap;
 }
 
 span.hide {
