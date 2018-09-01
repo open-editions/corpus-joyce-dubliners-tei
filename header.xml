@@ -32,7 +32,20 @@
     <text>
         <body>
             <xi:include href="01_sis.xml"/>
+            <xi:include href="02_enc.xml"/>
+            <xi:include href="03_ara.xml"/>
+            <xi:include href="04_eve.xml"/>
+            <xi:include href="05_aft.xml"/>
+            <xi:include href="06_two.xml"/>
+            <xi:include href="07_boa.xml"/>
+            <xi:include href="08_lit.xml"/>
+            <xi:include href="09_cou.xml"/>
+            <xi:include href="10_cla.xml"/>
+            <xi:include href="11_pai.xml"/>
             <xi:include href="12_ivy.xml"/>
+            <xi:include href="13_mot.xml"/>
+            <xi:include href="14_gra.xml"/>
+            <xi:include href="15_dea.xml"/>
         </body>
     </text>
 </TEI>
