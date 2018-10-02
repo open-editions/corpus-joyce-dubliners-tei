@@ -15,7 +15,7 @@
 <lb n="01013"/> name of some maleficent and sinful being. It filled me with fear
 <lb n="01014"/> and yet I longed to be nearer to it and to look upon its deadly
 <lb n="01015"/> work.</p>
-<lb n="01016"/> <p>Old Cotter was sitting at the fire, smoking, when I came
+<lb n="01016"/> <p><persName xml:id="oc">Old Cotter</persName> was sitting at the fire, smoking, when I came
 <lb n="01017"/> downstairs to supper. While my aunt was ladling out my
 <lb n="01018"/> stirabout he said as if returning to some former remark of his:
 <lb n="01019"/> <said who="Old Cotter">―No, I wouldn't say he was exactly ...... but there was some=
@@ -32,27 +32,27 @@
 <lb n="01030"/> theory. My uncle saw me staring and said to me:
 <lb n="01031"/> <said who="narrator's uncle">―Well, so your old friend is gone, you'll be sorry to hear.</said>
 <lb n="01032"/> <said who="narrator">―Who? said I.</said>
-<lb n="01033"/> <said who="narrator's uncle">―Father Flynn.</said>
+     <lb n="01033"/> <said who="narrator's uncle">―<persName xml:id="ff">Father Flynn</persName>.</said>
 <lb n="01034"/> <said who="narrartor">―Is he dead?</said>
 <lb n="01035"/> <said who="narrator's uncle">―Mr Cotter here has just told us. He was passing by the
 <lb n="01036"/> house.</said></p>
 <lb n="01037"/> <p>I knew that I was under observation so I continued eating as
-<lb n="01038"/> if the news had not interested me. My uncle explained to old
-<lb n="01039"/> Cotter:
+<lb n="01038"/> if the news had not interested me. My uncle explained to <persName xml:id="oc">old
+     <lb n="01039"/> Cotter</persName>:
 <lb n="01040"/> <said who="narrator's uncle">―The youngster and he were great friends. The old chap
 <lb n="01041"/> taught him a great deal, mind you; and they say he had a great
 <lb n="01042"/> wish for him.</said>
 <lb n="01043"/> <said who="narrator's aunt">―God have mercy on his soul, said my aunt piously.</said></p>
-<lb n="01044"/> <p>Old Cotter looked at me for a while. I felt that his little
+     <lb n="01044"/> <p><persName xml:id="oc">Old Cotter</persName> looked at me for a while. I felt that his little
 <lb n="01045"/> beady black eyes were examining me but I would not satisfy
 <lb n="01046"/> him by looking up from my plate. He returned to his pipe and
 <lb n="01047"/> finally spat rudely into the grate.
 <lb n="01048"/> <said who="Old Cotter">―I wouldn't like children of mine,</said> he said, <said who="Old Cotter">to have too much
 <lb n="01049"/> to say to a man like that.</said>
 <lb n="01050"/> <said who="narrator's aunt">―How do you mean, Mr Cotter?</said> asked my aunt.
-<lb n="01051"/> <said who="Old Cotter">―What I mean is,</said> said old Cotter, <said who="Old Cotter">it's bad for children. My
+<lb n="01051"/> <said who="Old Cotter">―What I mean is,</said> said <persName xml:id="oc">old Cotter</persName>, <said who="Old Cotter">it's bad for children. My
 <lb n="01052"/> idea is: let a young lad run about and play with young lads of
-<lb n="01053"/> his own age and not be. ... Am I right, Jack?</said>
+     <lb n="01053"/> his own age and not be. ... Am I right, <persName xml:id="jk">Jack?</persName></said>
 <lb n="01054"/> <said who="narrator's uncle">―That's my principle too,</said> said my uncle. <said who="narrator's uncle">Let him learn to box
 <lb n="01055"/> his corner. That's what I'm always saying to that rosicrucian
 <lb n="01056"/> there: take exercise. Why, when I was a nipper every morning
@@ -60,18 +60,18 @@
 <lb n="01058"/> what stands to me now. Education is all very fine and large. ....
 <lb n="01059"/> Mr Cotter might take a pick of that leg of mutton,</said> he added to
 <lb n="01060"/> my aunt.
-<lb n="01061"/> <said who="Old Cotter">―No, no, not for me, said old Cotter.</said></p>
+<lb n="01061"/> <said who="Old Cotter">―No, no, not for me, said <persName xml:id="oc">old Cotter</persName>.</said></p>
 <lb n="01062"/> <p>My aunt brought the dish from the safe and laid it on the
 <lb n="01063"/> table.
 <lb n="01064"/> <said who="narrator's aunt">―But why do you think it's not good for children, Mr Cotter?</said>
 <lb n="01065"/> she asked.
-<lb n="01066"/> <said who="Old Cotter">―It's bad for children,</said> said old Cotter, <said who="Old Cotter">because their minds are
+<lb n="01066"/> <said who="Old Cotter">―It's bad for children,</said> said <persName xml:id="oc">old Cotter</persName>, <said who="Old Cotter">because their minds are
 <lb n="01067"/> so impressionable. When children see things like that, you
 <lb n="01068"/> know, it has an effect. .....</said></p>
 <lb n="01069"/> <p>I crammed my mouth with stirabout for fear I might give
 <lb n="01070"/> utterance to my anger. Tiresome old rednosed imbecile!</p>
-<lb n="01071"/> <p>It was late when I fell asleep. Though I was angry with old
-<lb n="01072"/> Cotter for alluding to me as a child I puzzled my head to
+<lb n="01071"/> <p>It was late when I fell asleep. Though I was angry with <persName xml:id="oc">old
+     <lb n="01072"/> Cotter</persName> for alluding to me as a child I puzzled my head to
 <lb n="01073"/> extract meaning from his unfinished sentences. In the dark of
 <lb n="01074"/> my room I imagined that I saw again the heavy grey face of the
 <lb n="01075"/> paralytic. I drew the blankets over my head and tried to think
@@ -95,7 +95,7 @@
 <lb n="01093"/> read:</p>
 <lg rend="center">
 <lb n="01094"/> <l>July 1st 1895</l>
-<lb n="01095"/> <l>The Rev. James Flynn (formerly of S. Catherine's
+    <lb n="01095"/> <l>The Rev. <persName xml:id="ff">James Flynn</persName> (formerly of S. Catherine's
 <lb n="01096"/> Church, Meath Street) aged sixty-five years.</l>
 <lb n="01097"/> <l>R.I.P.</l>
 </lg>
@@ -125,7 +125,7 @@
 <lb n="01121"/> my uncle had said the night before, he had taught me a great
 <lb n="01122"/> deal. He had studied in the Irish college in Rome and he had
 <lb n="01123"/> taught me to pronounce Latin properly. He had told me stories
-<lb n="01124"/> about the catacombs and about Napoleon Bonaparte and he
+     <lb n="01124"/> about the catacombs and about <persName xml:id="nb">Napoleon Bonaparte</persName> and he
 <lb n="01125"/> had explained to me the meaning of the different ceremonies of
 <lb n="01126"/> the mass and of the different vestments worn by the priest.
 <lb n="01127"/> Sometimes he had amused himself by putting difficult questions
@@ -151,7 +151,7 @@
 <lb n="01147"/> teeth and let his tongue lie upon his lower lip - a habit which
 <lb n="01148"/> had made me feel uneasy in the beginning of our acquaintance
 <lb n="01149"/> before I knew him well.</p>
-<lb n="01150"/> <p>As I walked along in the sun I remembered old Cotter's
+<lb n="01150"/> <p>As I walked along in the sun I remembered <persName xml:id="oc">old Cotter</persName>'s
 <lb n="01151"/> words and tried to remember what had happened afterwards in
 <lb n="01152"/> the dream. I remembered that I had noticed long velvet curtains
 <lb n="01153"/> and a swinging lamp of antique fashion. I felt that I had been
@@ -188,7 +188,7 @@
 <lb n="01184"/> black cavernous nostrils and circled by a scanty white fur.
 <lb n="01185"/> There was a heavy odour in the room, the flowers.</p>
 <lb n="01186"/> <p>We blessed ourselves and came away. In the little room
-<lb n="01187"/> downstairs we found Eliza seated in his armchair in state. I
+     <lb n="01187"/> downstairs we found <persName xml:id="el">Eliza</persName> seated in his armchair in state. I
 <lb n="01188"/> groped my way towards my usual chair in the corner while
 <lb n="01189"/> Nannie went to the sideboard and brought out a decanter of
 <lb n="01190"/> sherry and some wineglasses. She set these on the table and
@@ -200,16 +200,16 @@
 <lb n="01196"/> refusal and went over quietly to the sofa where she sat down
 <lb n="01197"/> behind her sister. No-one spoke: we all gazed at the empty
 <lb n="01198"/> fireplace.</p>
-<lb n="01199"/> <p>My aunt waited until Eliza sighed and then said:
+     <lb n="01199"/> <p>My aunt waited until <persName xml:id="el">Eliza</persName> sighed and then said:
 <lb n="01200"/> <said who="narrator's aunt">―Ah, well, he's gone to a better world.</said></p>
-<lb n="01201"/> <p>Eliza sighed again and bowed her head in assent. My aunt
+     <lb n="01201"/> <p><persName xml:id="el">Eliza</persName> sighed again and bowed her head in assent. My aunt
 <lb n="01202"/> fingered the stem of her wineglass before sipping a little.
 <lb n="01203"/> <said who="narrator's aunt">―Did he ..... peacefully?</said> she asked.
-<lb n="01204"/> <said who="Eliza">―O, quite peacefully, ma'am,</said> said Eliza. <said who="Eliza">You couldn't tell
+<lb n="01204"/> <said who="Eliza">―O, quite peacefully, ma'am,</said> said <persName xml:id="el">Eliza</persName>. <said who="Eliza">You couldn't tell
 <lb n="01205"/> when the breath went out of him. He had a beautiful death,
 <lb n="01206"/> God be praised.</said>
 <lb n="01207"/> <said who="narrator's aunt">―And everything .... ?</said>
-<lb n="01208"/> <said who="Eliza">―Father O'Rourke was in with him a-Tuesday and anointed
+     <lb n="01208"/> <said who="Eliza">―<persName xml:id="or">Father O'Rourke</persName> was in with him a-Tuesday and anointed
 <lb n="01209"/> him and prepared him and all.</said>
 <lb n="01210"/> <said who="narrator's aunt">―He knew then?</said>
 <lb n="01211"/> <said who="Eliza">―He was quite resigned.</said>
@@ -223,33 +223,33 @@
     <lb n="01219"/> <said who="narrator's aunt">―Well, Miss Flynn, at any rate it must be a great comfort for
 <lb n="01220"/> you to know that you did all you could for him. You were both
 <lb n="01221"/> very kind to him, I must say.</said></p>
-<lb n="01222"/> <p>Eliza smoothed her dress over her knees.
+     <lb n="01222"/> <p><persName xml:id="el">Eliza</persName> smoothed her dress over her knees.
 <lb n="01223"/> <said who="Eliza">―Ah, poor James! she said. God knows we done all we could
 <lb n="01224"/> as poor as we are. We wouldn't see him want anything while he
 <lb n="01225"/> was in it.</said></p>
 <lb n="01226"/> <p>Nannie had leaned her head against the sofa pillow and
 <lb n="01227"/> seemed about to fall asleep.
-<lb n="01228"/> <said who="Eliza">―There's poor Nannie, said Eliza looking at her, she's wore
+     <lb n="01228"/> <said who="Eliza">―There's poor Nannie, said <persName xml:id="el">Eliza</persName> looking at her, she's wore
 <lb n="01229"/> out. All the work we had, she and me, getting in the woman to
 <lb n="01230"/> wash him and then laying him out and then the coffin and then
-<lb n="01231"/> arranging about the mass in the chapel! Only for Father
-<lb n="01232"/> O'Rourke I don't know what we'd have done at all. It was him
+<lb n="01231"/> arranging about the mass in the chapel! Only for <persName xml:id="or">Father
+     <lb n="01232"/> O'Rourke</persName> I don't know what we'd have done at all. It was him
 <lb n="01233"/> brought us all them flowers and them two candlesticks out of
 <lb n="01234"/> the chapel and wrote out the notice for the <title type="newspaper">Freeman's General</title>
 <lb n="01235"/> and took charge of all the papers for the cemetery and poor
 <lb n="01236"/> James's insurance.</said>
 <lb n="01237"/> <said who="narrartor's aunt">―Wasn't that good of him? said my aunt.</said></p>
-<lb n="01238"/> <p>Eliza closed her eyes and shook her head slowly.
+     <lb n="01238"/> <p><persName xml:id="el">Eliza</persName> closed her eyes and shook her head slowly.
 <lb n="01239"/> <said who="Eliza">―Ah, there's no friends like the old friends, she said, when all
 <lb n="01240"/> is said and done, no friends that a body can trust.</said>
 <lb n="01241"/> <said who="narrator's aunt">―Indeed, that's true, said my aunt. And I'm sure now that he's
 <lb n="01242"/> gone to his eternal reward he won't forget you and all your
 <lb n="01243"/> kindness to him.</said>
-<lb n="01244"/> <said who="Eliza">―Ah, poor James!</said> said Eliza. <said who="Eliza">He was no great trouble to us.
+<lb n="01244"/> <said who="Eliza">―Ah, poor James!</said> said <persName xml:id="el">Eliza</persName>. <said who="Eliza">He was no great trouble to us.
 <lb n="01245"/> You wouldn't hear him in the house any more than now. Still, I
 <lb n="01246"/> know he's gone and all that ....</said>
 <lb n="01247"/> <said who="narrator's aunt">―It's when it's all over that you'll miss him,</said> said my aunt.
-<lb n="01248"/> <said who="Eliza">―I know that,</said> said Eliza. <said who="Eliza">I won't be bringing him in his cup of
+     <lb n="01248"/> <said who="Eliza">―I know that,</said> said <persName xml:id="el">Eliza</persName>. <said who="Eliza">I won't be bringing him in his cup of
 <lb n="01249"/> beeftea any more nor you, ma'am, sending him his snuff. Ah,
 <lb n="01250"/> poor James!</said></p>
 <lb n="01251"/> <p>She stopped, as if she were communing with the past, and
@@ -264,13 +264,13 @@
 <lb n="01260"/> was over he'd go out for a drive one fine day just to see the old
 <lb n="01261"/> house again where we were all born down in Irishtown and
 <lb n="01262"/> take me and Nannie with him. If we could only get one of them
-<lb n="01263"/> newfangled carriages that makes no noise that Father
-<lb n="01264"/> O'Rourke told him about - them with the rheumatic wheels -
+<lb n="01263"/> newfangled carriages that makes no noise that <persName xml:id="or">Father
+     <lb n="01264"/> O'Rourke</persName> told him about - them with the rheumatic wheels -
 <lb n="01265"/> for the day cheap, he said, at Johnny Rush's over the way there
 <lb n="01266"/> and drive out the three of us together of a Sunday evening. He
 <lb n="01267"/> had his mind set on that. ... Poor James!</said>
 <lb n="01268"/> <said who="narrator's aunt">―The Lord have mercy on his soul!</said> said my aunt.</p>
-<lb n="01269"/> <p>Eliza took out her handkerchief and wiped her eyes with it.
+     <lb n="01269"/> <p><persName xml:id="el">Eliza</persName> took out her handkerchief and wiped her eyes with it.
 <lb n="01270"/> Then she put it back again in her pocket and gazed into the
 <lb n="01271"/> empty grate for some time without speaking.
 <lb n="01272"/> <said who="Eliza">―He was too scrupulous always,</said> she said. <said who="Eliza">The duties of the
@@ -280,7 +280,7 @@
 <lb n="01276"/> see that.</said></p>
 <lb n="01277"/> <p>A silence took possession of the little room and under cover
 <lb n="01278"/> of it I approached the table and tasted my sherry and then
-<lb n="01279"/> returned quietly to my chair in the corner. Eliza seemed to have
+     <lb n="01279"/> returned quietly to my chair in the corner. <persName xml:id="el">Eliza</persName> seemed to have
 <lb n="01280"/> fallen into a deep revery. We waited respectfully for her to
 <lb n="01281"/> break the silence: and after a long pause she said slowly:
 <lb n="01282"/> <said who="Eliza">―It was that chalice he broke. ... That was what was the
@@ -289,14 +289,14 @@
 <lb n="01285"/> boy's fault. But poor James was so nervous, God be merciful to
 <lb n="01286"/> him!</said>
 <lb n="01287"/> <said who="narrator's aunt">―And was that it? said my aunt. I heard something. .......</said></p>
-<lb n="01288"/> <p>Eliza nodded.
+     <lb n="01288"/> <p><persName xml:id="el">Eliza</persName> nodded.
 <lb n="01289"/> <said who="narrator's aunt">―That affected his mind,</said> she said. <said who="narrator's aunt">After that he began to
 <lb n="01290"/> mope by himself, talking to no-one and wandering about by
 <lb n="01291"/> himself. So one night he was wanted for to go on a call and
 <lb n="01292"/> they couldn't find him anywhere. They looked high up and low
 <lb n="01293"/> down and still they couldn't see a sight of him anywhere. So
 <lb n="01294"/> then the clerk suggested to try the chapel. So then they got the
-<lb n="01295"/> keys and opened the chapel and the clerk and Father O'Rourke
+<lb n="01295"/> keys and opened the chapel and the clerk and <persName xml:id="or">Father O'Rourke</persName>
 <lb n="01296"/> and another priest that was there brought in a light for to look
 <lb n="01297"/> for him. .... And what do you think but there he was, sitting up
 <lb n="01298"/> by himself in the dark in his confession box, wideawake and
@@ -305,7 +305,7 @@
 <lb n="01301"/> was no sound in the house and I knew that the old priest was
 <lb n="01302"/> lying still in his coffin as we had seen him, solemn and
 <lb n="01303"/> truculent in death, an idle chalice on his breast.</p>
-<lb n="01304"/> <p>Eliza resumed:
+     <lb n="01304"/> <p><persName xml:id="el">Eliza</persName> resumed:
 <lb n="01305"/> <said who="Eliza">―Wideawake and laughing-like to himself. ... So then of
 <lb n="01306"/> course when they saw that that made them think that there was
 <lb n="01307"/> something gone wrong with him. ....</said></p>
