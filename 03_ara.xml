@@ -10,7 +10,7 @@
 <lb n="04009"/> closed, hung in all the rooms and the waste room behind the
 <lb n="04010"/> kitchen was littered with old useless papers. Among these I
 <lb n="04011"/> found a few papercovered books, the pages of which were
-<lb n="04012"/> curled and damp: <emph>The Abbot</emph> by Walter Scott, <emph>The Devout
+<lb n="04012"/> curled and damp: <emph>The Abbot</emph> by <persName xml:id="ws">Walter Scott</persName>, <emph>The Devout
 <lb n="04013"/> Communicant</emph> and <emph>The Memoirs of Vidocq.</emph> I liked the last best
 <lb n="04014"/> because its leaves were yellow. The wild garden behind the
 <lb n="04015"/> house contained a central apple tree and a few straggling
@@ -32,11 +32,11 @@
 <lb n="04031"/> horse or shook music from the buckled harness. When we re=
 <lb n="04032"/> turned to the street light from the kitchen windows had filled
 <lb n="04033"/> the areas. If my uncle was seen turning the corner we hid in the
-<lb n="04034"/> shadow until we had seen him safely housed. Or if Mangan's
+<lb n="04034"/> shadow until we had seen him safely housed. Or if <persName xml:id="mg">Mangan</persName>'s
 <lb n="04035"/> sister came out on the doorstep to call her brother in to his tea
 <lb n="04036"/> we watched her from our shadow peer up and down the street.
 <lb n="04037"/> We waited to see whether she would remain or go in and if she
-<lb n="04038"/> remained we left our shadow and walked up to Mangan's steps
+  <lb n="04038"/> remained we left our shadow and walked up to <persName xml:id="mg">Mangan</persName>'s steps
 <lb n="04039"/> resignedly. She was waiting for us, her figure defined by the
 <lb n="04040"/> light from the half-opened door. Her brother always teased her
 <lb n="04041"/> before he obeyed and I stood by the railings looking at her. Her
@@ -135,12 +135,12 @@
 <lb n="04134"/> brownclad figure cast by my imagination, touched discreetly by
 <lb n="04135"/> the lamplight at the curved neck, at the hand upon the railings
 <lb n="04136"/> and at the border below the dress.</p>
-<lb n="04137"/> <p>When I came downstairs again I found Mrs Mercer sitting at
+  <lb n="04137"/> <p>When I came downstairs again I found <persName xml:id="mc">Mrs Mercer</persName> sitting at
 <lb n="04138"/> the fire. She was an old garrulous woman, a pawnbroker's
 <lb n="04139"/> widow who collected used stamps for some pious purpose. I
 <lb n="04140"/> had to endure the gossip of the teatable. The meal was
 <lb n="04141"/> prolonged beyond an hour and still my uncle did not come.
-<lb n="04142"/> Mrs Mercer stood up to go: she was sorry she couldn't wait
+  <lb n="04142"/> <persName xml:id="mc">Mrs Mercer</persName> stood up to go: she was sorry she couldn't wait
 <lb n="04143"/> any longer but it was after eight o'clock and she did not like to
 <lb n="04144"/> be out late as the night air was bad for her. When she had gone
 <lb n="04145"/> I began to walk up and down the room, clenching my fists. My
