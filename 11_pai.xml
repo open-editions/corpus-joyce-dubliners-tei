@@ -1,5 +1,5 @@
 <div n="11" type="story"><lb n="11000"/> <head rend="italics">A Painful Case</head>
-<lb n="11001"/> <p>Mr James Duffy lived in Chapelizod because he wished to
+  <lb n="11001"/> <p><persName xml:id="jd">Mr James Duffy</persName> lived in Chapelizod because he wished to
 <lb n="11002"/> live as far as possible from the city of which he was a citizen
 <lb n="11003"/> and because he found all the other suburbs of Dublin mean,
 <lb n="11004"/> modern and pretentious. He lived in an old sombre house and
@@ -89,21 +89,21 @@
 <lb n="11088"/> Earlsfort Terrace and seized the moments when her daughter's
 <lb n="11089"/> attention was diverted to become intimate. She alluded once or
 <lb n="11090"/> twice to her husband but her tone was not such as to make the
-<lb n="11091"/> allusion a warning. Her name was Mrs Sinico. Her husband's
+  <lb n="11091"/> allusion a warning. Her name was <persName xml:id="msi">Mrs Sinico</persName>. Her husband's
 <lb n="11092"/> great-great-grandfather had come from Leghorn. Her husband
 <lb n="11093"/> was captain of a mercantile boat plying between Dublin and
 <lb n="11094"/> Holland: and they had one child.</p>
 <lb n="11095"/> <p>Meeting her a third time by accident he found courage to
 <lb n="11096"/> make an appointment. She came. This was the first of many
 <lb n="11097"/> meetings; they met always in the evening and chose the most
-<lb n="11098"/> quiet quarters for their walks together. Mr Duffy, however,
+  <lb n="11098"/> quiet quarters for their walks together. <persName xml:id="jd">Mr Duffy</persName>, however,
 <lb n="11099"/> had a distaste for underhand ways and, finding that they were
 <lb n="11100"/> compelled to meet stealthily, he forced her to ask him to her
-<lb n="11101"/> house. Captain Sinico encouraged his visits, thinking that his
+<lb n="11101"/> house. <persName xml:id="si">Captain Sinico</persName> encouraged his visits, thinking that his
 <lb n="11102"/> daughter's hand was in question. He had dismissed his wife so
 <lb n="11103"/> sincerely from his gallery of pleasures that he did not suspect
 <lb n="11104"/> anyone else would take an interest in her. As the husband was
-<lb n="11105"/> often away and the daughter out giving music lessons Mr Duffy
+<lb n="11105"/> often away and the daughter out giving music lessons <persName xml:id="jd">Mr Duffy</persName>
 <lb n="11106"/> had many opportunities of enjoying the lady's society. Neither
 <lb n="11107"/> he nor she had had any such adventure before and neither was
 <lb n="11108"/> conscious of any incongruity. Little by little he entangled his
@@ -146,9 +146,9 @@
 <lb n="11145"/> insisting on the soul's incurable loneliness. We cannot give
 <lb n="11146"/> ourselves, it said: we are our own. The end of these discourses
 <lb n="11147"/> was that one night, during which she had shown every sign of
-<lb n="11148"/> unusual excitement, Mrs Sinico caught up his hand passion=
+  <lb n="11148"/> unusual excitement, <persName xml:id="msi">Mrs Sinico</persName> caught up his hand passion=
 <lb n="11149"/> ately and pressed it to her cheek.</p>
-<lb n="11150"/> <p>Mr Duffy was very much surprised. Her interpretation of his
+  <lb n="11150"/> <p><persName xml:id="jd">Mr Duffy</persName> was very much surprised. Her interpretation of his
 <lb n="11151"/> words disillusioned him. He did not visit her for a week; then
 <lb n="11152"/> he wrote to her asking her to meet him. As he did not wish
 <lb n="11153"/> their last interview to be troubled by the influence of their
@@ -161,13 +161,13 @@
 <lb n="11160"/> began to tremble so violently that, fearing another collapse on
 <lb n="11161"/> her part, he bade her goodbye quickly and left her. A few days
 <lb n="11162"/> later he received a parcel containing his books and music.</p>
-<lb n="11163"/> <p>Four years passed. Mr Duffy returned to his even way of life.
+  <lb n="11163"/> <p>Four years passed. <persName xml:id="jd">Mr Duffy</persName> returned to his even way of life.
 <lb n="11164"/> His room still bore witness of the orderliness of his mind. Some
 <lb n="11165"/> new pieces of music encumbered the musicstand in the lower
 <lb n="11166"/> room and on his shelves stood two volumes by Nietzsche, <emph>Thus
 <lb n="11167"/> Spake Zarathustra</emph> and <emph>The Gay Science.</emph> He wrote seldom in
 <lb n="11168"/> the sheaf of papers which lay in his desk. One of his sentences,
-<lb n="11169"/> written two months after his last interview with Mrs Sinico,
+<lb n="11169"/> written two months after his last interview with <persName xml:id="msi">Mrs Sinico</persName>,
 <lb n="11170"/> read: Love between man and man is impossible because there
 <lb n="11171"/> must not be sexual intercourse and friendship between man
 <lb n="11172"/> and woman is impossible because there must be sexual inter=
@@ -203,37 +203,37 @@
 <lb n="11202"/> <p>DEATH OF A LADY AT SYDNEY PARADE
 <lb n="11203"/> A PAINFUL CASE</p>
 <lb n="11204"/> <p>Today at the City of Dublin Hospital the Deputy Coroner (in
-<lb n="11205"/> the absence of Mr Leverett) held an inquest on the body of Mrs
-<lb n="11206"/> Emily Sinico, aged forty-three years, who was killed at Sydney
+  <lb n="11205"/> the absence of <persName xml:id="le">Mr Leverett</persName>) held an inquest on the body of <persName xml:id="msi">Mrs
+  <lb n="11206"/> Emily Sinico</persName>, aged forty-three years, who was killed at Sydney
 <lb n="11207"/> Parade Station yesterday evening. The evidence showed that
 <lb n="11208"/> the deceased lady while attempting to cross the line was
 <lb n="11209"/> knocked down by the engine of the ten o'clock slow train from
 <lb n="11210"/> Kingstown, thereby sustaining injuries of the head and right
 <lb n="11211"/> side which led to her death.</p>
-<lb n="11212"/> <p>James Lennon, driver of the engine, stated that he had been
+  <lb n="11212"/> <p><persName xml:id="jl">James Lennon</persName>, driver of the engine, stated that he had been
 <lb n="11213"/> in the employment of the railway company for fifteen years.
 <lb n="11214"/> On hearing the guard's whistle he set the train in motion and a
 <lb n="11215"/> second or two afterwards brought it to rest in response to loud
 <lb n="11216"/> cries. The train was going slowly.</p>
-<lb n="11217"/> <p>P. Dunne, railway porter, stated that as the train was about
+  <lb n="11217"/> <p><persName xml:id="pd">P. Dunne</persName>, railway porter, stated that as the train was about
 <lb n="11218"/> to start he observed a woman attempting to cross the lines. He
 <lb n="11219"/> ran towards her and shouted but before he could reach her she
 <lb n="11220"/> was caught by the buffer of the engine and fell to the ground.</p>
 <lb n="11221"/> <p>A Juror - You saw the lady fall?</p>
 <lb n="11222"/> <p>Witness - Yes.</p>
-<lb n="11223"/> <p>Police Sergeant Croly deposed that when he arrived he found
+  <lb n="11223"/> <p>Police Sergeant <persName xml:id="cy">Croly</persName> deposed that when he arrived he found
 <lb n="11224"/> the deceased lying on the platform apparently dead. He had the
 <lb n="11225"/> body taken to the waitingroom pending the arrival of the
 <lb n="11226"/> ambulance.</p>
 <lb n="11227"/> <p>Constable 57 E corroborated.</p>
-<lb n="11228"/> <p>Dr Halpin, assistant house surgeon of the City of Dublin
+  <lb n="11228"/> <p><persName xml:id="hn">Dr Halpin</persName>, assistant house surgeon of the City of Dublin
 <lb n="11229"/> Hospital, stated that the deceased had two lower ribs fractured
 <lb n="11230"/> and had sustained severe contusions of the right shoulder. The
 <lb n="11231"/> right side of the head had been injured in the fall. The injuries
 <lb n="11232"/> were not sufficient to have caused death in a normal person.
 <lb n="11233"/> Death, in his opinion, had been probably due to shock and
 <lb n="11234"/> sudden failure of the heart's action.</p>
-<lb n="11235"/> <p>Mr H. B. Patterson Finlay, on behalf of the railway com=
+  <lb n="11235"/> <p>Mr <persName xml:id="hb">H. B. Patterson Finlay</persName>, on behalf of the railway com=
 <lb n="11236"/> pany, expressed his deep regret at the accident. The company
 <lb n="11237"/> had always taken every precaution to prevent people crossing
 <lb n="11238"/> the lines except by the bridges, both by placing notices in every
@@ -242,27 +242,27 @@
 <lb n="11241"/> night from platform to platform and, in view of certain other
 <lb n="11242"/> circumstances of the case, he did not think the railway officials
 <lb n="11243"/> were to blame.</p>
-<lb n="11244"/> <p>Captain Sinico, of Leoville, Sydney Parade, husband of the
+  <lb n="11244"/> <p><persName xml:id="si">Captain Sinico</persName>, of Leoville, Sydney Parade, husband of the
 <lb n="11245"/> deceased, also gave evidence. He stated that the deceased was
 <lb n="11246"/> his wife. He was not in Dublin at the time of the accident as he
 <lb n="11247"/> had arrived only that morning from Rotterdam. They had been
 <lb n="11248"/> married for twenty-two years and had lived happily until about
 <lb n="11249"/> two years ago when his wife began to be rather intemperate in
 <lb n="11250"/> her habits.</p>
-<lb n="11251"/> <p>Miss Mary Sinico said that of late her mother had been in
+  <lb n="11251"/> <p><persName xml:id="ssi">Miss Mary Sinico</persName> said that of late her mother had been in
 <lb n="11252"/> the habit of going out at night to buy spirits. She, witness, had
 <lb n="11253"/> often tried to reason with her mother and had induced her to
 <lb n="11254"/> join a league. She was not at home until an hour after the
 <lb n="11255"/> accident.</p>
 <lb n="11256"/> <p>The jury returned a verdict in accordance with the medical
-<lb n="11257"/> evidence and exonerated Lennon from all blame.</p>
-<lb n="11258"/> <p>The Deputy Coroner said it was a most painful case and
-<lb n="11259"/> expressed great sympathy with Captain Sinico and his daugh=
+  <lb n="11257"/> evidence and exonerated <persName xml:id="jl">Lennon</persName> from all blame.</p>
+  <lb n="11258"/> <p>The Deputy <persName xml:id="co">Coroner</persName> said it was a most painful case and
+  <lb n="11259"/> expressed great sympathy with <persName xml:id="si">Captain Sinico</persName> and his daugh=
 <lb n="11260"/> ter. He urged on the railway company to take strong measures
 <lb n="11261"/> to prevent the possibility of similar accidents in the future. No
 <lb n="11262"/> blame attached to anyone.</p>
 <lb /> 
-<lb n="11263"/> <p>Mr Duffy raised his eyes from the paper and gazed out of his
+  <lb n="11263"/> <p><persName xml:id="jd">Mr Duffy</persName> raised his eyes from the paper and gazed out of his
 <lb n="11264"/> window on the cheerless evening landscape. The river lay quiet
 <lb n="11265"/> beside the empty distillery and from time to time a light
 <lb n="11266"/> appeared in some house on the Lucan road. What an end! The
@@ -295,7 +295,7 @@
 <lb n="11293"/> discussing the value of a gentleman's estate in county Kildare.
 <lb n="11294"/> They drank at intervals from their huge pint tumblers and
 <lb n="11295"/> smoked, spitting often on the floor and sometimes dragging the
-<lb n="11296"/> sawdust over their spits with their heavy boots. Mr Duffy sat
+<lb n="11296"/> sawdust over their spits with their heavy boots. <persName xml:id="jd">Mr Duffy</persName> sat
 <lb n="11297"/> on his stool and gazed at them, without seeing or hearing them.
 <lb n="11298"/> After a while they went out and he called for another punch.
 <lb n="11299"/> He sat a long time over it. The shop was very quiet. The
