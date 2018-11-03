@@ -1,0 +1,210 @@
+persName			xml id	
+-----------------------------------------------------------		
+                                      The Sisters						
+Eliza Flynn/Miss Flynn			ef			
+Father Flynn/James Flynn/James		ff			
+Father O'Rourke				or			
+Jack(The narrator's uncle)		jk			
+Nannie Flynn				nf			
+Napoleon Bonaparte	                nb			
+Old Cotter				oc
+------------------------------------------------------------			
+                                     An Encounter						
+Mahony/Murphy		                mh			
+Mrs Dillon		                md			
+Lord Lytton		                ll			
+Mr Ryan			                mr			
+Smith			                sm			
+Sir Walter Scott		        ws			
+Thomas Moore		                tm			
+Father Butler/Bunsen Burner	        fb			
+Joe Dillon			        jd			
+Leo Dillon		                ld
+-------------------------------------------------------------			
+                                     Araby						
+Mangan			                mg			
+Mrs Mercer		                mc			
+Walter Scott		                ws
+--------------------------------------------------------------			
+                                     Eveline						
+Ernest			                er			
+Eveline			                ev			
+Frank			                fr			
+Harry			                ha			
+Keogh			                ke			
+Miss Gavan	                        msg			
+Miss Hill                               msh			
+Tizzie Dunn		                td	
+--------------------------------------------------------------		
+                                After the Race						
+Andr¨¦ Rivi¨¨re			ar			
+Charles S¨¦gouin		cs			
+Farley				fa			
+Jimmy Doyle			jd			
+Routh				ro			
+Villona				vi
+--------------------------------------------------------------			
+                                Two gallants						
+Corley				cy			
+Lenehan				le			
+Mac				mc	
+--------------------------------------------------------------		
+                               The boarding house						
+Bantam Lyons			bl			
+Jack Mooney			jm			
+Mary				ma			
+Mr.Leonard			ml			
+Mr.Meade			me			
+Mr.Mooney			mmy			
+Mr.Sheridan			ms			
+Polly Mooney			pm			
+Mr.Doran			dr			
+Mrs.Mooney			my
+-------------------------------------------------------------			
+                                 A little cloud						
+ Annie				ae			
+ Hogan				hg			
+ Ignatius Gallaher		ig			
+ Little Chandler/Tommy		lc			
+ Monica				mo			
+ O'Hara				oh
+--------------------------------------------------------------			
+		Counterparts						
+Ada				ad			
+Bodley				bo			
+Charlie				ch			
+Farrington			fn			
+Higgins				hs			
+Kirwan				ki			
+Leonard				ld			
+Miss Delacour			md			
+Miss Parker			mp			
+Mr Alleyne			ma			
+Mr Crosbie			mc			
+Mr Shelley			msh			
+Nosey Flynn			nf			
+O'Halloran			on			
+Pat				pt			
+Peake				pe			
+Terry Kelly			tk			
+Tim				tm			
+Tom				tom			
+Weathers			we
+---------------------------------------------------------------			
+                               	Clay						
+Alphy Donnelly			ad			
+Ginger Mooney			gm			
+Joe Donnelly			jd			
+Lizzie Fleming			lf			
+Maria				mar			
+Mrs Donnelly			msd	
+----------------------------------------------------------------		
+                            	A painful case						
+Captain Sinico			si			
+Coroner				co			
+Croly				cy			
+Dr Halpin			hn			
+James Lennon			jl			
+Miss Mary Sinico		ssi			
+Mr H.B. Patterson Finlay	hb			
+Mr Leverett			le			
+Mr.Duffy/ James Duffy		jd			
+Mrs.Sinico			msi			
+P.Dunne				pd	
+-----------------------------------------------------------------		
+                        Ivy Day in the Committe Room						
+Bantam				ba			
+Colgan				cl			
+Crofton				cr			
+Father Burke			fb			
+Father Keon			fk			
+Keegan/Pat			ke			
+Larry Hynes			lh			
+Mr Fanning			fa			
+Mr Henchy/John			hn			
+Mr Hynes/Joe/Joe Hynes		hy			
+Mr Lyons			ly			
+Mr O'Connor/Mat			moc			
+Mr Tierney			ti			
+Mrs Lyons			msly			
+O'Farrell			fr			
+Old Jack			oj			
+Parnell				pl			
+Wilkins				wi
+------------------------------------------------------------------			
+                                  A mother						
+Kathleen Kearney		ka			
+Madam Glynn			mg			
+Miss Beirne			be			
+Miss Devin			de			
+Miss Healy			hy			
+Mr Bell				bl			
+Mr Duggan			dg			
+Mr Fitzpatrick			fz			
+Mr Hendrick			hd			
+Mr Holohan			ho			
+Mr Kearney			mke			
+Mr Meade			md			
+Mr O'Madden Burke		mb			
+Mrs Kearney			ke			
+Mrs Pat Campbell		pc
+------------------------------------------------------------------			
+                                     Grace						
+Crofton				cf			
+Dan Hogan			dh			
+Dowling				dl			
+Edmund Dwyer Gray		dg			
+Father Purdon			fp			
+Father Tom Burke		ftb			
+Harford				hf			
+Jack Power/Mr Power		jp			
+John Gray			jg			
+John MacHale			jm			
+Martin/Mr Cunningham		mc			
+Michael Grimes			mg			
+Mr Fanning			mf			
+Mr Fogarty			fg			
+Mr Goldberg			gb			
+Mr Hendrick			hn			
+Mr M'Coy			mco			
+Mrs Kernan			mk			
+Mrs M'Coy			mmco			
+O'Carroll			oc			
+Tom Kernan/Mr Kernan/Tom	tk
+------------------------------------------------------------------			
+                                 	The Dead						
+Bessie				bs			
+Constantine			ct			
+Ellen				el			
+Father Healy			fh			
+Freddy Malins			fm			
+Gabriel Conroy			gc			
+Gretta / Mrs Conroy		gt			
+Kathleen Kearney		kk			
+Lily				ll			
+Mary Grimes			mg			
+Mary Jane			mj			
+Michael Furey			mf			
+Miss Daly			dl			
+Miss Furlong			fr			
+Miss Higgins			hg			
+Miss Ivors / Molly Ivors	iv			
+Miss Julia Morkan		jl			
+Miss Kate Morkan		kt			
+Miss O'Callaghan		ocl			
+Miss Power			pw			
+Mr Bartell D'Arcy		bda			
+Mr Bergin			bg			
+Mr Browne			bw			
+Mr Clancy			cl			
+Mr Fullam			fl			
+Mr Kerrigan			kg			
+Mr Kilkelly			ki			
+Mrs Cassidy			ca			
+Mrs Malins			mn			
+Parkinson			pk			
+Pat 				pt			
+Patrick Morkan			pm			
+Robert Browning			rb			
+T J Conroy			tjc			
+Teddy				ty			
