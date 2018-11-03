@@ -1,13 +1,13 @@
 persName			xml id	
 -----------------------------------------------------------		
                                       The Sisters						
-Eliza Flynn/Miss Flynn		ef			
-Father Flynn/James Flynn/James	ff			
-Father O'Rourke			or			
+Eliza Flynn/Miss Flynn			ef			
+Father Flynn/James Flynn/James		ff			
+Father O'Rourke				or			
 Jack(The narrator's uncle)		jk			
-Nannie Flynn			nf			
+Nannie Flynn				nf			
 Napoleon Bonaparte	                nb			
-Old Cotter			oc
+Old Cotter				oc
 ------------------------------------------------------------			
                                      An Encounter						
 Mahony/Murphy		                mh			
@@ -15,10 +15,10 @@ Mrs Dillon		                md
 Lord Lytton		                ll			
 Mr Ryan			                mr			
 Smith			                sm			
-Sir Walter Scott		                ws			
+Sir Walter Scott		        ws			
 Thomas Moore		                tm			
-Father Butler/Bunsen Burner	                fb			
-Joe Dillon			                jd			
+Father Butler/Bunsen Burner	        fb			
+Joe Dillon			        jd			
 Leo Dillon		                ld
 -------------------------------------------------------------			
                                      Araby						
@@ -32,13 +32,13 @@ Eveline			                ev
 Frank			                fr			
 Harry			                ha			
 Keogh			                ke			
-Miss Gavan	                                 msg			
-Miss Hill                                                    msh			
+Miss Gavan	                        msg			
+Miss Hill                               msh			
 Tizzie Dunn		                td	
 --------------------------------------------------------------		
                                 After the Race						
-Andr¨¦ Rivi¨¨re			ar			
-Charles S¨¦gouin			cs			
+AndrÂ¨Â¦ RiviÂ¨Â¨re			ar			
+Charles SÂ¨Â¦gouin			cs			
 Farley				fa			
 Jimmy Doyle			jd			
 Routh				ro			
