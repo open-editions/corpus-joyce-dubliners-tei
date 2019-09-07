@@ -14,7 +14,7 @@
 <lb n="02013"/> He looked like some kind of an Indian when he capered round
 <lb n="02014"/> the garden, an old teacosy on his head, beating a tin with his
 <lb n="02015"/> fist and yelling:
-<lb n="02016"/> <said who="">―</said>Ya! Yaka, yaka, yaka!</p>
+<lb n="02016"/> <said who="Joe Dillon">―Ya! Yaka, yaka, yaka!</said></p>
 <lb n="02017"/> <p>Everyone was incredulous when it was reported that he had
 <lb n="02018"/> a vocation for the priesthood. Nevertheless it was true.</p>
 <lb n="02019"/> <p>A spirit of unruliness diffused itself among us and, under its
@@ -32,20 +32,20 @@
   <lb n="02031"/> when <persName xml:id="fb">Father Butler</persName> was hearing the four pages of Roman
   <lb n="02032"/> history clumsy <persName xml:id="ld">Leo Dillon</persName> was discovered with a copy of <emph>The
 <lb n="02033"/> Halfpenny Marvel.</emph>
-<lb n="02034"/> <said who="">―</said>This page or this page? This page? Now, <persName xml:id="ld">Dillon</persName>, up! <emph>Hardly
+<lb n="02034"/> <said who="Father Butler">―This page or this page? This page? Now, <persName xml:id="ld">Dillon</persName>, up! <emph>Hardly
 <lb n="02035"/> had the day</emph> .... Go on! What day? <emph>Hardly had the day dawned</emph>
-<lb n="02036"/> ..... Have you studied it? What have you there in your pocket?</p>
+<lb n="02036"/> ..... Have you studied it? What have you there in your pocket?</said></p>
   <lb n="02037"/> <p>Everyone's heart palpitated as <persName xml:id="ld">Leo Dillon</persName> handed up the
 <lb n="02038"/> paper and everyone assumed an innocent face. <persName xml:id="fb">Father Butler</persName>
 <lb n="02039"/> turned over the pages, frowning.
-<lb n="02040"/> <said who="">―</said>What is this rubbish? he said. <emph>The Apache Chief!</emph> Is this
+<lb n="02040"/> <said who="Father Butler">―What is this rubbish?</said> he said. <said who="Father Butler"><emph>The Apache Chief!</emph> Is this
 <lb n="02041"/> what you read instead of studying your Roman history? Let me
 <lb n="02042"/> not find any more of this wretched stuff in this college. The
 <lb n="02043"/> man who wrote it, I suppose, was some wretched scribbler that
 <lb n="02044"/> writes these things for a drink. I'm surprised at boys like you,
 <lb n="02045"/> educated, reading such stuff. I could understand it if you
   <lb n="02046"/> were ..... national school boys. Now, <persName xml:id="ld">Dillon</persName>, I advise you
-<lb n="02047"/> strongly, get at your work or .....</p>
+  <lb n="02047"/> strongly, get at your work or .....</said></p>
 <lb n="02048"/> <p>This rebuke during the sober hours of school paled much of
 <lb n="02049"/> the glory of the wild west for me and the confused puffy face of
   <lb n="02050"/> <persName xml:id="ld">Leo Dillon</persName> awakened one of my consciences. But when the
@@ -74,7 +74,7 @@
 <lb n="02073"/> my own sixpence. When we were making the last arrangements
 <lb n="02074"/> on the eve we were all vaguely excited. We shook hands,
   <lb n="02075"/> laughing, and <persName xml:id="mh">Mahony</persName> said:
-<lb n="02076"/> <said who="">―</said>Till tomorrow, mates!</p>
+<lb n="02076"/> <said who="Mahony">―Till tomorrow, mates!</said></p>
 <lb n="02077"/> <p>That night I slept badly. In the morning I was firstcomer to
 <lb n="02078"/> the bridge as I lived nearest. I hid my books in the long grass
 <lb n="02079"/> near the ashpit at the end of the garden where nobody ever
@@ -98,9 +98,9 @@
   <lb n="02097"/> used slang freely and spoke of <persName xml:id="fb">Father Butler</persName> as <persName xml:id="fb">Bunsen Burner</persName>.
 <lb n="02098"/> We waited on for a quarter of an hour more but still there was
   <lb n="02099"/> no sign of <persName xml:id="ld">Leo Dillon</persName>. <persName xml:id="mh">Mahony</persName>, at last, jumped down and said:
-  <lb n="02100"/> <said who="">―</said>Come along. I knew Fatty'd funk it.
-<lb n="02101"/> <said who="">―</said>And his sixpence ... ? I said.
-  <lb n="02102"/> <said who="">―</said>That's forfeit, said <persName xml:id="mh">Mahony</persName>. And so much the better for us
+  <lb n="02100"/> <said who="Mahony">―Come along. I knew Fatty'd funk it.</said>
+  <lb n="02101"/> <said who="I">―And his sixpence ... ? </said>I said.
+  <lb n="02102"/> <said who="Mahony">―That's forfeit</said>, said <persName xml:id="mh">Mahony</persName>. And so much the better for us
 <lb n="02103"/> - a bob and a tanner instead of a bob.</p>
 <lb n="02104"/> <p>We walked along the North Strand Road till we came to the
 <lb n="02105"/> vitriol works and then turned to the right along the Wharf
@@ -148,7 +148,7 @@
 <lb n="02147"/> whose eyes could have been called green was a tall man who
 <lb n="02148"/> amused the crowd on the quay by calling out cheerfully every
 <lb n="02149"/> time the planks fell:
-<lb n="02150"/> <said who="">―</said>All right! All right!</p>
+<lb n="02150"/> <said who="sailor">―All right! All right!</said></p>
 <lb n="02151"/> <p>When we were tired of this sight we wandered slowly into
 <lb n="02152"/> Ringsend. The day had grown sultry and in the windows of the
 <lb n="02153"/> grocers' shops musty biscuits lay bleaching. We bought some
@@ -196,13 +196,13 @@
   <lb n="02195"/> poetry of <persName xml:id="tm">Thomas Moore</persName> or the works of <persName xml:id="ws">Sir Walter Scott</persName> and
   <lb n="02196"/> <persName xml:id="ll">Lord Lytton</persName>. I pretended that I had read every book he
 <lb n="02197"/> mentioned so that in the end he said:
-<lb n="02198"/> <said who="">―</said>Ah, I can see you are a bookworm like myself. Now, he
+<lb n="02198"/> <said who="the old man">―Ah, I can see you are a bookworm like myself. Now, he
   <lb n="02199"/> added, pointing to <persName xml:id="mh">Mahony</persName> who was regarding us with open
-<lb n="02200"/> eyes, he is different. He goes in for games.</p>
+<lb n="02200"/> eyes, he is different. He goes in for games.</said></p>
   <lb n="02201"/> <p>He said he had all <persName xml:id="ws">Sir Walter Scott</persName>'s works and all <persName xml:id="ll">Lord
-  <lb n="02202"/> Lytton</persName>'s works at home and never tired of reading them. Of
+  <lb n="02202"/> Lytton</persName>'s works at home and never tired of reading them. <said who="the old man">Of
   <lb n="02203"/> course, he said, there were some of <persName xml:id="ll">Lord Lytton</persName>'s works which
-  <lb n="02204"/> boys couldn't read. <persName xml:id="mh">Mahony</persName> asked why couldn't boys read
+  <lb n="02204"/> boys couldn't read.</said> <persName xml:id="mh">Mahony</persName> asked why couldn't boys read
 <lb n="02205"/> them - a question which agitated and pained me because I was
 <lb n="02206"/> afraid the man would think I was as stupid as <persName xml:id="mh">Mahony</persName>. The
 <lb n="02207"/> man, however, only smiled. I saw that he had great gaps in his
@@ -211,11 +211,11 @@
 <lb n="02210"/> had three totties. The man asked me how many had I. I
 <lb n="02211"/> answered that I had none. He did not believe me and said he
 <lb n="02212"/> was sure I must have one. I was silent.
-  <lb n="02213"/> <said who="">―</said>Tell us, said <persName xml:id="mh">Mahony</persName> pertly to the man, how many have you
-<lb n="02214"/> yourself?</p>
+  <lb n="02213"/> <said who="Mahony">―Tell us, said <persName xml:id="mh">Mahony</persName> pertly to the man, how many have you
+<lb n="02214"/> yourself?</said></p>
 <lb n="02215"/> <p>The man smiled as before and said that when he was our age
-<lb n="02216"/> he had lots of sweethearts. Every boy, he said, has a little
-<lb n="02217"/> sweetheart.</p>
+<lb n="02216"/> he had lots of sweethearts. <said who="the old man">Every boy, he said, has a little
+  <lb n="02217"/> sweetheart.</said></p>
 <lb n="02218"/> <p>His attitude on this point struck me as strangely liberal in a
 <lb n="02219"/> man of his age. In my heart I thought that what he said about
 <lb n="02220"/> boys and sweethearts was reasonable. But I disliked the words
@@ -224,9 +224,9 @@
 <lb n="02223"/> noticed that his accent was good. He began to speak to us
 <lb n="02224"/> about girls, saying what nice soft hair they had and how soft
 <lb n="02225"/> their hands were and how all girls were not so good as they
-<lb n="02226"/> seemed to be if one only knew. There was nothing he liked, he
+<lb n="02226"/> seemed to be if one only knew. <said who="the old man">There was nothing he liked, he
 <lb n="02227"/> said, so much as looking at a nice young girl, at her nice white
-<lb n="02228"/> hands and her beautiful soft hair. He gave me the impression
+  <lb n="02228"/> hands and her beautiful soft hair.</said> He gave me the impression
 <lb n="02229"/> that he was repeating something which he had learned by heart
 <lb n="02230"/> or that, magnetised by some words of his own speech, his mind
 <lb n="02231"/> was slowly circling round and round in the same orbit. At
@@ -243,12 +243,12 @@
 <lb n="02242"/> him walking slowly away from us towards the near end of the
 <lb n="02243"/> field. We remained silent when he had gone. After a silence of a
   <lb n="02244"/> few minutes I heard <persName xml:id="mh">Mahony</persName> exclaim:
-<lb n="02245"/> <said who="">―</said>I say! Look what he's doing!</p>
+<lb n="02245"/> <said who="Mahony">―I say! Look what he's doing!</said></p>
   <lb n="02246"/> <p>As I neither answered nor raised my eyes <persName xml:id="mh">Mahony</persName> exclaimed
 <lb n="02247"/> again:
-<lb n="02248"/> <said who="">―</said>I say ..... He's a queer old josser!
-<lb n="02249"/> <said who="">―</said>In case he asks us for our names, I said, let you be <persName xml:id="mh">Murphy</persName>
-  <lb n="02250"/> and I'll be <persName xml:id="sm">Smith</persName>.</p>
+<lb n="02248"/> <said who="Mahony">―I say ..... He's a queer old josser!</said>
+<lb n="02249"/> <said who="I">―In case he asks us for our names, I said, let you be <persName xml:id="mh">Murphy</persName>
+  <lb n="02250"/> and I'll be <persName xml:id="sm">Smith</persName>.</said></p>
 <lb n="02251"/> <p>We said nothing further to each other. I was still considering
 <lb n="02252"/> whether I would go away or not when the man came back and
 <lb n="02253"/> sat down beside us again. Hardly had he sat down when <persName xml:id="mh">Ma=
@@ -293,7 +293,7 @@
 <lb n="02292"/> would seize me by the ankles. When I reached the top of the
 <lb n="02293"/> slope I turned round and, without looking at him, called loudly
 <lb n="02294"/> across the field:
-  <lb n="02295"/> <said who="">―</said><persName xml:id="mh">Murphy</persName>!</p>
+  <lb n="02295"/> <said who="I">―<persName xml:id="mh">Murphy</persName>!</said></p>
 <lb n="02296"/> <p>My voice had an accent of forced bravery in it and I was
 <lb n="02297"/> ashamed of my paltry stratagem. I had to call the name again
   <lb n="02298"/> before <persName xml:id="mh">Mahony</persName> saw me and hallooed in answer. How my heart
