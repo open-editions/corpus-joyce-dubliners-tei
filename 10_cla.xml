@@ -14,7 +14,7 @@
 <lb n="10013"/> She was always sent for when the women quarrelled over their
 <lb n="10014"/> tubs and always succeeded in making peace. One day the
 <lb n="10015"/> matron had said to her:
-  <lb n="10016"/> <said who="">―</said><persName xml:id="mar">Maria</persName>, you are a veritable peacemaker!</p>
+  <lb n="10016"/> <said who="matron">―<persName xml:id="mar">Maria</persName>, you are a veritable peacemaker!</said></p>
 <lb n="10017"/> <p>And the submatron and two of the board ladies had heard
   <lb n="10018"/> the compliment. And <persName xml:id="gm">Ginger Mooney</persName> was always saying what
 <lb n="10019"/> she wouldn't do to the dummy who had charge of the irons if it
@@ -37,7 +37,7 @@
 <lb n="10036"/> so nice with her) and she had become accustomed to the life of
   <lb n="10037"/> the laundry. <persName xml:id="jd">Joe</persName> was a good fellow. She had nursed him and
   <lb n="10038"/> <persName xml:id="ad">Alphy</persName> too; and <persName xml:id="jd">Joe</persName> used often to say:
-  <lb n="10039"/> <said who="">―</said>Mamma is mamma but <persName xml:id="mar">Maria</persName> is my proper mother.</p>
+  <lb n="10039"/> <said who="Joe Donnelly">―Mamma is mamma but <persName xml:id="mar">Maria</persName> is my proper mother.</said></p>
 <lb n="10040"/> <p>After the breakup at home the boys had got her that position
 <lb n="10041"/> in the <emph>Dublin by Lamplight</emph> laundry and she liked it. She used
 <lb n="10042"/> to have such a bad opinion of protestants but now she thought
@@ -113,7 +113,7 @@
 <lb n="10112"/> blush and smile at the young lady but the young lady took it all
 <lb n="10113"/> very seriously and finally cut a thick slice of plumcake, par=
 <lb n="10114"/> celled it up and said:
-<lb n="10115"/> <said who="">―</said>Two and four, please.</p>
+<lb n="10115"/> <said who="young lady">―Two and four, please.</said></p>
 <lb n="10116"/> <p>She thought she would have to stand in the Drumcondra
 <lb n="10117"/> tram because none of the young men seemed to notice her but
 <lb n="10118"/> an elderly gentleman made room for her. He was a stout
@@ -139,7 +139,7 @@
   <lb n="10138"/> the bag of cakes to the eldest boy, <persName xml:id="ad">Alphy</persName>, to divide and <persName xml:id="msd">Mrs
   <lb n="10139"/> Donnelly</persName> said it was too good of her to bring such a big bag of
 <lb n="10140"/> cakes and made all the children say:
-  <lb n="10141"/> <said who="">―</said>Thanks, <persName xml:id="mar">Maria</persName>.</p>
+  <lb n="10141"/> <said who="Donnelly children">―Thanks, <persName xml:id="mar">Maria</persName>.</said></p>
   <lb n="10142"/> <p>But <persName xml:id="mar">Maria</persName> said she had brought something special for papa
 <lb n="10143"/> and mamma, something they would be sure to like, and she
 <lb n="10144"/> began to look for her plumcake. She tried in Downes's bag and
