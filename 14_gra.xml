@@ -13,11 +13,11 @@
 <lb n="14012"/> of the bar asked everyone who he was and who was with him.
 <lb n="14013"/> No-one knew who he was but one of the curates said he had
 <lb n="14014"/> served the gentleman with a small rum.
-<lb n="14015"/> <said who="">―</said>Was he by himself? asked the manager.
-<lb n="14016"/> <said who="">―</said>No, sir. There was two gentlemen with him.
-<lb n="14017"/> <said who="">―</said>And where are they?</p>
+<lb n="14015"/> <said who="manager">―Was he by himself? asked the manager.</said>
+<lb n="14016"/> <said who="curate">―No, sir. There was two gentlemen with him.</said>
+<lb n="14017"/> <said who="manager">―And where are they?</said></p>
 <lb n="14018"/> <p>No-one knew; a voice said:
-<lb n="14019"/> <said who="">―</said>Give him air. He's fainted.</p>
+<lb n="14019"/> <said who="someone">―Give him air. He's fainted.</said></p>
 <lb n="14020"/> <p>The ring of onlookers distended and closed again elastically.
 <lb n="14021"/> A dark medal of blood had formed itself near the man's head
 <lb n="14022"/> on the tessellated floor. The manager, alarmed by the grey
@@ -39,7 +39,7 @@
 <lb n="14038"/> a small book from his waist, licked the lead of his pencil and
 <lb n="14039"/> made ready to indite. He asked in a suspicious provincial
 <lb n="14040"/> accent:
-<lb n="14041"/> <said who="">―</said>Who is the man? What's his name and address?</p>
+<lb n="14041"/> <said who="constable">―Who is the man? What's his name and address?</said></p>
 <lb n="14042"/> <p>A young man in a cycling suit cleared his way through the
 <lb n="14043"/> ring of bystanders. He knelt down promptly beside the injured
 <lb n="14044"/> man and called for water. The constable knelt down also to
@@ -50,39 +50,39 @@
 <lb n="14049"/> throat. In a few seconds he opened his eyes and looked about
 <lb n="14050"/> him. He looked at the circle of faces and then, understanding,
 <lb n="14051"/> strove to rise to his feet.
-<lb n="14052"/> <said who="">―</said>You're all right now? asked the young man in the cycling
+<lb n="14052"/> <said who="young man">―You're all right now? </said>asked the young man in the cycling
 <lb n="14053"/> suit.
-<lb n="14054"/> <said who="">―</said>'Sha,'s nothing, said the injured man, trying to stand up.</p>
+<lb n="14054"/> <said who="Tom Kernan">―'Sha,'s nothing, said the injured man, </said>trying to stand up.</p>
 <lb n="14055"/> <p>He was helped to his feet. The manager said something
 <lb n="14056"/> about a hospital and some of the bystanders gave advice. The
 <lb n="14057"/> battered silk hat was placed on the man's head. The constable
 <lb n="14058"/> asked:
-<lb n="14059"/> <said who="">―</said>Where do you live?</p>
+<lb n="14059"/> <said who="constable">―Where do you live?</said></p>
 <lb n="14060"/> <p>The man, without answering, began to twirl the ends of his
 <lb n="14061"/> moustache. He made light of his accident. It was nothing, he
 <lb n="14062"/> said: only a little accident. He spoke very thickly.
-<lb n="14063"/> <said who="">―</said>Where do you live? repeated the constable.</p>
+<lb n="14063"/> <said who="constable">―Where do you live? repeated the constable.</said></p>
 <lb n="14064"/> <p>The man said they were to get a cab for him. While the point
 <lb n="14065"/> was being debated a tall agile gentleman of fair complexion,
 <lb n="14066"/> wearing a long yellow ulster, came from the far end of the bar.
 <lb n="14067"/> Seeing the spectacle he called out:
-  <lb n="14068"/> <said who="">―</said>Hallo, <persName xml:id="tk">Tom</persName>, old man! What's the trouble?
-<lb n="14069"/> <said who="">―</said>'Sha,'s nothing, said the man.</p>
+  <lb n="14068"/> <said who="Jack Power">―Hallo, <persName xml:id="tk">Tom</persName>, old man! What's the trouble?</said>
+<lb n="14069"/> <said who="Tom Kernan">―'Sha,'s nothing, </said>said the man.</p>
 <lb n="14070"/> <p>The newcomer surveyed the deplorable figure before him
 <lb n="14071"/> and then turned to the constable, saying:
-<lb n="14072"/> <said who="">―</said>It's all right, constable. I'll see him home.</p>
+<lb n="14072"/> <said who="Jack Power">―It's all right, constable. I'll see him home.</said></p>
 <lb n="14073"/> <p>The constable touched his helmet and answered:
-  <lb n="14074"/> <said who="">―</said>All right, <persName xml:id="jp">Mr Power</persName>!
-  <lb n="14075"/> <said who="">―</said>Come now, <persName xml:id="tk">Tom</persName>, said <persName xml:id="jp">Mr Power</persName>, taking his friend by the
-<lb n="14076"/> arm. No bones broken. What? Can you walk?</p>
+  <lb n="14074"/> <said who="constable">―All right, <persName xml:id="jp">Mr Power</persName>!</said>
+  <lb n="14075"/> <said who="Jack Power">―Come now, <persName xml:id="tk">Tom</persName>, said <persName xml:id="jp">Mr Power</persName>, taking his friend by the
+<lb n="14076"/> arm. No bones broken. What? Can you walk?</said></p>
 <lb n="14077"/> <p>The young man in the cycling suit took the man by the other
 <lb n="14078"/> arm and the crowd divided.
-<lb n="14079"/> <said who="">―</said>How did you get yourself into this mess? asked <persName xml:id="jp">Mr Power</persName>.
-<lb n="14080"/> <said who="">―</said>The gentleman fell down the stairs, said the young man.
-<lb n="14081"/> <said who="">―</said>I' 'ery 'uch o'liged to you, sir, said the injured man.
-<lb n="14082"/> <said who="">―</said>Not at all.
-<lb n="14083"/> <said who="">―</said>'an't we have a little .... ?
-<lb n="14084"/> <said who="">―</said>Not now. Not now.</p>
+<lb n="14079"/> <said who="Jack Power">―How did you get yourself into this mess? </said>asked <persName xml:id="jp">Mr Power</persName>.
+<lb n="14080"/> <said who="young man">―The gentleman fell down the stairs, </said>said the young man.
+<lb n="14081"/> <said who="Tom Kernan">―I' 'ery 'uch o'liged to you, sir, </said>said the injured man.
+<lb n="14082"/> <said who="Jack Power">―Not at all.</said>
+<lb n="14083"/> <said who="Tom Kernan">―'an't we have a little .... ?</said>
+<lb n="14084"/> <said who="Jack Power">―Not now. Not now.</said></p>
 <lb n="14085"/> <p>The three men left the bar and the crowd sifted through the
 <lb n="14086"/> doors into the laneway. The manager brought the constable to
 <lb n="14087"/> the stairs to inspect the scene of the accident. They agreed that
@@ -91,22 +91,22 @@
 <lb n="14090"/> traces of blood from the floor.</p>
   <lb n="14091"/> <p>When they came out into Grafton Street <persName xml:id="jp">Mr Power</persName> whistled
 <lb n="14092"/> for an outsider. The injured man said again as well as he could:
-<lb n="14093"/> <said who="">―</said>I' 'ery 'uch o'liged to you, sir. I hope we'll 'eet again. 'y na'e
-  <lb n="14094"/> is <persName xml:id="tk">Kernan</persName>.</p>
+<lb n="14093"/> <said who="Tom Kernan">―I' 'ery 'uch o'liged to you, sir. I hope we'll 'eet again. 'y na'e
+  <lb n="14094"/> is <persName xml:id="tk">Kernan</persName>.</said></p>
 <lb n="14095"/> <p>The shock and the incipient pain had partly sobered him.
-<lb n="14096"/> <said who="">―</said>Don't mention it, said the young man.</p>
+<lb n="14096"/> <said who="young man">―Don't mention it, said the young man.</said></p>
   <lb n="14097"/> <p>They shook hands. <persName xml:id="tk">Mr Kernan</persName> was hoisted on to the car
   <lb n="14098"/> and, while <persName xml:id="jp">Mr Power</persName> was giving directions to the carman, he
 <lb n="14099"/> expressed his gratitude to the young man and regretted that
 <lb n="14100"/> they could not have a little drink together.
-<lb n="14101"/> <said who="">―</said>Another time, said the young man.</p>
+<lb n="14101"/> <said who="young man">―Another time, said the young man.</said></p>
 <lb n="14102"/> <p>The car drove off towards Westmoreland Street. As it passed
 <lb n="14103"/> the Ballast office the clock showed half past nine. A keen east
 <lb n="14104"/> wind hit them blowing from the mouth of the river. <persName xml:id="tk">Mr Kernan</persName>
 <lb n="14105"/> was huddled together with cold. His friend asked him to tell
 <lb n="14106"/> how the accident had happened.
-<lb n="14107"/> <said who="">―</said>I 'an't,'an, he answered. 'y 'ongue is hurt.
-<lb n="14108"/> <said who="">―</said>Show.</p>
+<lb n="14107"/> <said who="Tom Kernan">―I 'an't,'an, he answered. 'y 'ongue is hurt.</said>
+<lb n="14108"/> <said who="Jack Power">―Show.</said></p>
 <lb n="14109"/> <p>The other leaned over the well of the car and peered into <persName xml:id="tk">Mr
   <lb n="14110"/> Kernan</persName>'s mouth but he could not see. He struck a match and,
 <lb n="14111"/> sheltering it in the shell of his hands, peered again into the
@@ -115,8 +115,8 @@
 <lb n="14114"/> mouth. The lower teeth and gums were covered with clotted
 <lb n="14115"/> blood and a minute piece of the tongue seemed to have been
 <lb n="14116"/> bitten off. The match was blown out.
-  <lb n="14117"/> <said who="">―</said>That's ugly, said <persName xml:id="jp">Mr Power</persName>.
-<lb n="14118"/> <said who="">―</said>'Sha,'s nothing, said <persName xml:id="tk">Mr Kernan</persName>, closing his mouth and
+  <lb n="14117"/> <said who="Jack Power">―That's ugly, </said>said <persName xml:id="jp">Mr Power</persName>.
+<lb n="14118"/> <said who="Tom Kernan">―'Sha,'s nothing, </said>said <persName xml:id="tk">Mr Kernan</persName>, closing his mouth and
 <lb n="14119"/> pulling the collar of his filthy frock coat across his neck.</p>
   <lb n="14120"/> <p><persName xml:id="tk">Mr Kernan</persName> was a commercial traveler of the old school
 <lb n="14121"/> which believed in the dignity of its calling. He had never been
@@ -151,36 +151,36 @@
 <lb n="14150"/> play with him. He was surprised at their manners and at their
 <lb n="14151"/> accents and his brow grew thoughtful. After a while <persName xml:id="mk">Mrs
   <lb n="14152"/> Kernan</persName> entered the kitchen, exclaiming:
-<lb n="14153"/> <said who="">―</said>Such a sight! O, he'll do for himself one day and that's the
-<lb n="14154"/> holy alls of it. He's been drinking since Friday.</p>
+<lb n="14153"/> <said who="Mrs Kernan">―Such a sight! O, he'll do for himself one day and that's the
+<lb n="14154"/> holy alls of it. He's been drinking since Friday.</said></p>
   <lb n="14155"/> <p><persName xml:id="jp">Mr Power</persName> was careful to explain to her that he was not
 <lb n="14156"/> responsible, that he had come on the scene by the merest
   <lb n="14157"/> accident. <persName xml:id="mk">Mrs Kernan</persName>, remembering <persName xml:id="jp">Mr Power</persName>'s good offices
 <lb n="14158"/> during domestic quarrels as well as many small but opportune
 <lb n="14159"/> loans, said:
-<lb n="14160"/> <said who="">―</said>O, you needn't tell me that, <persName xml:id="jp">Mr Power</persName>. I know you're a
+<lb n="14160"/> <said who="Mrs Kernan">―O, you needn't tell me that, <persName xml:id="jp">Mr Power</persName>. I know you're a
 <lb n="14161"/> friend of his, not like some of those others he does be with.
 <lb n="14162"/> They're all right so long as he has money in his pocket to keep
 <lb n="14163"/> him out from his wife and family. Nice friends! Who was he
-<lb n="14164"/> with tonight, I'd like to know?</p>
+<lb n="14164"/> with tonight, I'd like to know?</said></p>
   <lb n="14165"/> <p><persName xml:id="jp">Mr Power</persName> shook his head but said nothing.
-<lb n="14166"/> <said who="">―</said>I'm so sorry, she continued, that I've nothing in the house to
+<lb n="14166"/> <said who="Mrs Kernan">―I'm so sorry, she continued, that I've nothing in the house to
 <lb n="14167"/> offer you. But if you wait a minute I'll send round to Fogarty's
-<lb n="14168"/> at the corner.</p>
+<lb n="14168"/> at the corner.</said></p>
   <lb n="14169"/> <p><persName xml:id="jp">Mr Power</persName> stood up.
-<lb n="14170"/> <said who="">―</said>We were waiting for him to come home with the money. He
-<lb n="14171"/> never seems to think he has a home at all.
-  <lb n="14172"/> <said who="">―</said>O now, <persName xml:id="mk">Mrs Kernan</persName>, said Mr Power, we'll make him turn
+<lb n="14170"/> <said who="Jack Power">―We were waiting for him to come home with the money. He
+<lb n="14171"/> never seems to think he has a home at all.</said>
+  <lb n="14172"/> <said who="Jack Power">―O now, <persName xml:id="mk">Mrs Kernan</persName>, said Mr Power, we'll make him turn
   <lb n="14173"/> over a new leaf. I'll talk to <persName xml:id="mc">Martin</persName>. He's the man. We'll come
-<lb n="14174"/> here one of these nights and talk it over.</p>
+<lb n="14174"/> here one of these nights and talk it over.</said></p>
 <lb n="14175"/> <p>She saw him to the door. The carman was stamping up and
 <lb n="14176"/> down the footpath and swinging his arms to warm himself.
-<lb n="14177"/> <said who="">―</said>It's very kind of you to bring him home, she said.
-  <lb n="14178"/> <said who="">―</said>Not at all, said <persName xml:id="jp">Mr Power</persName>.</p>
+<lb n="14177"/> <said who="Mrs Kernan">―It's very kind of you to bring him home, </said>she said.
+  <lb n="14178"/> <said who="Jack Power">―Not at all, </said>said <persName xml:id="jp">Mr Power</persName>.</p>
 <lb n="14179"/> <p>He got up on the car. As it drove off he raised his hat to her
 <lb n="14180"/> gaily.
-<lb n="14181"/> <said who="">―</said>We'll make a new man of him, he said. Goodnight, <persName xml:id="mk">Mrs
-  <lb n="14182"/> Kernan</persName>.</p>
+<lb n="14181"/> <said who="Jack Power">―We'll make a new man of him, he said. Goodnight, <persName xml:id="mk">Mrs
+  <lb n="14182"/> Kernan</persName>.</said></p>
 <lb />   *  *  *
   <lb n="14183"/> <p><persName xml:id="mk">Mrs Kernan</persName>'s puzzled eyes watched the car till it was out of
 <lb n="14184"/> sight. Then she withdrew them, went into the house and
@@ -245,7 +245,7 @@
 <lb n="14243"/> considered that his face was like Shakespeare's.</p>
 <lb n="14244"/> <p>When the plot had been disclosed to her <persName xml:id="mk">Mrs Kernan</persName> had
 <lb n="14245"/> said:
-<lb n="14246"/> <said who="">―</said>I leave it all in your hands, <persName xml:id="mc">Mr Cunningham</persName>.</p>
+<lb n="14246"/> <said who="Mrs Kernan"leave it all in your hands, <persName xml:id="mc">Mr Cunningham</persName>.</p>
 <lb n="14247"/> <p>After a quarter of a century of married life she had very few
 <lb n="14248"/> illusions left. Religion for her was a habit and she suspected
 <lb n="14249"/> that a man of her husband's age would not change greatly
