@@ -143,14 +143,14 @@
 <lb n="08141"/> look at him: and there, sure enough, was <persName xml:id="ig">Ignatius Gallaher</persName>
 <lb n="08142"/> leaning with his back against the counter and his feet planted
 <lb n="08143"/> far apart.
-    <lb n="08144"/> <said who="">―</said>Hello, <persName xml:id="lc">Tommy</persName>, old hero, here you are! What is it to be?
+    <lb n="08144"/> <said who="Ignatius Gallaher">―Hello, <persName xml:id="lc">Tommy</persName>, old hero, here you are! What is it to be?
 <lb n="08145"/> What will you have? I'm taking whisky: better stuff than we get
 <lb n="08146"/> across the water. Soda? Lithia? No mineral? I'm the same.
 <lb n="08147"/> Spoils the flavour. ... Here, <emph>garçon</emph>, bring us two halves of malt
 <lb n="08148"/> whisky like a good fellow. ... Well, and how have you been
 <lb n="08149"/> pulling along ever since I saw you last? Dear God, how old
 <lb n="08150"/> we're getting! Do you see any signs of aging in me - eh, what? A
-<lb n="08151"/> little grey and thin on the top - what?</p>
+<lb n="08151"/> little grey and thin on the top - what?</said></p>
     <lb n="08152"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> took off his hat and displayed a large
 <lb n="08153"/> closely cropped head. His face was heavy, pale and clean=
 <lb n="08154"/> shaven. His eyes, which were of bluish slate colour, relieved his
@@ -160,57 +160,57 @@
 <lb n="08158"/> with two sympathetic fingers the thin hair at the crown. <persName xml:id="lc">Little
     <lb n="08159"/> Chandler</persNae> shook his head as a denial. <persName xml:id="ig">Ignatius Gallaher</persName> put on
 <lb n="08160"/> his hat again.
-<lb n="08161"/> <said who="">―</said>It pulls you down, he said, press life. Always hurry and
+<lb n="08161"/> <said who="Ignatius Gallaher">―It pulls you down, he said, press life. Always hurry and
 <lb n="08162"/> scurry, looking for copy and sometimes not finding it: and then
 <lb n="08163"/> always to have something new in your stuff. Damn proofs and
 <lb n="08164"/> printers, I say, for a few days. I'm deuced glad, I can tell you, to
 <lb n="08165"/> get back to the old country. Does a fellow good, a bit of a
 <lb n="08166"/> holiday. I feel a ton better since I landed again in dear dirty
-    <lb n="08167"/> Dublin ... Here you are, <persName xml:id="lc">Tommy</persName>. Water? Say when.</p>
+    <lb n="08167"/> Dublin ... Here you are, <persName xml:id="lc">Tommy</persName>. Water? Say when.</said></p>
     <lb n="08168"/> <p><persName xml:id="lc">Little Chandler</persName> allowed his whisky to be very much diluted.
-<lb n="08169"/> <said who="">―</said>You don't know what's good for you, my boy, said <persName xml:id="ig">Ignatius
-    <lb n="08170"/> Gallaher</persName>. I drink mine neat.
-<lb n="08171"/> <said who="">―</said>I drink very little as a rule, said <persName xml:id="lc">Little Chandler</persName> modestly. An
-<lb n="08172"/> odd half one or so when I meet any of the old crowd: that's all.
-<lb n="08173"/> <said who="">―</said>Ah well, said <persName xml:id="ig">Ignatius Gallaher</persName> cheerfully, here's to us and
-<lb n="08174"/> to old times and old acquaintance.</p>
+<lb n="08169"/> <said who="Ignatius Gallaher">―You don't know what's good for you, my boy, said <persName xml:id="ig">Ignatius
+    <lb n="08170"/> Gallaher</persName>. I drink mine neat.</said>
+<lb n="08171"/> <said who="Little Chandler">―I drink very little as a rule, said <persName xml:id="lc">Little Chandler</persName> modestly. An
+<lb n="08172"/> odd half one or so when I meet any of the old crowd: that's all.</said>
+<lb n="08173"/> <said who="Ignatius Gallaher">―Ah well, said <persName xml:id="ig">Ignatius Gallaher</persName> cheerfully, here's to us and
+<lb n="08174"/> to old times and old acquaintance.</said></p>
 <lb n="08175"/> <p>They clinked glasses and drank the toast.
-<lb n="08176"/> <said who="">―</said>I met some of the old gang today, said <persName xml:id="ig">Ignatius Gallaher</persName>.
-    <lb n="08177"/> <persName xml:id="oh">O'Hara</persName> seems to be in a bad way. What's he doing?
-<lb n="08178"/> <said who="">―</said>Nothing, said <persName xml:id="lc">Little Chandler</persName>. He's gone to the dogs.
-    <lb n="08179"/> <said who="">―</said>But <persName xml:id="hg">Hogan</persName> has a good sit, hasn't he?
-<lb n="08180"/> <said who="">―</said>Yes; he's in the Land Commission.
-<lb n="08181"/> <said who="">―</said>I met him one night in London and he seemed to be very
-    <lb n="08182"/> flush. ... Poor <persName xml:id="oh">O'Hara</persName>! Boose, I suppose?
-<lb n="08183"/> <said who="">―</said>Other things, too, said <persName xml:id="lc">Little Chandler</persName> shortly.</p>
+<lb n="08176"/> <said who="Ignatius Gallaher">―I met some of the old gang today, said <persName xml:id="ig">Ignatius Gallaher</persName>.
+    <lb n="08177"/> <persName xml:id="oh">O'Hara</persName> seems to be in a bad way. What's he doing?</said>
+<lb n="08178"/> <said who="Little Chandler">―Nothing, said <persName xml:id="lc">Little Chandler</persName>. He's gone to the dogs.</said>
+    <lb n="08179"/> <said who="Ignatius Gallaher">―But <persName xml:id="hg">Hogan</persName> has a good sit, hasn't he?</said>
+<lb n="08180"/> <said who="Little Chandler">―Yes; he's in the Land Commission.</said>
+<lb n="08181"/> <said who="Ignatius Gallaher">―I met him one night in London and he seemed to be very
+    <lb n="08182"/> flush. ... Poor <persName xml:id="oh">O'Hara</persName>! Boose, I suppose?</said>
+<lb n="08183"/> <said who="Little Chandler">―Other things, too, said <persName xml:id="lc">Little Chandler</persName> shortly.</said></p>
     <lb n="08184"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> laughed.
-    <lb n="08185"/> <said who="">―</said><persName xml:id="lc">Tommy</persName>, he said, I see you haven't changed an atom. You're
+    <lb n="08185"/> <said who="Ignatius Gallaher">―<persName xml:id="lc">Tommy</persName>, he said, I see you haven't changed an atom. You're
 <lb n="08186"/> the very same serious person that used to lecture me on Sunday
 <lb n="08187"/> mornings when I had a sore head and a fur on my tongue.
 <lb n="08188"/> You'd want to knock about a bit in the world. Have you never
-<lb n="08189"/> been anywhere, even for a trip?
-<lb n="08190"/> <said who="">―</said>I've been to the Isle of Man, said <persName xml:id="lc">Little Chandler</persName>.</p>
+<lb n="08189"/> been anywhere, even for a trip?</said>
+<lb n="08190"/> <said who="Little Chandler">―I've been to the Isle of Man, said <persName xml:id="lc">Little Chandler</persName>.</said></p>
     <lb n="08191"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> laughed.
-<lb n="08192"/> <said who="">―</said>The Isle of Man! he said. Go to London or Paris: Paris, for
-<lb n="08193"/> choice. That'd do you good.
-<lb n="08194"/> <said who="">―</said>Have you seen Paris?
-<lb n="08195"/> <said who="">―</said>I should think I have! I've knocked about there a little.
-<lb n="08196"/> <said who="">―</said>And is it really so beautiful as they say? asked <persName xml:id="lc">Little
-    <lb n="08197"/> Chandler</persName>.</p>
+<lb n="08192"/> <said who="Ignatius Gallaher">―The Isle of Man! he said. Go to London or Paris: Paris, for
+<lb n="08193"/> choice. That'd do you good.</said>
+<lb n="08194"/> <said who="Little Chandler">―Have you seen Paris?</said>
+<lb n="08195"/> <said who="Ignatius Gallaher">―I should think I have! I've knocked about there a little.</said>
+<lb n="08196"/> <said who="Little Chandler">―And is it really so beautiful as they say? asked <persName xml:id="lc">Little
+    <lb n="08197"/> Chandler</persName>.</said></p>
 <lb n="08198"/> <p>He sipped a little of his drink while <persName xml:id="ig">Ignatius Gallaher</persName>
 <lb n="08199"/> finished his boldly.
-<lb n="08200"/> <said who="">―</said>Beautiful? said <persName xml:id="ig">Ignatius Gallaher</persName>, pausing on the word and
+<lb n="08200"/> <said who="Ignatius Gallaher">―Beautiful? said <persName xml:id="ig">Ignatius Gallaher</persName>, pausing on the word and
 <lb n="08201"/> on the flavour of his drink. It's not so beautiful, you know. Of
 <lb n="08202"/> course, it is beautiful. ... But it's the life of Paris: that's the
 <lb n="08203"/> thing. Ah, there's no city like Paris for gaiety, movement,
-<lb n="08204"/> excitement. ...</p>
+<lb n="08204"/> excitement. ...</said></p>
     <lb n="08205"/> <p><persName xml:id="lc">Little Chandler</persName> finished his whisky and after some trouble
 <lb n="08206"/> succeeded in catching the barman's eye. He ordered the same
 <lb n="08207"/> again.
-<lb n="08208"/> <said who="">―</said>I've been to the Moulin Rouge, <persName xml:id="ig">Ignatius Gallaher</persName> continued
+<lb n="08208"/> <said who="Ignatius Gallaher">―I've been to the Moulin Rouge, <persName xml:id="ig">Ignatius Gallaher</persName> continued
 <lb n="08209"/> when the barman had removed their glasses, and I've been to
 <lb n="08210"/> all the bohemian cafés. Hot stuff! Not for a pious chap like
-    <lb n="08211"/> you, <persName xml:id="lc">Tommy</persName>.</p>
+    <lb n="08211"/> you, <persName xml:id="lc">Tommy</persName>.</said></p>
     <lb n="08212"/> <p><persName xml:id="lc">Little Chandler</persName> said nothing until the barman returned with
 <lb n="08213"/> the two glasses: then he touched his friend's glass lightly and
 <lb n="08214"/> reciprocated the former toast. He was beginning to feel some=
@@ -222,42 +222,42 @@
 <lb n="08220"/> under this new gaudy manner. And, after all, <persName xml:id="ig">Gallaher</persName> had
     <lb n="08221"/> lived, he had seen the world. <persName xml:id="lc">Little Chandler</persName> looked at his
 <lb n="08222"/> friend enviously.
-<lb n="08223"/> <said who="">―</said>Everything in Paris is gay, said <persName xml:id="ig">Ignatius Gallaher.</persName> They
+<lb n="08223"/> <said who="Ignatius Gallahe">―Everything in Paris is gay, said <persName xml:id="ig">Ignatius Gallaher.</persName> They
 <lb n="08224"/> believe in enjoying life and don't you think they're right? If you
 <lb n="08225"/> want to enjoy yourself properly you must go to Paris. And,
 <lb n="08226"/> mind you, they've a great feeling for the Irish there. When they
-<lb n="08227"/> heard I was from Ireland they were ready to eat me, man.</p>
+<lb n="08227"/> heard I was from Ireland they were ready to eat me, man.</said></p>
     <lb n="08228"/> <p><persName xml:id="lc">Little Chandler</persName> took four or five sips from his glass.
-<lb n="08229"/> <said who="">―</said>Tell me, he said, is it true that Paris is so ... immoral as they
-<lb n="08230"/> say?</p>
+<lb n="08229"/> <said who="Little Chandler">―Tell me, he said, is it true that Paris is so ... immoral as they
+<lb n="08230"/> say?</said></p>
     <lb n="08231"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> made a catholic gesture with his right arm.
-<lb n="08232"/> <said who="">―</said>Every place is immoral, he said. Of course you do find spicy
+<lb n="08232"/> <said who="Ignatius Gallaher">―Every place is immoral, he said. Of course you do find spicy
 <lb n="08233"/> bits in Paris. Go to one of the students' balls, for instance.
 <lb n="08234"/> That's lively, if you like, when the <emph>cocottes</emph> begin to let them=
-<lb n="08235"/> selves loose. You know what they are, I suppose?
-<lb n="08236"/> <said who="">―</said>I've heard of them, said <persName xml:id="lc">Little Chandler</persName>.</p>
+<lb n="08235"/> selves loose. You know what they are, I suppose?</said
+<lb n="08236"/> <said who="Little Chandler">―I've heard of them, said <persName xml:id="lc">Little Chandler</persName>.</said></p>
     <lb n="08237"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> drank off his whisky and shook his head.
-<lb n="08238"/> <said who="">―</said>Ah, he said, you may say what you like. There's no woman
-<lb n="08239"/> like the Parisienne for style, for go.
-<lb n="08240"/> <said who="">―</said>Then it is an immoral city, said <persName xml:id="lc">Little Chandler</persName> with timid
-<lb n="08241"/> insistence, I mean, compared with London or Dublin?
-    <lb n="08242"/> <said who="">―</said>London! said <persName xml:id="ig">Ignatius Gallaher</persName>. It's six of one and half a
+<lb n="08238"/> <said who="Ignatius Gallaher">―Ah, he said, you may say what you like. There's no woman
+<lb n="08239"/> like the Parisienne for style, for go.</said>
+<lb n="08240"/> <said who="Little Chandler">―Then it is an immoral city, said <persName xml:id="lc">Little Chandler</persName> with timid
+<lb n="08241"/> insistence, I mean, compared with London or Dublin?</said>
+    <lb n="08242"/> <said who="Ignatius Gallaher">―London! said <persName xml:id="ig">Ignatius Gallaher</persName>. It's six of one and half a
     <lb n="08243"/> dozen of the other. You ask <persName xml:id="hg">Hogan</persName>, my boy. I showed him a bit
 <lb n="08244"/> about London when he was over there. He'd open your eye. ...
-    <lb n="08245"/> I say, <persName xml:id="lc">Tommy</persName>, don't make punch of that whisky: liquor up.
-<lb n="08246"/> <said who="">―</said>No, really. ...
-<lb n="08247"/> <said who="">―</said>O, come on, another one won't do you any harm. What is
-<lb n="08248"/> it? The same again, I suppose?
-<lb n="08249"/> <said who="">―</said>Well ... all right.
-<lb n="08250"/> <said who="">―</said><emph>François</emph>, the same again. ... Will you smoke, <persName xml:id="lc">Tommy</persName>?</p>
+    <lb n="08245"/> I say, <persName xml:id="lc">Tommy</persName>, don't make punch of that whisky: liquor up.</said>
+<lb n="08246"/> <said who="Little Chandler">―No, really. ...</said>
+<lb n="08247"/> <said who="Ignatius Gallaher">―O, come on, another one won't do you any harm. What is
+<lb n="08248"/> it? The same again, I suppose?</said>
+<lb n="08249"/> <said who="Little Chandler">―Well ... all right.</said>
+<lb n="08250"/> <said who="Ignatius Gallaher">―<emph>François</emph>, the same again. ... Will you smoke, <persName xml:id="lc">Tommy</persName>?</said></p>
     <lb n="08251"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> produced his cigar case. The two friends
 <lb n="08252"/> lit their cigars and puffed at them in silence until their drinks
 <lb n="08253"/> were served.
-<lb n="08254"/> <said who="">―</said>I'll tell you my opinion, said <persName xml:id="ig">Ignatius Gallaher</persName>, emerging
+<lb n="08254"/> <said who="Ignatius Gallaher">―I'll tell you my opinion, said <persName xml:id="ig">Ignatius Gallaher</persName>, emerging
 <lb n="08255"/> after some time from the clouds of smoke in which he had
 <lb n="08256"/> taken refuge, it's a rum world. Talk of immorality! I've heard
 <lb n="08257"/> of cases - what am I saying - I've known them: cases of ...
-<lb n="08258"/> immorality ....</p>
+<lb n="08258"/> immorality ....</said></p>
     <lb n="08259"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> puffed thoughtfully at his cigar and then,
 <lb n="08260"/> in a calm historian's tone, he proceeded to sketch for his friend
 <lb n="08261"/> some pictures of the corruption which was rife abroad. He
@@ -270,62 +270,62 @@
 <lb n="08268"/> society: and ended by telling, with details, a story about an
 <lb n="08269"/> English duchess - a story which he knew to be true. <persName xml:id="lc">Little
     <lb n="08270"/> Chandler</persName> was astonished.
-<lb n="08271"/> <said who="">―</said>Ah, well, said <persName xml:id="ig">Ignatius Gallaher</persName>, here we are in old jogalong
-<lb n="08272"/> Dublin where nothing is known of such things.
-<lb n="08273"/> <said who="">―</said>How dull you must find it, said <persName xml:id="lc">Little Chandler</persName>, after all the
-<lb n="08274"/> other places you've seen!
-    <lb n="08275"/> <said who="">―</said>Well, said <persName xml:id="ig">Ignatius Gallaher</persName>, it's a relaxation to come over
+<lb n="08271"/> <said who="Ignatius Gallaher">―Ah, well, said <persName xml:id="ig">Ignatius Gallaher</persName>, here we are in old jogalong
+<lb n="08272"/> Dublin where nothing is known of such things.</said>
+<lb n="08273"/> <said who="Little Chandler">―How dull you must find it, said <persName xml:id="lc">Little Chandler</persName>, after all the
+<lb n="08274"/> other places you've seen!</said>
+    <lb n="08275"/> <said who="Ignatius Gallaher">―Well, said <persName xml:id="ig">Ignatius Gallaher</persName>, it's a relaxation to come over
 <lb n="08276"/> here, you know. And, after all, it's the old country, as they say,
 <lb n="08277"/> isn't it? You can't help having a certain feeling for it. That's
 <lb n="08278"/> human nature. ... But tell me something about yourself. <persName xml:id="hg">Hogan</persName>
 <lb n="08279"/> told me you had ... tasted the joys of connubial bliss. Two years
-<lb n="08280"/> ago, wasn't it?</p>
+<lb n="08280"/> ago, wasn't it?</said></p>
     <lb n="08281"/> <p><persName xml:id="lc">Little Chandler</persName> blushed and smiled.
-<lb n="08282"/> <said who="">―</said>Yes, he said. I was married last May twelve months.
-<lb n="08283"/> <said who="">―</said>I hope it's not too late in the day to offer my best wishes,
+<lb n="08282"/> <said who="Little Chandler">―Yes, he said. I was married last May twelve months.</said>
+<lb n="08283"/> <said who="Ignatius Gallaher">―I hope it's not too late in the day to offer my best wishes,
     <lb n="08284"/> said <persName xml:id="ig">Ignatius Gallaher</persName>. I didn't know your address or I'd have
-<lb n="08285"/> done so at the time.</p>
+<lb n="08285"/> done so at the time.</said></p>
     <lb n="08286"/> <p>He extended his hand which <persName xml:id="lc">Little Chandler</persName> took.
-    <lb n="08287"/> <said who="">―</said>Well, <persName xml:id="lc">Tommy</persName>, he said, I wish you and yours every joy in life,
+    <lb n="08287"/> <said who="Ignatius Gallaher">―Well, <persName xml:id="lc">Tommy</persName>, he said, I wish you and yours every joy in life,
 <lb n="08288"/> old chap, and tons of money and may you never die till I shoot
 <lb n="08289"/> you. And that's the wish of a sincere friend, an old friend. You
-<lb n="08290"/> know that?
-<lb n="08291"/> <said who="">―</said>I know that, said <persName xml:id="lc">Little Chandler</persName>.
-<lb n="08292"/> <said who="">―</said>Any youngsters? said <persName xml:id="ig">Ignatius Gallaher</persName>.</p>
+<lb n="08290"/> know that?</said>
+<lb n="08291"/> <said who="Little Chandler">―I know that, said <persName xml:id="lc">Little Chandler</persName>.</said>
+<lb n="08292"/> <said who="Ignatius Gallaher">―Any youngsters? said <persName xml:id="ig">Ignatius Gallaher</persName>.</said></p>
     <lb n="08293"/> <p><persName xml:id="lc">Little Chandler</persName> blushed again.
-<lb n="08294"/> <said who="">―</said>We have one child, he said.
-<lb n="08295"/> <said who="">―</said>Son or daughter?
-<lb n="08296"/> <said who="">―</said>A little boy.</p>
+<lb n="08294"/> <said who="Little Chandler">―We have one child, he said.</said>
+<lb n="08295"/> <said who="Ignatius Gallaher">―Son or daughter?</said>
+<lb n="08296"/> <said who="Little Chandler">―A little boy.</said></p>
     <lb n="08297"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> slapped his friend sonorously on the back.
-<lb n="08298"/> <said who="">―</said>Bravo, he said, I wouldn't doubt you, <persName xml:id="lc">Tommy</persName>.</p>
+<lb n="08298"/> <said who="Ignatius Gallaher">―Bravo, he said, I wouldn't doubt you, <persName xml:id="lc">Tommy</persName>.</said></p>
     <lb n="08299"/> <p><persName xml:id="lc">Little Chandler</persName> smiled, looked confusedly at his glass and bit
 <lb n="08300"/> his lower lip with three childishly white front teeth.
-<lb n="08301"/> <said who="">―</said>I hope you'll spend an evening with us, he said, before you
+<lb n="08301"/> <said who="Little Chandler">―I hope you'll spend an evening with us, he said, before you
 <lb n="08302"/> go back. My wife will be delighted to meet you. We can have a
-<lb n="08303"/> little music and ...
-<lb n="08304"/> <said who="">―</said>Thanks awfully, old chap, said <persName xml:id="ig">Ignatius Gallaher</persName>, I'm sorry
-<lb n="08305"/> we didn't meet earlier. But I must leave tomorrow night.
-<lb n="08306"/> <said who="">―</said>Tonight, perhaps. ...
-<lb n="08307"/> <said who="">―</said>I'm awfully sorry, old man. You see I'm over here with an=
+<lb n="08303"/> little music and ...</said>
+<lb n="08304"/> <said who="Ignatius Gallaher">―Thanks awfully, old chap, said <persName xml:id="ig">Ignatius Gallaher</persName>, I'm sorry
+<lb n="08305"/> we didn't meet earlier. But I must leave tomorrow night.</said>
+<lb n="08306"/> <said who="Little Chandler">―Tonight, perhaps. ...</said>
+<lb n="08307"/> <said who="Ignatius Gallaher">―I'm awfully sorry, old man. You see I'm over here with an=
 <lb n="08308"/> other fellow, clever young chap he is too, and we arranged to
-<lb n="08309"/> go to a little card party. Only for that ....
-<lb n="08310"/> <said who="">―</said>O, in that case. ...
-<lb n="08311"/> <said who="">―</said>But who knows? said <persName xml:id="ig">Ignatius Gallaher</persName> considerately. Next
+<lb n="08309"/> go to a little card party. Only for that ....</said>
+<lb n="08310"/> <said who="Little Chandler">―O, in that case. ...</said>
+<lb n="08311"/> <said who="Ignatius Gallaher">―But who knows? said <persName xml:id="ig">Ignatius Gallaher</persName> considerately. Next
 <lb n="08312"/> year I may take a little skip over here now that I've broken the
-<lb n="08313"/> ice. It's only a pleasure deferred.
-<lb n="08314"/> <said who="">―</said>Very well, said <persName xml:id="lc">Little Chandler</persName>, the next time you come we
-<lb n="08315"/> must have an evening together. That's agreed now, isn't it?
-<lb n="08316"/> <said who="">―</said>Yes, that's agreed, said <persName xml:id="ig">Ignatius Gallaher</persName>. Next year if I
-<lb n="08317"/> come, <emph>parole d'honneur.</emph>
-<lb n="08318"/> <said who="">―</said>And to clinch the bargain, said <persName xml:id="lc">Little Chandler</persName>, we'll just
-<lb n="08319"/> have one more now.</p>
+<lb n="08313"/> ice. It's only a pleasure deferred.</said>
+<lb n="08314"/> <said who="Little Chandler">―Very well, said <persName xml:id="lc">Little Chandler</persName>, the next time you come we
+<lb n="08315"/> must have an evening together. That's agreed now, isn't it?</said>
+<lb n="08316"/> <said who="Ignatius Gallaher">―Yes, that's agreed, said <persName xml:id="ig">Ignatius Gallaher</persName>. Next year if I
+<lb n="08317"/> come, <emph>parole d'honneur.</said></emph>
+<lb n="08318"/> <said who="Little Chandler">―And to clinch the bargain, said <persName xml:id="lc">Little Chandler</persName>, we'll just
+<lb n="08319"/> have one more now.</said></p>
     <lb n="08320"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> took out a large gold watch and looked
 <lb n="08321"/> at it.
-<lb n="08322"/> <said who="">―</said>Is it to be the last? he said. Because, you know, I have an a.p.
-<lb n="08323"/> <said who="">―</said>O yes, positively, said <persName xml:id="lc">Little Chandler</persName>.
-<lb n="08324"/> <said who="">―</said>Very well then, said <persName xml:id="ig">Ignatius Gallaher</persName>, let us have another
+<lb n="08322"/> <said who="Ignatius Gallaher">―Is it to be the last? he said. Because, you know, I have an a.p.</said>
+<lb n="08323"/> <said who="Little Chandler">―O yes, positively, said <persName xml:id="lc">Little Chandler</persName>.</said>
+<lb n="08324"/> <said who="Ignatius Gallaher">―Very well then, said <persName xml:id="ig">Ignatius Gallaher</persName>, let us have another
 <lb n="08325"/> one as a <emph>deoc an doruis</emph> - that's good vernacular for a small
-<lb n="08326"/> whisky, I believe.</p>
+<lb n="08326"/> whisky, I believe.</said></p>
     <lb n="08327"/> <p><persName xml:id="lc">Little Chandler</persName> ordered the drinks. The blush which had
 <lb n="08328"/> risen to his face a few moments before was establishing itself. A
 <lb n="08329"/> trifle made him blush at any time: and now he felt warm and
@@ -348,45 +348,45 @@
 <lb n="08346"/> was patronising Ireland by his visit.</p>
     <lb n="08347"/> <p>The barman brought their drinks. <persName xml:id="lc">Little Chandler</persName> pushed
 <lb n="08348"/> one glass towards his friend and took up the other boldly.
-<lb n="08349"/> <said who="">―</said>Who knows? he said as they lifted their glasses. When you
+<lb n="08349"/> <said who="Little Chandler">―Who knows? he said as they lifted their glasses. When you
 <lb n="08350"/> come next year I may have the pleasure of wishing long life and
-    <lb n="08351"/> happiness to Mr and Mrs <persName xml:id="ig">Ignatius Gallaher</persName>.</p>
+    <lb n="08351"/> happiness to Mr and Mrs <persName xml:id="ig">Ignatius Gallaher</persName>.</said></p>
     <lb n="08352"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> in the act of drinking closed one eye
 <lb n="08353"/> expressively over the rim of his glass. When he had drunk he
 <lb n="08354"/> smacked his lips decisively, set down his glass and said:
-<lb n="08355"/> <said who="">―</said>No blooming fear of that, my boy. I'm going to have my
+<lb n="08355"/> <said who="Ignatius Gallaher">―No blooming fear of that, my boy. I'm going to have my
 <lb n="08356"/> fling first and see a bit of life and the world before I put my
-<lb n="08357"/> head in the sack - if I ever do.
-<lb n="08358"/> <said who="">―</said>Some day you will, said <persName xml:id="lc">Little Chandler</persName> calmly.</p>
+<lb n="08357"/> head in the sack - if I ever do.</said>
+<lb n="08358"/> <said who="Little Chandler">―Some day you will, said <persName xml:id="lc">Little Chandler</persName> calmly.</said></p>
     <lb n="08359"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> turned his orange tie and slateblue eyes
 <lb n="08360"/> full upon his friend.
-<lb n="08361"/> <said who="">―</said>You think so? he said.
-<lb n="08362"/> <said who="">―</said>You'll put your head in the sack, repeated <persName xml:id="lc">Little Chandler</persName>
-<lb n="08363"/> stoutly, like everyone else, if you can find the girl.</p>
+<lb n="08361"/> <said who="Ignatius Gallaher">―You think so? he said.</said>
+<lb n="08362"/> <said who="Little Chandler">―You'll put your head in the sack, repeated <persName xml:id="lc">Little Chandler</persName>
+<lb n="08363"/> stoutly, like everyone else, if you can find the girl.</said></p>
 <lb n="08364"/> <p>He had slightly emphasised his tone and he was aware that
 <lb n="08365"/> he had betrayed himself; but though the colour had heightened
 <lb n="08366"/> in his cheek he did not flinch from his friend's gaze. <persName xml:id="ig">Ignatius
     <lb n="08367"/> Gallaher</persName> watched him for a few moments and then said:
-<lb n="08368"/> <said who="">―</said>If ever it occurs you may bet your bottom dollar there'll
+<lb n="08368"/> <said who="Ignatius Gallaher">―If ever it occurs you may bet your bottom dollar there'll
 <lb n="08369"/> be no mooning and spooning about it. I mean to marry money.
 <lb n="08370"/> She'll have a good fat account at the bank or she won't do for
-<lb n="08371"/> me.</p>
+<lb n="08371"/> me.</said></p>
     <lb n="08372"/> <p><persName xml:id="lc">Little Chandler</persName> shook his head.
-<lb n="08373"/> <said who="">―</said>Why, man alive, said <persName xml:id="ig">Ignatius Gallaher</persName> vehemently, do you
+<lb n="08373"/> <said who="Ignatius Gallaher">―Why, man alive, said <persName xml:id="ig">Ignatius Gallaher</persName> vehemently, do you
 <lb n="08374"/> know what it is? I've only to say the word and tomorrow I can
 <lb n="08375"/> have the woman and the cash. You don't believe it? Well, I
 <lb n="08376"/> know it. There are hundreds - what am I saying? - thousands of
 <lb n="08377"/> rich Germans and Jews, rotten with money, that'd only be too
 <lb n="08378"/> glad. ... You wait awhile, my boy. See if I don't play my cards
 <lb n="08379"/> properly. When I go about a thing I mean business, I tell you.
-<lb n="08380"/> You just wait.</p>
+<lb n="08380"/> You just wait.</said></p>
 <lb n="08381"/> <p>He tossed his glass to his mouth, finished his drink and laughed loudly. Then he looked thoughtfully before him and
 <lb n="08382"/> said in a calmer tone:
-<lb n="08383"/> <said who="">―</said>But I'm in no hurry. They can wait. I don't fancy tying
-<lb n="08384"/> myself up to one woman, you know.</p>
+<lb n="08383"/> <said who="Ignatius Gallaher">―But I'm in no hurry. They can wait. I don't fancy tying
+<lb n="08384"/> myself up to one woman, you know.</said></p>
 <lb n="08385"/> <p>He imitated with his mouth the act of tasting and made a
 <lb n="08386"/> wry face.
-<lb n="08387"/> <said who="">―</said>Must get a bit stale, I should think, he said.</p>
+<lb n="08387"/> <said who="Ignatius Gallaher">―Must get a bit stale, I should think, he said.</said></p>
 <lb /> *  *  *
     <lb n="08389"/> <p><persName xml:id="lc">Little Chandler</persName> sat in the room off the hall, holding a child
 <lb n="08390"/> in his arms. To save money they kept no servant but <persName xml:id="ae">Annie</persName>'s
@@ -400,7 +400,7 @@
 <lb n="08398"/> at which the shop at the corner closed she decided to go out
 <lb n="08399"/> herself for a quarter of a pound of tea and two pounds of
 <lb n="08400"/> sugar. She put the sleeping child deftly in his arms and said:
-<lb n="08401"/> <said who="">―</said>Here. Don't waken him.</p>
+<lb n="08401"/> <said who="Annie">―Here. Don't waken him.</said></p>
 <lb n="08402"/> <p>A little lamp with a white china shade stood upon the table
 <lb n="08403"/> and its light fell over a photograph which was enclosed in a
     <lb n="08404"/> frame of crumpled horn. It was <persName xml:id="ae">Annie</persName>'s photograph. <persName xml:id="lc">Little
@@ -465,7 +465,7 @@
 <lb n="08463"/> The wailing of the child pierced the drum of his ear. It was
 <lb n="08464"/> useless, useless! He was a prisoner for life. His arms trembled
 <lb n="08465"/> with anger and suddenly bending to the child's face he shouted:
-<lb n="08466"/> <said who="">―</said>Stop!</p>
+<lb n="08466"/> <said who="Little Chandler">―Stop!</said></p>
 <lb n="08467"/> <p>The child stopped for an instant, had a spasm of fright and
 <lb n="08468"/> began to scream. He jumped up from his chair and walked
 <lb n="08469"/> hastily up and down the room with the child in his arms. It
@@ -478,23 +478,23 @@
 <lb n="08476"/> in fright. If it died! ...</p>
 <lb n="08477"/> <p>The door was burst open and a young woman ran in,
 <lb n="08478"/> panting.
-<lb n="08479"/> <said who="">―</said>What is it? What is it? she cried.</p>
+<lb n="08479"/> <said who="Annie">―What is it? What is it? she cried.</said></p>
 <lb n="08480"/> <p>The child, hearing its mother's voice, broke out into a par=
 <lb n="08481"/> oxysm of sobbing.
-    <lb n="08482"/> <said who="">―</said>It's nothing, <persName xml:id="ae">Annie</persName> ... it's nothing. ... He began to cry. ...</p>
+    <lb n="08482"/> <said who="Little Chandler">―It's nothing, <persName xml:id="ae">Annie</persName> ... it's nothing. ... He began to cry. ...</said></p>
 <lb n="08483"/> <p>She flung her parcels on the floor and snatched the child
 <lb n="08484"/> from him.
-<lb n="08485"/> <said who="">―</said>What have you done to him? she cried, glaring into his face.</p>
+<lb n="08485"/> <said who="Annie">―What have you done to him? she cried, glaring into his face.</said></p>
     <lb n="08486"/> <p><persName xml:id="lc">Little Chandler</persName> sustained for one moment the gaze of her
 <lb n="08487"/> eyes and his heart closed together as he met the hatred in them.
 <lb n="08488"/> He began to stammer:
-<lb n="08489"/> <said who="">―</said>It's nothing. ... He ... he began to cry. ... I couldn't ... I didn't
-<lb n="08490"/> do anything. ... What?</p>
+<lb n="08489"/> <said who="Little Chandler">―It's nothing. ... He ... he began to cry. ... I couldn't ... I didn't
+<lb n="08490"/> do anything. ... What?</said></p>
 <lb n="08491"/> <p>Giving no heed to him she began to walk up and down the
 <lb n="08492"/> room, clasping the child tightly in her arms and murmuring:
-<lb n="08493"/> <said who="">―</said>My little man! My little mannie! Was 'ou frightened, love? ...
+<lb n="08493"/> <said who="Annie">―My little man! My little mannie! Was 'ou frightened, love? ...
 <lb n="08494"/> There now, love! There now! ... Lambabaun! Mamma's little
-<lb n="08495"/> lamb of the world! ... There now!</p>
+<lb n="08495"/> lamb of the world! ... There now!</said></p>
     <lb n="08496"/> <p><persName xml:id="lc">Little Chandler</persName> felt his cheeks suffused with shame and he
 <lb n="08497"/> stood back out of the lamplight. He listened while the parox=
 <lb n="08498"/> ysm of the child's sobbing grew less and less: and tears of
