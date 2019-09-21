@@ -89,7 +89,7 @@
 <lb n="14088"/> the gentleman must have missed his footing. The customers
 <lb n="14089"/> returned to the counter and a curate set about removing the
 <lb n="14090"/> traces of blood from the floor.</p>
-  <lb n="14091"/> <p>When they came out into Grafton Street <persName xml:id="jp">Mr Power</persName> whistled
+  <lb n="14091"/> <p>When they came out into <place> <location> <geo> 53.341751 -6.260147 </geo> </location> <placeName> Grafton Street </placeName> </place> <persName xml:id="jp">Mr Power</persName> whistled
 <lb n="14092"/> for an outsider. The injured man said again as well as he could:
 <lb n="14093"/> <said who="">―</said>I' 'ery 'uch o'liged to you, sir. I hope we'll 'eet again. 'y na'e
   <lb n="14094"/> is <persName xml:id="tk">Kernan</persName>.</p>
@@ -100,7 +100,7 @@
 <lb n="14099"/> expressed his gratitude to the young man and regretted that
 <lb n="14100"/> they could not have a little drink together.
 <lb n="14101"/> <said who="">―</said>Another time, said the young man.</p>
-<lb n="14102"/> <p>The car drove off towards Westmoreland Street. As it passed
+<lb n="14102"/> <p>The car drove off towards <place> <location> <geo> 53.346001 -6.259074 </geo> </location> <placeName> Westmoreland Street </placeName> </place>. As it passed
 <lb n="14103"/> the Ballast office the clock showed half past nine. A keen east
 <lb n="14104"/> wind hit them blowing from the mouth of the river. <persName xml:id="tk">Mr Kernan</persName>
 <lb n="14105"/> was huddled together with cold. His friend asked him to tell
@@ -135,14 +135,14 @@
 <lb n="14134"/> drew it up, saturated his palate with it and then spat it forth
 <lb n="14135"/> into the grate. Then he paused to judge.</p>
   <lb n="14136"/> <p><persName xml:id="jp">Mr Power</persName>, a much younger man, was employed in the Royal
-<lb n="14137"/> Irish Constabulary Office in Dublin Castle. The arc of his
+<lb n="14137"/> Irish Constabulary Office in <place> <location> <geo> 53.34309 -6.266194 </geo> </location> <placeName> Dublin Castle </placeName> </place>. The arc of his
 <lb n="14138"/> social rise intersected the arc of his friend's decline but <persName xml:id="tk">Mr
   <lb n="14139"/> Kernan</persName>'s decline was mitigated by the fact that certain of those
 <lb n="14140"/> friends who had known him at his highest point of success still
 <lb n="14141"/> esteemed him as a character. <persName xml:id="jp">Mr Power</persName> was one of these
 <lb n="14142"/> friends. His inexplicable debts were a byword in his circle; he
 <lb n="14143"/> was a debonair young man.</p>
-<lb n="14144"/> <p>The car halted before a small house on the Glasnevin road
+<lb n="14144"/> <p>The car halted before a small house on <place> <location> <geo> 53.363589 -6.272317 </geo> </location> <placeName> the Glasnevin road </placeName> </place>
   <lb n="14145"/> and <persName xml:id="tk">Mr Kernan</persName> was helped into the house. His wife put him to
   <lb n="14146"/> bed while <persName xml:id="jp">Mr Power</persName> sat downstairs in the kitchen asking the
 <lb n="14147"/> children where they went to school and what book they were
@@ -165,7 +165,7 @@
 <lb n="14164"/> with tonight, I'd like to know?</p>
   <lb n="14165"/> <p><persName xml:id="jp">Mr Power</persName> shook his head but said nothing.
 <lb n="14166"/> <said who="">―</said>I'm so sorry, she continued, that I've nothing in the house to
-<lb n="14167"/> offer you. But if you wait a minute I'll send round to Fogarty's
+<lb n="14167"/> offer you. But if you wait a minute I'll send round to <place> <location> <geo> 53.361523 -6.265431 </geo> </location> <placeName> Fogarty's </placeName> </place>
 <lb n="14168"/> at the corner.</p>
   <lb n="14169"/> <p><persName xml:id="jp">Mr Power</persName> stood up.
 <lb n="14170"/> <said who="">―</said>We were waiting for him to come home with the money. He
@@ -192,7 +192,7 @@
 <lb n="14190"/> seemed to her a not ungallant figure: and she still hurried to the
 <lb n="14191"/> chapel door whenever a wedding was reported and, seeing the
 <lb n="14192"/> bridal pair, recalled with vivid pleasure how she had passed out
-<lb n="14193"/> of the Star of the Sea Church in Sandymount, leaning on the
+<lb n="14193"/> of the <place> <location> <geo> 53.335751 -6.219973 </geo> </location> <placeName> Star of the Sea Church </placeName> </place> in Sandymount, leaning on the
 <lb n="14194"/> arm of a jovial wellfed man who was dressed smartly in a frock
 <lb n="14195"/> coat and lavender trousers and carried a silk hat gracefully
 <lb n="14196"/> balanced upon his other arm. After three weeks she had found
@@ -201,8 +201,8 @@
 <lb n="14199"/> mother presented to her no insuperable difficulties and for
 <lb n="14200"/> twenty-five years she had kept house shrewdly for her husband.
 <lb n="14201"/> Her two eldest sons were launched. One was in a draper's shop
-<lb n="14202"/> in Glasgow and the other was clerk to a tea merchant in
-<lb n="14203"/> Belfast. They were good sons, wrote regularly and sometimes
+<lb n="14202"/> in <place> <location> <geo> 55.865536 -4.25909 </geo> </location> <placeName> Glasgow </placeName> </place> and the other was clerk to a tea merchant in
+<lb n="14203"/> <place> <location> <geo> 54.597267 -5.930109 </geo> </location> <placeName> Belfast </placeName> </place>. They were good sons, wrote regularly and sometimes
 <lb n="14204"/> sent home money. The other children were still at school.</p>
   <lb n="14205"/> <p><persName xml:id="tk">Mr Kernan</persName> sent a letter to his office next day and remained
 <lb n="14206"/> in bed. She made beef tea for him and scolded him roundly. She
@@ -210,7 +210,7 @@
 <lb n="14208"/> healed him dutifully whenever he was sick and always tried to
 <lb n="14209"/> make him eat a breakfast. There were worse husbands. He had
 <lb n="14210"/> never been violent since the boys had grown up and she knew
-<lb n="14211"/> that he would walk to the end of Thomas Street and back again
+<lb n="14211"/> that he would walk to the end of <place> <location> <geo> 53.343048 -6.280646 </geo> </location> <placeName> Thomas Street </placeName> </place> and back again
 <lb n="14212"/> to book even a small order.</p>
 <lb n="14213"/> <p>Two nights after his friends came to see him. She brought
 <lb n="14214"/> them up to his bedroom, the air of which was impregnated
@@ -404,12 +404,12 @@
 <lb n="14402"/> <said who="">―</said>On Thursday night, you said, <persName xml:id="jp">Jack</persName>?
   <lb n="14403"/> <said who="">―</said>Thursday, yes, said <persName xml:id="jp">Mr Power</persName>.
   <lb n="14404"/> <said who="">―</said>Righto! said <persName xml:id="mc">Mr Cunningham</persName> promptly.
-<lb n="14405"/> <said who="">―</said>We can meet in M'Auley's, said <persName xml:id="mco">Mr M'Coy</persName>. That'll be the
+<lb n="14405"/> <said who="">―</said>We can meet in <place> <location> <geo> 53.359982 -6.2608 </geo> </location> <placeName> M'Auley's </placeName> </place>, said <persName xml:id="mco">Mr M'Coy</persName>. That'll be the
 <lb n="14406"/> most convenient place.
 <lb n="14407"/> <said who="">―</said>But we mustn't be late, said <persName xml:id="jp">Mr Power</persName> earnestly, because it
 <lb n="14408"/> is sure to be crammed to the doors.
 <lb n="14409"/> <said who="">―</said>We can meet at half seven, said <persName xml:id="mco">Mr M'Coy</persName>.
-  <lb n="14410"/> <said who="">―</said>Righto! said <persName xml:id="mc">Mr Cunningham</persName>. Half seven at M'Auley's be it!</p>
+  <lb n="14410"/> <said who="">―</said>Righto! said <persName xml:id="mc">Mr Cunningham</persName>. Half seven at <place> <location> <geo> 53.359982 -6.2608 </geo> </location> <placeName> M'Auley's </placeName> </place> be it!</p>
   <lb n="14411"/> <p>There was a short silence. <persName xml:id="tk">Mr Kernan</persName> waited to see whether
 <lb n="14412"/> he would be taken into his friends' confidence. Then he asked:
 <lb n="14413"/> <said who="">―</said>What's in the wind?
@@ -543,7 +543,7 @@
 <lb n="14541"/> modest grocer. He had failed in business in a licensed house in
 <lb n="14542"/> the city because his financial condition had constrained him to
 <lb n="14543"/> tie himself to second class distillers and brewers. He had
-<lb n="14544"/> opened a small shop on the Glasnevin road where, he flattered
+<lb n="14544"/> opened a small shop on <place> <location> <geo> 53.363589 -6.272317 </geo> </location> <placeName> the Glasnevin road </placeName> </place> where, he flattered
 <lb n="14545"/> himself, his manners would ingratiate him with the housewives
 <lb n="14546"/> of the district. He bore himself with a certain grace, compli=
 <lb n="14547"/> mented little children and spoke with a neat enunciation. He
@@ -721,7 +721,7 @@
 <lb n="14719"/> <said who="">―</said>There's a nice Catholic for you! said his wife.
   <lb n="14720"/> <said who="">―</said>No candles! repeated <persName xml:id="tk">Mr Kernan</persName> obdurately. That's off!</p>
 <lb /> *  *  *
-<lb n="14721"/> <p>The transept of the Jesuit Church in Gardiner Street was
+<lb n="14721"/> <p>The transept of the Jesuit Church in <place> <location> <geo> 53.357903 -6.259664 </geo> </location> <placeName> Gardiner Street </placeName> </place> was
 <lb n="14722"/> almost full; and still at every moment gentlemen entered from
 <lb n="14723"/> the sidedoor and, directed by the lay brother, walked on tiptoe
 <lb n="14724"/> along the aisles until they found seating accommodation. The

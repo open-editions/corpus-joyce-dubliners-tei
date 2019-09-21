@@ -2,7 +2,7 @@
   <lb n="07001"/> <p><persName xml:id="my">Mrs Mooney</persName> was a butcher's daughter. She was a woman
 <lb n="07002"/> who was quite able to keep things to herself: a determined
 <lb n="07003"/> woman. She had married her father's foreman and opened a
-<lb n="07004"/> butcher's shop near Spring Gardens. But as soon as his father=
+<lb n="07004"/> butcher's shop near <place> <location> <geo> 53.359657 -6.242114 </geo> </location> <placeName> Spring Gardens </placeName> </place>. But as soon as his father=
   <lb n="07005"/> in=law was dead <persName xml:id="mmy">Mr Mooney</persName> began to go to the devil. He
 <lb n="07006"/> drank, plundered the till, ran headlong into debt. It was no use
 <lb n="07007"/> making him take the pledge: he was sure to break out again a
@@ -19,9 +19,9 @@
 <lb n="07018"/> were pinkveined and raw; and all day long he sat in the bailiffs'
   <lb n="07019"/> room waiting to be put on a job. <persName xml:id="my">Mrs Mooney</persName>, who had taken
 <lb n="07020"/> what remained of her money out of the butcher business and
-<lb n="07021"/> set up a boarding house in Hardwicke Street, was a big
+<lb n="07021"/> set up a boarding house in <place> <location> <geo> 53.35648 -6.263494 </geo> </location> <placeName> Hardwicke Street </placeName> </place>, was a big
 <lb n="07022"/> imposing woman. Her house had a floating population made
-<lb n="07023"/> up of tourists from Liverpool and the Isle of Man and occa=
+<lb n="07023"/> up of tourists from <place> <location> <geo> 53.410778 -2.977838 </geo> </location> <placeName> Liverpool </placeName> </place> and the <place> <location> <geo> 54.238682 -4.561996 </geo> </location> <placeName> Isle of Man </placeName> </place> and occa=
 <lb n="07024"/> sionally <emph>artistes</emph> from the musichalls. Its resident population
 <lb n="07025"/> was made up of clerks from the city. She governed her house
 <lb n="07026"/> cunningly and firmly, knew when to give credit, when to be
@@ -33,7 +33,7 @@
 <lb n="07032"/> they were very chummy with one another. They discussed with
 <lb n="07033"/> one another the chances of favourites and outsiders. <persName xml:id="jm">Jack
   <lb n="07034"/> Mooney</persName>, the Madam's son, who was clerk to a commission
-<lb n="07035"/> agent in Fleet Street, had the reputation of being a hard case.
+<lb n="07035"/> agent in <place> <location> <geo> 53.345814 -6.259802 </geo> </location> <placeName> Fleet Street </placeName> </place>, had the reputation of being a hard case.
 <lb n="07036"/> He was fond of using soldiers' obscenities: usually he came
 <lb n="07037"/> home in the small hours. When he met his friends he had
 <lb n="07038"/> always a good one to tell them and he was always sure to be on
@@ -80,7 +80,7 @@
 <lb n="07079"/> heat, but with a fresh breeze blowing. All the windows of the
 <lb n="07080"/> boarding house were open and the lace curtains ballooned
 <lb n="07081"/> gently towards the street beneath the raised sashes. The belfry
-<lb n="07082"/> of George's church sent out constant peals and worshippers,
+<lb n="07082"/> of <place> <location> <geo> 53.357273 -6.262851 </geo> </location> <placeName> George's church </placeName> </place> sent out constant peals and worshippers,
 <lb n="07083"/> singly or in groups, traversed the little circus before the church,
 <lb n="07084"/> revealing their purpose by their self-contained demeanour no
 <lb n="07085"/> less than by the little volumes in their gloved hands. Breakfast
@@ -104,10 +104,10 @@
 <lb n="07103"/> intention behind her mother's tolerance.</p>
   <lb n="07104"/> <p><persName xml:id="my">Mrs Mooney</persName> glanced instinctively at the little gilt clock on
 <lb n="07105"/> the mantelpiece as soon as she had become aware through her
-<lb n="07106"/> revery that the bells of George's church had stopped ringing. It
+<lb n="07106"/> revery that the bells of <place> <location> <geo> 53.357273 -6.262851 </geo> </location> <placeName> George's church </placeName> </place> had stopped ringing. It
 <lb n="07107"/> was seventeen minutes past eleven: she would have lots of time
   <lb n="07108"/> to have the matter out with <persName xml:id="dr">Mr Doran</persName> and then catch short
-<lb n="07109"/> twelve at Marlborough Street. She was sure she would win. To
+<lb n="07109"/> twelve at <place> <location> <geo> 53.350693 -6.258447 </geo> </location> <placeName> Marlborough Street </placeName> </place>. She was sure she would win. To
 <lb n="07110"/> begin with she had all the weight of social opinion on her side:
 <lb n="07111"/> she was an outraged mother. She had allowed him to live
 <lb n="07112"/> beneath her roof, assuming that he was a man of honour, and

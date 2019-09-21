@@ -37,7 +37,7 @@
     <lb n="12033"/> <p><persName xml:id="moc">Mr O'Connor</persName> had been engaged by <persName xml:id="ti">Mr Tierney</persName>'s agent to
 <lb n="12034"/> canvass one part of the ward but, as the weather was inclement
 <lb n="12035"/> and his boots let in the wet, he spent a great part of the day
-<lb n="12036"/> sitting by the fire in the Committee Room in Wicklow Street
+<lb n="12036"/> sitting by the fire in the Committee Room in <place> <location> <geo> 53.342934 -6.260875 </geo> </location> <placeName> Wicklow Street </placeName> </place>
     <lb n="12037"/> with <persName xml:id="oj">Jack</persName>, the old caretaker. They had been sitting thus since
 <lb n="12038"/> the short day had grown dark. It was the sixth of October,
 <lb n="12039"/> dismal and cold out of doors.</p>
@@ -48,7 +48,7 @@
 <lb n="12044"/> fan the fire slowly while his companion smoked.
 <lb n="12045"/> <said who="Old Jack">―Ah, yes,</said> he said, continuing, <said who="Mr O'Connor">it's hard to know what way to
 <lb n="12046"/> bring up children. Now who'd think he'd turn out like that. I
-<lb n="12047"/> sent him to the Christian Brothers and I done what I could for
+<lb n="12047"/> sent him to the <place> <location> <geo> 53.35815 -6.250767 </geo> </location> <placeName> Christian Brothers </placeName> </place> and I done what I could for
 <lb n="12048"/> him and there he goes boosing about. I tried to make him
 <lb n="12049"/> someway decent.</said></p>
 <lb n="12050"/> <p>He replaced the cardboard wearily.
@@ -149,7 +149,7 @@
     <lb n="12145"/> <said who="Mr Henchy">―O, don't stir, <persName xml:id="oj">Jack</persName>, don't stir,</said> said <persName xml:id="hn">Mr Henchy</persName>.</p>
     <lb n="12146"/> <p>He nodded curtly to <persName xml:id="hy">Mr Hynes</persName> and sat down on the chair
 <lb n="12147"/> which the old man vacated.
-<lb n="12148"/> <said who="Mr Henchy">―Did you serve Aungier Street?</said> he asked <persName xml:id="moc">Mr O'Connor</persName>.
+<lb n="12148"/> <said who="Mr Henchy">―Did you serve <place> <location> <geo> 53.339985 -6.26579 </geo> </location> <placeName> Aungier Street </placeName> </place>?</said> he asked <persName xml:id="moc">Mr O'Connor</persName>.
     <lb n="12149"/> <said who="Mr O'Connor">―Yes, said <persName xml:id="moc">Mr O'Connor</persName>,</said> beginning to search his pockets for
 <lb n="12150"/> memoranda.
 <lb n="12151"/> <said who="Mr Henchy">―Did you call on Grimes?</said>
@@ -177,7 +177,7 @@
 <lb n="12173"/> Couldn't he pay up like a man instead of: <said who="Dicky Tierney?" direct="false" rend="italics">O, now, <persName xml:id="hn">Mr Henchy</persName>,
     <lb n="12174"/> I must speak to <persName xml:id="fa">Mr Fanning</persName> ... I've spent a lot of money?</said> Mean
 <lb n="12175"/> little shoeboy of hell! I suppose he forgets the time his little old
-<lb n="12176"/> father kept the hand-me-down shop in Mary's Lane.</said>
+<lb n="12176"/> father kept the hand-me-down shop in <place> <location> <geo> 53.348087 -6.272536 </geo> </location> <placeName> Mary's Lane </placeName> </place>.</said>
 <lb n="12177"/> <said who="Mr O'Connor">―But is that a fact?</said> asked <persName xml:id="moc">Mr O'Connor</persName>.
 <lb n="12178"/> <said who="Mr Henchy">―God, yes!</said> said <persName xml:id="hn">Mr Henchy</persName>. <said who="Mr Henchy">Did you never hear that? And the
 <lb n="12179"/> men used to go in on Sunday morning before the houses were
@@ -307,7 +307,7 @@
 <lb n="12303"/> forgotten all about it.</said>
 <lb n="12304"/> <said who="Mr O'Connor">―There's some deal on in that quarter,</said> said <persName xml:id="moc">Mr O'Connor</persName>
 <lb n="12305"/> thoughtfully. <said who="Mr O'Connor">I saw the three of them hard at it yesterday at
-<lb n="12306"/> Suffolk Street corner.</said>
+<lb n="12306"/> <place> <location> <geo> 53.343651 -6.260443 </geo> </location> <placeName> Suffolk Street </placeName> </place> corner.</said>
 <lb n="12307"/> <said who="Mr Henchy">―I think I know the little game they're at,</said> said <persName xml:id="hn">Mr Henchy</persName>.
 <lb n="12308"/> <said who="Mr Henchy">You must owe the City Fathers money nowadays if you want to
 <lb n="12309"/> be made Lord Mayor. Then they'll make you Lord Mayor. By
@@ -384,7 +384,7 @@
 <lb n="12380"/> <said who="Mr Henchy">―Well, I did a good day's work today,</said> said <persName xml:id="hn">Mr Henchy</persName> after a
 <lb n="12381"/> pause.
     <lb n="12382"/> <said who="Old Jack?">―That so, <persName xml:id="hn">John</persName>?</said>
-<lb n="12383"/> <said who="Mr Henchy">―Yes. I got him one or two sure things in Dawson Street,
+<lb n="12383"/> <said who="Mr Henchy">―Yes. I got him one or two sure things in <place> <location> <geo> 53.341309 -6.25823 </geo> </location> <placeName> Dawson Street </placeName> </place>,
 <lb n="12384"/> Crofton and myself. Between ourselves, you know, Crofton
 <lb n="12385"/> (he's a decent chap, of course), but he's not worth a damn as a
 <lb n="12386"/> canvasser. He hasn't a word to throw to a dog. He stands and
@@ -433,7 +433,7 @@
 <lb n="12429"/> got a good few votes today.</said>
 <lb n="12430"/> <said who="Mr Lyons">―</said>Who did you get? asked <persName xml:id="ly">Mr Lyons</persName>.
 <lb n="12431"/> <said who="Mr Henchy">―Well, I got Parkes for one and I got Atkinson for two and I
-<lb n="12432"/> got Ward of Dawson Street. Fine old chap he is, too—regular
+<lb n="12432"/> got Ward of <place> <location> <geo> 53.341309 -6.25823 </geo> </location> <placeName> Dawson Street </placeName> </place>. Fine old chap he is, too—regular
 <lb n="12433"/> old toff, old conservative! <said who="Ward?" direct="false" rend="italics">But isn't your candidate a national=
     <lb n="12434"/> ist?</said> said he. <said who="Mr Henchy" direct="false" rend="italics">He's a respectable man</said>, said I. <said who="Mr Henchy" direct="false" rend="italics">He's in favour of
 <lb n="12435"/> whatever will benefit this country. He's a big ratepayer</said>, I said.

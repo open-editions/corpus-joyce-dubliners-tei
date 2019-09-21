@@ -7,7 +7,7 @@
 <lb n="06006"/> living texture below which, changing shape and hue unceas=
 <lb n="06007"/> ingly, sent up into the warm grey evening air an unchanging
 <lb n="06008"/> unceasing murmur.</p>
-<lb n="06009"/> <p>Two young men came down the hill of Rutland Square. One
+<lb n="06009"/> <p>Two young men came down the hill of <place> <location> <geo> 53.352695 -6.262904 </geo> </location> <placeName> Rutland Square </placeName> </place>. One
 <lb n="06010"/> of them was just bringing a long monologue to a close. The
 <lb n="06011"/> other, who walked on the verge of the path and was at times
 <lb n="06012"/> obliged to step on to the road owing to his companion's
@@ -34,7 +34,7 @@
 <lb n="06033"/> <emph>recherché</emph> biscuit!</p>
 <lb n="06034"/> <p>He became serious and silent when he had said this. His
 <lb n="06035"/> tongue was tired for he had been talking all the afternoon in a
-<lb n="06036"/> publichouse in Dorset Street. Most people considered <persName xml:id="le">Lenehan</persName>
+<lb n="06036"/> publichouse in <place> <location> <geo> 53.356174 -6.265104 </geo> </location> <placeName> Dorset Street </placeName> </place>. Most people considered <persName xml:id="le">Lenehan</persName>
 <lb n="06037"/> a leech but in spite of this reputation his adroitness and elo=
 <lb n="06038"/> quence had always prevented his friends from forming any
 <lb n="06039"/> general policy against him. He had a brave manner of coming
@@ -46,13 +46,13 @@
 <lb n="06045"/> but his name was vaguely associated with racing tissues.
 <lb n="06046"/> <said who="">―</said>And where did you pick her up, <persName xml:id="cy">Corley</persName>? he asked.</p>
   <lb n="06047"/> <p><persName xml:id="cy">Corley</persName> ran his tongue swiftly along his upper lip.
-<lb n="06048"/> <said who="">―</said>One night, man, he said, I was going along Dame Street and
+<lb n="06048"/> <said who="">―</said>One night, man, he said, I was going along <place> <location> <geo> 53.344185 -6.263527 </geo> </location> <placeName> Dame Street </placeName> </place> and
 <lb n="06049"/> I spotted a fine tart under Waterhouse's clock and said good=
 <lb n="06050"/> night, you know. So we went for a walk round by the canal
-<lb n="06051"/> and she told me she was a slavey in a house in Baggot Street. I
+<lb n="06051"/> and she told me she was a slavey in a house in <place> <location> <geo> 53.33799 -6.253025 </geo> </location> <placeName> Baggot Street </placeName> </place>. I
 <lb n="06052"/> put my arm round her and squeezed her a bit that night. Then
 <lb n="06053"/> next Sunday, man, I met her by appointment. We went out to
-<lb n="06054"/> Donnybrook and I brought her into a field there. She told me
+<lb n="06054"/> <place> <location> <geo> 53.321701 -6.23594 </geo> </location> <placeName> Donnybrook </placeName> </place> and I brought her into a field there. She told me
 <lb n="06055"/> she used to go with a dairyman. ... It was fine, man. Cigarettes
 <lb n="06056"/> every night she'd bring me and paying the tram out and back.
 <lb n="06057"/> And one night she brought me two bloody fine cigars - O, the
@@ -61,7 +61,7 @@
 <lb n="06060"/> the dodge.
 <lb n="06061"/> <said who="">―</said>Maybe she thinks you'll marry her, said <persName xml:id="le">Lenehan</persName>.
 <lb n="06062"/> <said who="">―</said>I told her I was out of a job, said <persName xml:id="cy">Corley</persName>. I told her I was in
-<lb n="06063"/> Pim's. She doesn't know my name. I was too hairy to tell her
+<lb n="06063"/> <place> <location> <geo> 53.341403 -6.265551 </geo> </location> <placeName> Pim's </placeName> </place>. She doesn't know my name. I was too hairy to tell her
 <lb n="06064"/> that. But she thinks I'm a bit of class, you know.</p>
   <lb n="06065"/> <p><persName xml:id="le">Lenehan</persName> laughed again noiselessly.
 <lb n="06066"/> <said who="">―</said>Of all the good ones ever I heard, he said, that emphatically
@@ -109,7 +109,7 @@
 <lb n="06108"/> my tip for it.
 <lb n="06109"/> <said who="">―</said>By one who has tried them all, said <persName xml:id="le">Lenehan</persName>.
 <lb n="06110"/> <said who="">―</said>First I used to go with girls, you know, said <persName xml:id="cy">Corley</persName> un=
-<lb n="06111"/> bosoming, girls off the South Circular. I used to take them out,
+<lb n="06111"/> bosoming, girls off the <place> <location> <geo> 53.335018 -6.293612 </geo> </location> <placeName> South Circular </placeName> </place>. I used to take them out,
 <lb n="06112"/> man, on the tram somewhere and pay the tram or take them to
 <lb n="06113"/> a band or a play at the theatre or buy them chocolate and
 <lb n="06114"/> sweets or something that way. I used to spend money on them
@@ -125,7 +125,7 @@
 <lb n="06124"/> disc of the moon, now nearly veiled, and seemed to meditate.
 <lb n="06125"/> <said who="">―</said>She was ... a bit of all right, he said regretfully.</p>
 <lb n="06126"/> <p>He was silent again. Then he added:
-<lb n="06127"/> <said who="">―</said>She's on the turf now. I saw her driving down Earl Street
+<lb n="06127"/> <said who="">―</said>She's on the turf now. I saw her driving down <place> <location> <geo> 53.350076 -6.259002 </geo> </location> <placeName> Earl Street </placeName> </place>
 <lb n="06128"/> one night with two fellows with her on a car.
 <lb n="06129"/> <said who="">―</said>I suppose that's your doing, said <persName xml:id="le">Lenehan</persName>.
 <lb n="06130"/> <said who="">―</said>There was others at her before me, said <persName xml:id="cy">Corley</persName> philosophi=
@@ -157,8 +157,8 @@
 <lb n="06156"/> soon smooth again. His thoughts were running another way.
 <lb n="06157"/> <said who="">―</said>She's a fine decent tart, he said with appreciation, that's
 <lb n="06158"/> what she is.</p>
-<lb n="06159"/> <p>They walked along Nassau Street and then turned into
-<lb n="06160"/> Kildare Street. Not far from the porch of the club a harpist
+<lb n="06159"/> <p>They walked along <place> <location> <geo> 53.342583 -6.256338 </geo> </location> <placeName> Nassau Street </placeName> </place> and then turned into
+<lb n="06160"/> <place> <location> <geo> 53.341866 -6.254697 </geo> </location> <placeName> Kildare Street </placeName> </place>. Not far from the porch of the club a harpist
 <lb n="06161"/> stood in the roadway playing to a little ring of listeners. He
 <lb n="06162"/> plucked at the wires heedlessly, glancing quickly from time to
 <lb n="06163"/> time at the face of each newcomer and from time to time,
@@ -173,7 +173,7 @@
 <lb n="06172"/> phen's Green they crossed the road. Here the noise of trams,
 <lb n="06173"/> the lights and the crowd released them from their silence.
   <lb n="06174"/> <said who="">―</said>There she is! said <persName xml:id="cy">Corley</persName>.</p>
-<lb n="06175"/> <p>At the corner of Hume Street a young woman was standing.
+<lb n="06175"/> <p>At the corner of <place> <location> <geo> 53.337605 -6.254324 </geo> </location> <placeName> Hume Street </placeName> </place> a young woman was standing.
 <lb n="06176"/> She wore a blue dress and a white sailor hat. She stood on the
   <lb n="06177"/> curbstone swinging a sunshade in one hand. <persName xml:id="le">Lenehan</persName> grew
 <lb n="06178"/> lively:
@@ -191,7 +191,7 @@
 <lb n="06190"/> <said who="">―</said>And after? Where will we meet?
   <lb n="06191"/> <said who="">―</said>Half ten, answered <persName xml:id="cy">Corley</persName>, bringing over his other leg.
 <lb n="06192"/> <said who="">―</said>Where?
-<lb n="06193"/> <said who="">―</said>Corner of Merrion Street. We'll be coming back.
+<lb n="06193"/> <said who="">―</said>Corner of <place> <location> <geo> 53.338146 -6.253635 </geo> </location> <placeName> Merrion Street </placeName> </place>. We'll be coming back.
 <lb n="06194"/> <said who="">―</said>Work it all right now, said <persName xml:id="le">Lenehan</persName> in farewell.</p>
   <lb n="06195"/> <p><persName xml:id="cy">Corley</persName> did not answer. He sauntered across the road sway=
 <lb n="06196"/> ing his head from side to side. His bulk, his easy pace and the
@@ -203,7 +203,7 @@
 <lb n="06202"/> bent her head.</p>
   <lb n="06203"/> <p><persName xml:id="le">Lenehan</persName> observed them for a few minutes. Then he walked
 <lb n="06204"/> rapidly along beside the chains to some distance and crossed
-<lb n="06205"/> the road obliquely. As he approached Hume Street corner he
+<lb n="06205"/> the road obliquely. As he approached <place> <location> <geo> 53.337605 -6.254324 </geo> </location> <placeName> Hume Street </placeName> </place> corner he
 <lb n="06206"/> found the air heavily scented and his eyes made a swift anxious
 <lb n="06207"/> scrutiny of the young woman's appearance. She had her Sun=
 <lb n="06208"/> day finery on. Her blue serge skirt was held at the waist by a
@@ -222,7 +222,7 @@
   <lb n="06221"/> <persName xml:id="cy">Corley</persName> returned a salute to the air. This he did by raising his
 <lb n="06222"/> hand vaguely and pensively changing the angle of position of
 <lb n="06223"/> his hat.</p>
-  <lb n="06224"/> <p><persName xml:id="le">Lenehan</persName> walked as far as the Shelbourne Hotel where he
+  <lb n="06224"/> <p><persName xml:id="le">Lenehan</persName> walked as far as <place> <location> <geo> 53.338818 -6.256564 </geo> </location> <placeName> the Shelbourne Hotel </placeName> </place> where he
 <lb n="06225"/> halted and waited. After waiting for a little time he saw them
 <lb n="06226"/> coming towards him and when they turned to the right he
 <lb n="06227"/> followed them, stepping lightly in his white shoes, down one
@@ -230,17 +230,17 @@
   <lb n="06229"/> pace to theirs, he watched <persName xml:id="cy">Corley</persName>'s head which turned at every
 <lb n="06230"/> moment towards the young woman's face like a big ball
 <lb n="06231"/> revolving on a pivot. He kept the pair in view until he had seen
-<lb n="06232"/> them climbing the stairs of the Donnybrook tram; then he
+<lb n="06232"/> them climbing the stairs of the <place> <location> <geo> 53.321701 -6.23594 </geo> </location> <placeName> Donnybrook </placeName> </place> tram; then he
 <lb n="06233"/> turned about and went back the way he had come.</p>
 <lb n="06234"/> <p>Now that he was alone his face looked older. His gaiety
 <lb n="06235"/> seemed to forsake him and, as he came by the railings of the
-<lb n="06236"/> Duke's Lawn, he allowed his hand to run along them. The air
+<lb n="06236"/> <place> <location> <geo> 53.340122 -6.252036 </geo> </location> <placeName> Duke's Lawn </placeName> </place>, he allowed his hand to run along them. The air
 <lb n="06237"/> which the harpist had played began to control his movements.
 <lb n="06238"/> His softly padded feet played the melody while his fingers
 <lb n="06239"/> swept a scale of variations idly along the railings after each
 <lb n="06240"/> group of notes.</p>
-<lb n="06241"/> <p>He walked listlessly round Stephen's Green and then down
-<lb n="06242"/> Grafton Street. Though his eyes took note of many elements of
+<lb n="06241"/> <p>He walked listlessly round <place> <location> <geo> 53.338818 -6.2568 </geo> </location> <placeName> Stephen's Green </placeName> </place> and then down
+<lb n="06242"/> <place> <location> <geo> 53.343891 -6.259224 </geo> </location> <placeName> Grafton Street </placeName> </place>. Though his eyes took note of many elements of
 <lb n="06243"/> the crowd through which he passed they did so morosely. He
 <lb n="06244"/> found trivial all that was meant to charm him and did not
 <lb n="06245"/> answer the glances which invited him to be bold. He knew that
@@ -249,7 +249,7 @@
 <lb n="06248"/> problem of how he could pass the hours till he met <persName xml:id="cy">Corley</persName>
 <lb n="06249"/> again troubled him a little. He could think of no way of passing
 <lb n="06250"/> them but to keep on walking. He turned to the left when he
-<lb n="06251"/> came to the corner of Rutland Square and felt more at ease in
+<lb n="06251"/> came to the corner of <place> <location> <geo> 53.352695 -6.262904 </geo> </location> <placeName> Rutland Square </placeName> </place> and felt more at ease in
 <lb n="06252"/> the dark quiet street, the sombre look of which suited his
 <lb n="06253"/> mood. He paused at last before the window of a poorlooking
 <lb n="06254"/> shop over which the words <emph>Refreshment Bar</emph> were printed in
@@ -297,29 +297,29 @@
 <lb n="06296"/> little of the ready.</p>
 <lb n="06297"/> <p>He paid twopence halfpenny to the slatternly girl and went
 <lb n="06298"/> out of the shop to begin his wandering again. He went into
-<lb n="06299"/> Capel Street and walked along towards the City Hall. Then he
-<lb n="06300"/> turned into Dame Street. At the corner of George's Street he
+<lb n="06299"/> <place> <location> <geo> 53.346146 -6.267979 </geo> </location> <placeName> Capel Street </placeName> </place> and walked along towards the <place> <location> <geo> 53.344082 -6.26725 </geo> </location> <placeName> City Hall </placeName> </place>. Then he
+<lb n="06300"/> turned into <place> <location> <geo> 53.344185 -6.263527 </geo> </location> <placeName> Dame Street </placeName> </place>. At the corner of <place> <location> <geo> 53.344154 -6.264471 </geo> </location> <placeName> George's Street </placeName> </place> he
 <lb n="06301"/> met two friends of his and stopped to converse with them. He
 <lb n="06302"/> was glad that he could rest from all his walking. His friends
   <lb n="06303"/> asked him had he seen <persName xml:id="cy">Corley</persName> and what was the latest. He
   <lb n="06304"/> replied that he had spent the day with <persName xml:id="cy">Corley</persName>. His friends
 <lb n="06305"/> talked very little. They looked vacantly after some figures in
 <lb n="06306"/> the crowd and sometimes made a critical remark. One said that
-  <lb n="06307"/> he had seen <persName xml:id="mc">Mac</persName> an hour before in Westmoreland Street. At
+  <lb n="06307"/> he had seen <persName xml:id="mc">Mac</persName> an hour before in <place> <location> <geo> 53.345726 -6.259116 </geo> </location> <placeName> Westmoreland Street </placeName> </place>. At
 <lb n="06308"/> this <persName xml:id="le">Lenehan</persName> said that he had been with <persName xml:id="mc">Mac</persName> the night before
   <lb n="06309"/> in Egan's. The young man who had seen <persName xml:id="mc">Mac</persName> in Westmoreland
   <lb n="06310"/> Street asked was it true that <persName xml:id="mc">Mac</persName> had won a bit over a billiard
   <lb n="06311"/> match. <persName xml:id="le">Lenehan</persName> did not know: he said that Holohan had stood
 <lb n="06312"/> them drinks in Egan's.</p>
 <lb n="06313"/> <p>He left his friends at a quarter to ten and went up George's
-<lb n="06314"/> Street. He turned to the left at the City Markets and walked on
-<lb n="06315"/> into Grafton Street. The crowd of girls and young men had
+<lb n="06314"/> Street. He turned to the left at the <place> <location> <geo> 53.342706 -6.264415 </geo> </location> <placeName> City Markets </placeName> </place> and walked on
+<lb n="06315"/> into <place> <location> <geo> 53.343891 -6.259224 </geo> </location> <placeName> Grafton Street </placeName> </place>. The crowd of girls and young men had
 <lb n="06316"/> thinned and on his way up the street he heard many groups and
 <lb n="06317"/> couples bidding one another goodnight. He went as far as the
 <lb n="06318"/> clock of the College of Surgeons: it was on the stroke of ten. He
 <lb n="06319"/> set off briskly along the northern side of the Green, hurrying
   <lb n="06320"/> for fear <persName xml:id="cy">Corley</persName> should return too soon. When he reached the
-<lb n="06321"/> corner of Merrion Street he took his stand in the shadow of a
+<lb n="06321"/> corner of <place> <location> <geo> 53.338146 -6.253635 </geo> </location> <placeName> Merrion Street </placeName> </place> he took his stand in the shadow of a
 <lb n="06322"/> lamp and brought out one of the cigarettes which he had
 <lb n="06323"/> reserved and lit it. He leaned against the lamppost and kept his
 <lb n="06324"/> gaze fixed on the part from which he expected to see <persName xml:id="cy">Corley</persName>
@@ -346,7 +346,7 @@
 <lb n="06345"/> with his long stride. They did not seem to be speaking. An
 <lb n="06346"/> intimation of the result pricked him like the point of a sharp
   <lb n="06347"/> instrument. He knew <persName xml:id="cy">Corley</persName> would fail: he knew it was no go.</p>
-<lb n="06348"/> <p>They turned down Baggot Street and he followed them at
+<lb n="06348"/> <p>They turned down <place> <location> <geo> 53.33799 -6.253025 </geo> </location> <placeName> Baggot Street </placeName> </place> and he followed them at
 <lb n="06349"/> once, taking the other footpath. When they stopped he stopped
 <lb n="06350"/> too. They talked for a few moments and then the young
 <lb n="06351"/> woman went down the steps into the area of a house. <persName xml:id="cy">Corley</persName>
@@ -356,7 +356,7 @@
   <lb n="06355"/> the front steps and coughed. <persName xml:id="cy">Corley</persName> turned and went towards
 <lb n="06356"/> her. His broad figure hid hers from view for a few seconds and
 <lb n="06357"/> then she reappeared running up the steps. The door closed on
-  <lb n="06358"/> her and <persName xml:id="cy">Corley</persName> began to walk swiftly towards Stephen's Green.</p>
+  <lb n="06358"/> her and <persName xml:id="cy">Corley</persName> began to walk swiftly towards <place> <location> <geo> 53.338818 -6.2568 </geo> </location> <placeName> Stephen's Green </placeName> </place>.</p>
   <lb n="06359"/> <p><persName xml:id="le">Lenehan</persName> hurried on in the same direction. Some drops of
 <lb n="06360"/> light rain fell. He took them as a warning and, glancing back
 <lb n="06361"/> towards the house which the young woman had entered to see
@@ -370,7 +370,7 @@
 <lb n="06369"/> <p>He came level with his friend and looked keenly in his face.
 <lb n="06370"/> He could see nothing there.
 <lb n="06371"/> <said who="">―</said>Well? he said. Did it come off?</p>
-<lb n="06372"/> <p>They had reached the corner of Ely Place. Still without
+<lb n="06372"/> <p>They had reached the corner of <place> <location> <geo> 53.337372 -6.254245 </geo> </location> <placeName> Ely Place </placeName> </place>. Still without
   <lb n="06373"/> answering <persName xml:id="cy">Corley</persName> swerved to the left and went up the side
 <lb n="06374"/> street. His features were composed in stern calm. <persName xml:id="le">Lenehan</persName> kept
 <lb n="06375"/> up with his friend, breathing uneasily. He was baffled and a

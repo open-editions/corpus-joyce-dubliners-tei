@@ -1,7 +1,7 @@
 <div n="08" type="story">
     <lb n="08000"/> <head rend="italics">A Little Cloud</head>
-<lb n="08001"/> <p>Eight years before he had seen his friend off at the North
-    <lb n="08002"/> Wall and wished him godspeed. <persName xml:id="ig">Gallaher</persName> had got on. You could
+<lb n="08001"/> <p>Eight years before he had seen his friend off at the <place> <location> <geo> 53.347826 -6.245342 </geo> </location> <placeName> North
+    <lb n="08002"/> Wall </placeName> </place> and wished him godspeed. <persName xml:id="ig">Gallaher</persName> had got on. You could
 <lb n="08003"/> tell that at once by his travelled air, his well-cut tweed suit and
 <lb n="08004"/> fearless accent. Few fellows had talents like his and fewer still
     <lb n="08005"/> could remain unspoiled by such success. <persName xml:id="ig">Gallaher</persName>'s heart was in
@@ -9,7 +9,7 @@
 <lb n="08007"/> have a friend like that.</p>
     <lb n="08008"/> <p><persName xml:id="lc">Little Chandler</persName>'s thoughts ever since lunchtime had been of
     <lb n="08009"/> his meeting with <persName xml:id="ig">Gallaher</persName>, of <persName xml:id="ig">Gallaher</persName>'s invitation and of the
-    <lb n="08010"/> great city London where <persName xml:id="ig">Gallaher</persName> lived. He was called <persName xml:id="lc">Little
+    <lb n="08010"/> great city <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> where <persName xml:id="ig">Gallaher</persName> lived. He was called <persName xml:id="lc">Little
     <lb n="08011"/> Chandler</persName> because, though he was but slightly under the average
 <lb n="08012"/> stature, he gave one the idea of being a little man. His hands
 <lb n="08013"/> were white and small, his frame was fragile, his voice was quiet
@@ -21,7 +21,7 @@
 <lb n="08019"/> <p>As he sat at his desk in the King's Inns he thought what
 <lb n="08020"/> changes those eight years had brought. The friend whom he
 <lb n="08021"/> had known under a shabby and necessitous guise had become a
-<lb n="08022"/> brilliant figure on the London press. He turned often from his
+<lb n="08022"/> brilliant figure on the <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> press. He turned often from his
 <lb n="08023"/> tiresome writing to gaze out of the office window. The glow of
 <lb n="08024"/> a late autumn sunset covered the grass plots and walks. It cast a
 <lb n="08025"/> shower of kindly golden dust on the untidy nurses and decrepit
@@ -43,7 +43,7 @@
 <lb n="08041"/> <p>When his hour had struck he stood up and took leave of his
 <lb n="08042"/> desk and of his fellow clerks punctiliously. He emerged from
 <lb n="08043"/> under the feudal arch of the King's Inns, a neat modest figure,
-<lb n="08044"/> and walked swiftly down Henrietta Street. The golden sunset
+<lb n="08044"/> and walked swiftly down <place> <location> <geo> 53.352585 -6.270396 </geo> </location> <placeName> Henrietta Street </placeName> </place>. The golden sunset
 <lb n="08045"/> was waning and the air had grown sharp. A horde of grimy
 <lb n="08046"/> children populated the street. They stood or ran in the roadway
 <lb n="08047"/> or crawled up the steps before the gaping doors or squatted like
@@ -53,7 +53,7 @@
 <lb n="08051"/> mansions in which the old nobility of Dublin had roistered. No
 <lb n="08052"/> memory of the past touched him, for his mind was full of a
 <lb n="08053"/> present joy.</p>
-<lb n="08054"/> <p>He had never been in Corless's but he knew the value of the
+<lb n="08054"/> <p>He had never been in <place> <location> <geo> 53.343849 -6.261048 </geo> </location> <placeName> Corless's </placeName> </place> but he knew the value of the
 <lb n="08055"/> name. He knew that people went there after the theatre to eat
 <lb n="08056"/> oysters and drink liqueurs; and he had heard that the waiters
 <lb n="08057"/> there spoke French and German. Walking swiftly by at night he
@@ -71,8 +71,8 @@
 <lb n="08069"/> troubled him, the wandering silent figures troubled him, and at
 <lb n="08070"/> times a sound of low fugitive laughter made him tremble like a
 <lb n="08071"/> leaf.</p>
-<lb n="08072"/> <p>He turned to the right towards Capel Street. <persName xml:id="ig">Ignatius Galla=
-    <lb n="08073"/> her</persName> on the London press! Who would have thought it possible
+<lb n="08072"/> <p>He turned to the right towards <place> <location> <geo> 53.350761 -6.269867 </geo> </location> <placeName> Capel Street </placeName> </place>. <persName xml:id="ig">Ignatius Galla=
+    <lb n="08073"/> her</persName> on the <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> press! Who would have thought it possible
 <lb n="08074"/> eight years before? Still, now that he reviewed the past, <persName xml:id="lc">Little
     <lb n="08075"/> Chandler</persName> could remember many signs of future greatness in his
     <lb n="08076"/> friend. People used to say that <persName xml:id="ig">Ignatius Gallaher</persName> was wild. Of
@@ -95,19 +95,19 @@
 <lb n="08093"/> time his soul revolted against the dull inelegance of Capel
 <lb n="08094"/> Street. There was no doubt about it: if you wanted to succeed
 <lb n="08095"/> you had to go away. You could do nothing in Dublin. As he
-<lb n="08096"/> crossed Grattan Bridge he looked down the river towards the
+<lb n="08096"/> crossed <place> <location> <geo> 53.345608 -6.267743 </geo> </location> <placeName> Grattan Bridge </placeName> </place> he looked down the river towards the
 <lb n="08097"/> lower quays and pitied the poor stunted houses. They seemed
 <lb n="08098"/> to him a band of tramps huddled together along the river
 <lb n="08099"/> banks, their old coats covered with dust and soot, stupefied by
 <lb n="08100"/> the panorama of sunset and waiting for the first chill of night
 <lb n="08101"/> to bid them arise, shake themselves and begone. He wondered
 <lb n="08102"/> whether he could write a poem to express his idea. Perhaps
-    <lb n="08103"/> <persName xml:id="ig">Gallaher</persName> might be able to get it into some London paper for
+    <lb n="08103"/> <persName xml:id="ig">Gallaher</persName> might be able to get it into some <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> paper for
 <lb n="08104"/> him. Could he write something original? He was not sure what
 <lb n="08105"/> idea he wished to express but the thought that a poetic moment
 <lb n="08106"/> had touched him took life within him like an infant hope. He
 <lb n="08107"/> stepped onward bravely.</p>
-<lb n="08108"/> <p>Every step brought him nearer to London, farther from his
+<lb n="08108"/> <p>Every step brought him nearer to <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place>, farther from his
 <lb n="08109"/> own sober inartistic life. A light began to tremble on the
 <lb n="08110"/> horizon of his mind. He was not so old - thirty-two. His
 <lb n="08111"/> temperament might be said to be just at the point of maturity.
@@ -130,7 +130,7 @@
     <lb n="08128"/> name before the surname: <persName xml:id="lc">Thomas Malone Chandler</persName>, or better
     <lb n="08129"/> still: <persName xml:id="lc">T Malone Chandler</persName>. He would speak to <persName xml:id="ig">Gallaher</persName> about it.</p>
 <lb n="08130"/> <p>He pursued his revery so ardently that he passed his street
-<lb n="08131"/> and had to turn back. As he came near Corless's his former
+<lb n="08131"/> and had to turn back. As he came near <place> <location> <geo> 53.343849 -6.261048 </geo> </location> <placeName> Corless's </placeName> </place> his former
 <lb n="08132"/> agitation began to overmaster him and he halted before the
 <lb n="08133"/> door in indecision. Finally he opened the door and entered.</p>
 <lb n="08134"/> <p>The light and noise of the bar held him at the doorway for a
@@ -180,7 +180,7 @@
 <lb n="08178"/> <said who="">―</said>Nothing, said <persName xml:id="lc">Little Chandler</persName>. He's gone to the dogs.
     <lb n="08179"/> <said who="">―</said>But <persName xml:id="hg">Hogan</persName> has a good sit, hasn't he?
 <lb n="08180"/> <said who="">―</said>Yes; he's in the Land Commission.
-<lb n="08181"/> <said who="">―</said>I met him one night in London and he seemed to be very
+<lb n="08181"/> <said who="">―</said>I met him one night in <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> and he seemed to be very
     <lb n="08182"/> flush. ... Poor <persName xml:id="oh">O'Hara</persName>! Boose, I suppose?
 <lb n="08183"/> <said who="">―</said>Other things, too, said <persName xml:id="lc">Little Chandler</persName> shortly.</p>
     <lb n="08184"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> laughed.
@@ -189,11 +189,11 @@
 <lb n="08187"/> mornings when I had a sore head and a fur on my tongue.
 <lb n="08188"/> You'd want to knock about a bit in the world. Have you never
 <lb n="08189"/> been anywhere, even for a trip?
-<lb n="08190"/> <said who="">―</said>I've been to the Isle of Man, said <persName xml:id="lc">Little Chandler</persName>.</p>
+<lb n="08190"/> <said who="">―</said>I've been to the <place> <location> <geo> 54.238682 -4.561996 </geo> </location> <placeName> Isle of Man </placeName> </place>, said <persName xml:id="lc">Little Chandler</persName>.</p>
     <lb n="08191"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> laughed.
-<lb n="08192"/> <said who="">―</said>The Isle of Man! he said. Go to London or Paris: Paris, for
+<lb n="08192"/> <said who="">―</said>The <place> <location> <geo> 54.238682 -4.561996 </geo> </location> <placeName> Isle of Man </placeName> </place>! he said. Go to <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> or <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place>: <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place>, for
 <lb n="08193"/> choice. That'd do you good.
-<lb n="08194"/> <said who="">―</said>Have you seen Paris?
+<lb n="08194"/> <said who="">―</said>Have you seen <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place>?
 <lb n="08195"/> <said who="">―</said>I should think I have! I've knocked about there a little.
 <lb n="08196"/> <said who="">―</said>And is it really so beautiful as they say? asked <persName xml:id="lc">Little
     <lb n="08197"/> Chandler</persName>.</p>
@@ -201,13 +201,13 @@
 <lb n="08199"/> finished his boldly.
 <lb n="08200"/> <said who="">―</said>Beautiful? said <persName xml:id="ig">Ignatius Gallaher</persName>, pausing on the word and
 <lb n="08201"/> on the flavour of his drink. It's not so beautiful, you know. Of
-<lb n="08202"/> course, it is beautiful. ... But it's the life of Paris: that's the
-<lb n="08203"/> thing. Ah, there's no city like Paris for gaiety, movement,
+<lb n="08202"/> course, it is beautiful. ... But it's the life of <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place>: that's the
+<lb n="08203"/> thing. Ah, there's no city like <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place> for gaiety, movement,
 <lb n="08204"/> excitement. ...</p>
     <lb n="08205"/> <p><persName xml:id="lc">Little Chandler</persName> finished his whisky and after some trouble
 <lb n="08206"/> succeeded in catching the barman's eye. He ordered the same
 <lb n="08207"/> again.
-<lb n="08208"/> <said who="">―</said>I've been to the Moulin Rouge, <persName xml:id="ig">Ignatius Gallaher</persName> continued
+<lb n="08208"/> <said who="">―</said>I've been to the <place> <location> <geo> 48.884121 2.33247 </geo> </location> <placeName> Moulin Rouge </placeName> </place>, <persName xml:id="ig">Ignatius Gallaher</persName> continued
 <lb n="08209"/> when the barman had removed their glasses, and I've been to
 <lb n="08210"/> all the bohemian cafés. Hot stuff! Not for a pious chap like
     <lb n="08211"/> you, <persName xml:id="lc">Tommy</persName>.</p>
@@ -217,33 +217,33 @@
     <lb n="08215"/> hwhat disillusioned. <persName xml:id="ig">Gallaher</persName>'s accent and way of expressing
 <lb n="08216"/> himself did not please him. There was something vulgar in his
 <lb n="08217"/> friend which he had not observed before. But perhaps it was
-<lb n="08218"/> only the result of living in London amid the bustle and
+<lb n="08218"/> only the result of living in <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> amid the bustle and
 <lb n="08219"/> competition of the press. The old personal charm was still there
 <lb n="08220"/> under this new gaudy manner. And, after all, <persName xml:id="ig">Gallaher</persName> had
     <lb n="08221"/> lived, he had seen the world. <persName xml:id="lc">Little Chandler</persName> looked at his
 <lb n="08222"/> friend enviously.
-<lb n="08223"/> <said who="">―</said>Everything in Paris is gay, said <persName xml:id="ig">Ignatius Gallaher.</persName> They
+<lb n="08223"/> <said who="">―</said>Everything in <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place> is gay, said <persName xml:id="ig">Ignatius Gallaher.</persName> They
 <lb n="08224"/> believe in enjoying life and don't you think they're right? If you
-<lb n="08225"/> want to enjoy yourself properly you must go to Paris. And,
+<lb n="08225"/> want to enjoy yourself properly you must go to <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place>. And,
 <lb n="08226"/> mind you, they've a great feeling for the Irish there. When they
 <lb n="08227"/> heard I was from Ireland they were ready to eat me, man.</p>
     <lb n="08228"/> <p><persName xml:id="lc">Little Chandler</persName> took four or five sips from his glass.
-<lb n="08229"/> <said who="">―</said>Tell me, he said, is it true that Paris is so ... immoral as they
+<lb n="08229"/> <said who="">―</said>Tell me, he said, is it true that <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place> is so ... immoral as they
 <lb n="08230"/> say?</p>
     <lb n="08231"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> made a catholic gesture with his right arm.
 <lb n="08232"/> <said who="">―</said>Every place is immoral, he said. Of course you do find spicy
-<lb n="08233"/> bits in Paris. Go to one of the students' balls, for instance.
+<lb n="08233"/> bits in <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place>. Go to one of the students' balls, for instance.
 <lb n="08234"/> That's lively, if you like, when the <emph>cocottes</emph> begin to let them=
 <lb n="08235"/> selves loose. You know what they are, I suppose?
 <lb n="08236"/> <said who="">―</said>I've heard of them, said <persName xml:id="lc">Little Chandler</persName>.</p>
     <lb n="08237"/> <p><persName xml:id="ig">Ignatius Gallaher</persName> drank off his whisky and shook his head.
 <lb n="08238"/> <said who="">―</said>Ah, he said, you may say what you like. There's no woman
-<lb n="08239"/> like the Parisienne for style, for go.
+<lb n="08239"/> like the <place> <location> <geo> 48.856667 2.350987 </geo> </location> <placeName> Paris </placeName> </place>ienne for style, for go.
 <lb n="08240"/> <said who="">―</said>Then it is an immoral city, said <persName xml:id="lc">Little Chandler</persName> with timid
-<lb n="08241"/> insistence, I mean, compared with London or Dublin?
-    <lb n="08242"/> <said who="">―</said>London! said <persName xml:id="ig">Ignatius Gallaher</persName>. It's six of one and half a
+<lb n="08241"/> insistence, I mean, compared with <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> or Dublin?
+    <lb n="08242"/> <said who="">―</said><place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place>! said <persName xml:id="ig">Ignatius Gallaher</persName>. It's six of one and half a
     <lb n="08243"/> dozen of the other. You ask <persName xml:id="hg">Hogan</persName>, my boy. I showed him a bit
-<lb n="08244"/> about London when he was over there. He'd open your eye. ...
+<lb n="08244"/> about <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place> when he was over there. He'd open your eye. ...
     <lb n="08245"/> I say, <persName xml:id="lc">Tommy</persName>, don't make punch of that whisky: liquor up.
 <lb n="08246"/> <said who="">―</said>No, really. ...
 <lb n="08247"/> <said who="">―</said>O, come on, another one won't do you any harm. What is
@@ -262,7 +262,7 @@
 <lb n="08260"/> in a calm historian's tone, he proceeded to sketch for his friend
 <lb n="08261"/> some pictures of the corruption which was rife abroad. He
 <lb n="08262"/> summarised the vices of many capitals and seemed inclined to
-<lb n="08263"/> award the palm to Berlin. Some things he could not vouch for
+<lb n="08263"/> award the palm to <place> <location> <geo> 52.523403 13.4114 </geo> </location> <placeName> Berlin </placeName> </place>. Some things he could not vouch for
 <lb n="08264"/> (his friends had told him) but of others he had had personal
 <lb n="08265"/> experience. He spared neither rank nor caste. He revealed
 <lb n="08266"/> many of the secrets of religious houses on the continent and
@@ -332,7 +332,7 @@
 <lb n="08330"/> excited. Three small whiskies had gone to his head and <persName xml:id="ig">Galla=
     <lb n="08331"/> her</persName>'s strong cigar had confused his mind for he was a delicate
 <lb n="08332"/> and abstinent person. The adventure of meeting <persName xml:id="ig">Gallaher</persName> after
-    <lb n="08333"/> eight years, of finding himself with <persName xml:id="ig">Gallaher</persName> in Corless's sur=
+    <lb n="08333"/> eight years, of finding himself with <persName xml:id="ig">Gallaher</persName> in <place> <location> <geo> 53.343849 -6.261048 </geo> </location> <placeName> Corless's </placeName> </place> sur=
 <lb n="08334"/> rounded by lights and noise, of listening to <persName xml:id="ig">Gallaher</persName>'s stories
     <lb n="08335"/> and of sharing for a brief space <persName xml:id="ig">Gallaher</persName>'s vagrant and trium=
 <lb n="08336"/> phant life, upset the equipoise of his sensitive nature. He felt
@@ -438,7 +438,7 @@
 <lb n="08436"/> was prim and pretty. A dull resentment against his life awoke
 <lb n="08437"/> within him. Could he not escape from his little house? Was it
 <lb n="08438"/> too late for him to try to live bravely like <persName xml:id="ig">Gallaher</persName>? Could he
-<lb n="08439"/> go to London? There was the furniture still to be paid for. If he
+<lb n="08439"/> go to <place> <location> <geo> 51.500153 -0.126236 </geo> </location> <placeName> London </placeName> </place>? There was the furniture still to be paid for. If he
 <lb n="08440"/> could only write a book and get it published, that might open
 <lb n="08441"/> the way for him.</p>
 <lb n="08442"/> <p>A volume of Byron's poems lay before him on the table. He
@@ -452,7 +452,7 @@
 <lb n="08450"/> room. How melancholy it was! Could he, too, write like that,
 <lb n="08451"/> express the melancholy of his soul in verse? There were so
 <lb n="08452"/> many things he wanted to describe: his sensation of a few hours
-<lb n="08453"/> before on Grattan Bridge, for example. If he could get back
+<lb n="08453"/> before on <place> <location> <geo> 53.345608 -6.267743 </geo> </location> <placeName> Grattan Bridge </placeName> </place>, for example. If he could get back
 <lb n="08454"/> again into that mood. ...</p>
 <lb n="08455"/> <p>The child awoke and began to cry. He turned from the page
 <lb n="08456"/> and tried to hush it: but it would not be hushed. He began to
