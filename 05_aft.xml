@@ -1,7 +1,7 @@
 <div n="05" type="story"><lb n="05000"/> <head rend="italics">After the Race</head>
 <lb n="05001"/> <p>The cars came scudding in towards Dublin, running evenly
-<lb n="05002"/> like pellets in the groove of the Naas Road. At the crest of the
-<lb n="05003"/> hill at Inchicore sightseers had gathered in clumps to watch the
+<lb n="05002"/> like pellets in the groove of the <place> <location> <geo> 53.328629 -6.335859 </geo> </location> <placeName> Naas Road </placeName> </place>. At the crest of the
+<lb n="05003"/> hill at <place> <location> <geo> 53.339571 -6.321672 </geo> </location> <placeName> Inchicore </placeName> </place> sightseers had gathered in clumps to watch the
 <lb n="05004"/> cars careering homeward and through this channel of poverty
 <lb n="05005"/> and inaction the continent sped its wealth and industry. Now
 <lb n="05006"/> and again the clumps of people raised the cheer of the grate=
@@ -33,23 +33,23 @@
 <lb n="05032"/> brown moustache and rather innocent looking grey eyes. His
 <lb n="05033"/> father, who had begun life as an advanced nationalist, had
 <lb n="05034"/> modified his views early. He had made his money as a butcher
-<lb n="05035"/> in Kingstown and by opening shops in Dublin and in the
+<lb n="05035"/> in <place> <location> <geo> 53.288529 -6.14257 </geo> </location> <placeName> Kingstown </placeName> </place> and by opening shops in Dublin and in the
 <lb n="05036"/> suburbs he had made his money many times over. He had also
 <lb n="05037"/> been fortunate enough to secure some of the police contracts
 <lb n="05038"/> and in the end he had become rich enough to be alluded to in
 <lb n="05039"/> the Dublin newspapers as a merchant prince. He had sent his
 <lb n="05040"/> son to England to be educated in a big catholic college and had
-<lb n="05041"/> afterwards sent him to Dublin university to study law. <persName xml:id="jd">Jimmy</persName>
+<lb n="05041"/> afterwards sent him to <place> <location> <geo> 53.344471 -6.258795 </geo> </location> <placeName> Dublin university </placeName> </place> to study law. <persName xml:id="jd">Jimmy</persName>
 <lb n="05042"/> did not study very earnestly and took to bad courses for a
 <lb n="05043"/> while. He had money and he was popular and he divided his
 <lb n="05044"/> time curiously between musical and motoring circles. Then he
-<lb n="05045"/> had been sent for a term to Cambridge to see a little life. His
+<lb n="05045"/> had been sent for a term to <place> <location> <geo> 52.205303 0.116613 </geo> </location> <placeName> Cambridge </placeName> </place> to see a little life. His
 <lb n="05046"/> father, remonstrative but covertly proud of the excess, had paid
-<lb n="05047"/> his bills and brought him home. It was at Cambridge that he
+<lb n="05047"/> his bills and brought him home. It was at <place> <location> <geo> 52.205303 0.116613 </geo> </location> <placeName> Cambridge </placeName> </place> that he
   <lb n="05048"/> had met <persName xml:id="cs">Ségouin</persName>. They were not much more than acquaint=
   <lb n="05049"/> ances as yet but <persName xml:id="jd">Jimmy</persName> found great pleasure in the society of
 <lb n="05050"/> one who had seen so much of the world and was reputed to
-<lb n="05051"/> own some of the biggest hotels in France. Such a person (as his
+<lb n="05051"/> own some of the biggest hotels in <place> <location> <geo> 47.39835 1.757813 </geo> </location> <placeName> France </placeName> </place>. Such a person (as his
 <lb n="05052"/> father agreed) was well worth knowing, even if he had not been
   <lb n="05053"/> the charming companion he was. <persName xml:id="vi">Villona</persName> was entertaining also
 <lb n="05054"/> - a brilliant pianist - but, unfortunately, very poor.</p>
@@ -96,7 +96,7 @@
 <lb n="05095"/> roads! The journey laid a magical finger on the genuine pulse
 <lb n="05096"/> of life and gallantly the machinery of human nerves strove to
 <lb n="05097"/> answer the bounding courses of the swift blue animal.</p>
-<lb n="05098"/> <p>They drove down Dame Street. The street was busy with
+<lb n="05098"/> <p>They drove down <place> <location> <geo> 53.344173 -6.26478 </geo> </location> <placeName> Dame Street </placeName> </place>. The street was busy with
 <lb n="05099"/> unusual traffic, loud with the horns of motorists and the gongs
   <lb n="05100"/> of impatient tramdrivers. Near the bank <persName xml:id="cs">Ségouin</persName> drew up and
   <lb n="05101"/> <persName xml:id="jd">Jimmy</persName> and his friend alighted. A little knot of people collected
@@ -104,7 +104,7 @@
   <lb n="05103"/> party was to dine together that evening in <persName xml:id="cs">Ségouin</persName>'s hotel and
   <lb n="05104"/> meanwhile <persName xml:id="jd">Jimmy</persName> and his friend, who was staying with him,
 <lb n="05105"/> were to go home to dress. The car steered out slowly for
-<lb n="05106"/> Grafton Street while the two young men pushed their way
+<lb n="05106"/> <place> <location> <geo> 53.342903 -6.259439 </geo> </location> <placeName> Grafton Street </placeName> </place> while the two young men pushed their way
 <lb n="05107"/> through the knot of gazers. They walked northward with a
 <lb n="05108"/> curious feeling of disappointment in the exercise while the city
 <lb n="05109"/> hung its pale globes of light above them in a haze of summer
@@ -124,7 +124,7 @@
   <lb n="05123"/> <p>The dinner was excellent, exquisite. <persName xml:id="cs">Ségouin</persName>, <persName xml:id="jd">Jimmy</persName> de=
 <lb n="05124"/> cided, had a very refined taste. The party was increased by a
   <lb n="05125"/> young Englishman named <persName xml:id="ro">Routh</persName> whom <persName xml:id="jd">Jimmy</persName> had seen with
-  <lb n="05126"/> <persName xml:id="cs">Ségouin</persName> at Cambridge. The young men supped in a snug room
+  <lb n="05126"/> <persName xml:id="cs">Ségouin</persName> at <place> <location> <geo> 52.205303 0.116613 </geo> </location> <placeName> Cambridge </placeName> </place>. The young men supped in a snug room
 <lb n="05127"/> lit by electric candle lamps. They talked volubly and with little
   <lb n="05128"/> reserve. <persName xml:id="jd">Jimmy,</persName> whose imagination was kindling, conceived the
 <lb n="05129"/> lively youth of the Frenchmen twined elegantly upon the firm
@@ -147,10 +147,10 @@
 <lb n="05146"/> his glass to humanity and, when the toast had been drunk, he
 <lb n="05147"/> threw open a window significantly.</p>
 <lb n="05148"/> <p>That night the city wore the mask of a capital. The five
-<lb n="05149"/> young men strolled along Stephen's Green in a faint cloud of
+<lb n="05149"/> young men strolled along <place> <location> <geo> 53.339832 -6.260629 </geo> </location> <placeName> Stephen's Green </placeName> </place> in a faint cloud of
 <lb n="05150"/> aromatic smoke. They talked loudly and gaily and their cloaks
 <lb n="05151"/> dangled from their shoulders. The people made way for them.
-<lb n="05152"/> At the corner of Grafton Street a short fat man was putting two
+<lb n="05152"/> At the corner of <place> <location> <geo> 53.342903 -6.259439 </geo> </location> <placeName> Grafton Street </placeName> </place> a short fat man was putting two
 <lb n="05153"/> handsome ladies on a car in charge of another fat man. The car
 <lb n="05154"/> drove off and the short fat man caught sight of the party.
   <lb n="05155"/> <said who="">―</said><persName xml:id="ar">André</persName>!
@@ -160,9 +160,9 @@
 <lb n="05159"/> were the noisiest but all the men were excited. They got up on
 <lb n="05160"/> a car, squeezing themselves together amid much laughter. They
 <lb n="05161"/> drove by the crowd, blended now into soft colours, to a music
-<lb n="05162"/> of merry bells. They took the train at Westland Row and in a
+<lb n="05162"/> of merry bells. They took the train at <place> <location> <geo> 53.343182 -6.249869 </geo> </location> <placeName> Westland Row </placeName> </place> and in a
   <lb n="05163"/> few seconds, as it seemed to <persName xml:id="jd">Jimmy</persName>, they were walking out of
-<lb n="05164"/> Kingstown station. The ticket collector saluted <persName xml:id="jd">Jimmy</persName>; he was
+<lb n="05164"/> <place> <location> <geo> 53.297184 -6.135135 </geo> </location> <placeName> Kingstown station </placeName> </place>. The ticket collector saluted <persName xml:id="jd">Jimmy</persName>; he was
 <lb n="05165"/> an old man.
 <lb n="05166"/> <said who="">―</said>Fine night, sir!</p>
 <lb n="05167"/> <p>It was a serene summer night; the harbour lay like a
@@ -181,8 +181,8 @@
   <lb n="05180"/> will; this was seeing life, at least. Then <persName xml:id="fa">Farley</persName> got out of breath
 <lb n="05181"/> and cried <emph>Stop!</emph> A man brought in a light supper and the young
 <lb n="05182"/> men sat down to it for form' sake. They drank, however: it was
-<lb n="05183"/> bohemian. They drank Ireland, England, France, Hungary, the
-  <lb n="05184"/> United States of America. <persName xml:id="jd">Jimmy</persName> made a speech, a long speech,
+<lb n="05183"/> bohemian. They drank Ireland, England, <place> <location> <geo> 47.39835 1.757813 </geo> </location> <placeName> France </placeName> </place>, <place> <location> <geo> 46.980251 19.6875 </geo> </location> <placeName> Hungary </placeName> </place>, the
+  <lb n="05184"/> <place> <location> <geo> 37.996162 -88.242188 </geo> </location> <placeName> United States of America </placeName> </place>. <persName xml:id="jd">Jimmy</persName> made a speech, a long speech,
   <lb n="05185"/> <persName xml:id="vi">Villona</persName> saying: <emph>Hear! hear!</emph> whenever there was a pause. There
 <lb n="05186"/> was a great clapping of hands when he sat down. It must have
   <lb n="05187"/> been a good speech. <persName xml:id="fa">Farley</persName> clapped him on the back and
