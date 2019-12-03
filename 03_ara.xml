@@ -10,8 +10,8 @@
 <lb n="04009"/> closed, hung in all the rooms and the waste room behind the
 <lb n="04010"/> kitchen was littered with old useless papers. Among these I
 <lb n="04011"/> found a few papercovered books, the pages of which were
-<lb n="04012"/> curled and damp: <emph>The Abbot</emph> by <persName xml:id="ws">Walter Scott</persName>, <emph>The Devout
-<lb n="04013"/> Communicant</emph> and <emph>The Memoirs of Vidocq.</emph> I liked the last best
+  <lb n="04012"/> curled and damp: <emph><title type="book">The Abbot</title></emph> by <persName xml:id="ws">Walter Scott</persName>, <emph><title type="book">The Devout
+  <lb n="04013"/> Communicant</title></emph> and <emph><title type="book">The Memoirs of Vidocq</title>.</emph> I liked the last best
 <lb n="04014"/> because its leaves were yellow. The wild garden behind the
 <lb n="04015"/> house contained a central apple tree and a few straggling
 <lb n="04016"/> bushes under one of which I found the late tenant's rusty
@@ -83,13 +83,13 @@
 <lb n="04082"/> O love!</emph> many times.</p>
 <lb n="04083"/> <p>At last she spoke to me. When she addressed the first words
 <lb n="04084"/> to me I was so confused that I did not know what to answer.
-<lb n="04085"/> She asked me was I going to <emph>Araby.</emph> I forget whether I answered
-<lb n="04086"/> yes or no. <said who="Mangan's sister">It would be a splendid bazaar, she said; she would
+<lb n="04085"/> She asked me <said who="Mangan's sister" direct="false">was I going to <emph>Araby.</emph></said> I forget whether I answered
+  <lb n="04086"/> yes or no. <said who="Mangan's sister">It would be a splendid bazaar, </said>she said; <said who="Mangan's sister" direct="false">she would
   <lb n="04087"/> love to go.</said>
-<lb n="04088"/> <said who="narrator">―And why can't you? I asked.</said></p>
+<lb n="04088"/> <said who="narrator">―And why can't you? </said>I asked.</p>
 <lb n="04089"/> <p>While she spoke she turned a silver bracelet round and
-<lb n="04090"/> round her wrist. She could not go, she said, because there
-<lb n="04091"/> would be a retreat that week in her convent. Her brother and
+  <lb n="04090"/> round her wrist. <said who="Mangan's sister" direct="false">She could not go,</said> she said, <said who="Mangan's sister" direct="false">because there
+  <lb n="04091"/> would be a retreat that week in her convent.</said> Her brother and
 <lb n="04092"/> two other boys were fighting for their caps and I was alone at
 <lb n="04093"/> the railings. She held one of the spikes, bowing her head to=
 <lb n="04094"/> wards me. The light from the lamp opposite our door caught
@@ -97,8 +97,8 @@
 <lb n="04096"/> and, falling, lit up the hand upon the railing. It fell over one
 <lb n="04097"/> side of her dress and caught the white border of a petticoat, just
 <lb n="04098"/> visible as she stood at ease.
-<lb n="04099"/> <said who="Mangan's sister">―It's well for you, she said.</said>
-<lb n="04100"/> <said who="narrator">―If I go, I said, I will bring you something.</said></p>
+  <lb n="04099"/> <said who="Mangan's sister">―It's well for you, </said>she said.
+  <lb n="04100"/> <said who="narrator">―If I go, </said>I said, <said who="narrator">I will bring you something.</said></p>
 <lb n="04101"/> <p>What innumerable follies laid waste my waking and sleeping
 <lb n="04102"/> thoughts after that evening! I wished to annihilate the tedious
 <lb n="04103"/> intervening days. I chafed against the work of school. At night
@@ -140,9 +140,9 @@
 <lb n="04139"/> widow who collected used stamps for some pious purpose. I
 <lb n="04140"/> had to endure the gossip of the teatable. The meal was
 <lb n="04141"/> prolonged beyond an hour and still my uncle did not come.
-  <lb n="04142"/> <persName xml:id="mc">Mrs Mercer</persName> stood up to go: she was sorry she couldn't wait
+  <lb n="04142"/> <persName xml:id="mc">Mrs Mercer</persName> stood up to go: <said who="Mrs Mercer" direct="false">she was sorry she couldn't wait
 <lb n="04143"/> any longer but it was after eight o'clock and she did not like to
-<lb n="04144"/> be out late as the night air was bad for her. When she had gone
+  <lb n="04144"/> be out late as the night air was bad for her.</said> When she had gone
 <lb n="04145"/> I began to walk up and down the room, clenching my fists. My
 <lb n="04146"/> aunt said:
 <lb n="04147"/> <said who="narrator's aunt">―I'm afraid you may put off your bazaar for this night of Our
@@ -153,13 +153,13 @@
 <lb n="04152"/> interpret these signs. When he was midway through his dinner I
 <lb n="04153"/> asked him to give me the money to go to the bazaar. He had
 <lb n="04154"/> forgotten.
-<lb n="04155"/> <said who="narrator's uncle">―The people are in bed and after their first sleep now, he said.</said></p>
+<lb n="04155"/> <said who="narrator's uncle">―The people are in bed and after their first sleep now,</said> he said.</p>
 <lb n="04156"/> <p>I did not smile. My aunt said to him energetically:
 <lb n="04157"/> <said who="narrator's aunt">―Can't you give him the money and let him go? You've kept
 <lb n="04158"/> him late enough as it is.</said></p>
-<lb n="04159"/> <p>My uncle said he was very sorry he had forgotten. He said
-<lb n="04160"/> he believed in the old saying: <emph>All work and no play makes Jack
-<lb n="04161"/> a dull boy.</emph> He asked me where I was going and when I had told
+<lb n="04159"/> <p>My uncle said <said who="narrator's uncle" direct="false">he was very sorry he had forgotten.</said> He said
+<lb n="04160"/> <said who="narrator's uncle" direct="false">he believed in the old saying: <emph>All work and no play makes Jack
+  <lb n="04161"/> a dull boy.</emph></said> He asked me where I was going and when I had told
 <lb n="04162"/> him a second time he asked me did I know <emph>The Arab's Farewell
 <lb n="04163"/> to his Steed.</emph> When I left the kitchen he was about to recite the
 <lb n="04164"/> opening lines of the piece to my aunt.</p>
@@ -199,12 +199,12 @@
 <lb n="04198"/> <said who="young gentleman one">―Didn't she say that?</said>
 <lb n="04199"/> <said who="young gentleman two">―She did. I heard her.</said>
 <lb n="04200"/> <said who="young lady">―O, there's a ... fib!</said></p>
-<lb n="04201"/> <p>Observing me the young lady came over and asked me did I
-<lb n="04202"/> wish to buy anything. The tone of her voice was not encour=
+<lb n="04201"/> <p>Observing me the young lady came over and asked me <said who="young lady" direct="false">did I
+  <lb n="04202"/> wish to buy anything. </said>The tone of her voice was not encour=
 <lb n="04203"/> aging: she seemed to have spoken to me out of a sense of duty. I
 <lb n="04204"/> looked humbly at the great jars that stood like eastern guards
 <lb n="04205"/> at either side of the dark entrance to her stall and murmured:
-<lb n="04206"/> <said who="I">―No, thank you.</said></p>
+<lb n="04206"/> <said who="narrator">―No, thank you.</said></p>
 <lb n="04207"/> <p>The young lady changed the position of one of the vases and
 <lb n="04208"/> went back to the two young men. They began to talk of the
 <lb n="04209"/> same subject. Once or twice the young lady glanced at me over
