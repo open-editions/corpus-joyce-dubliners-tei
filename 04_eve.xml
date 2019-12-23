@@ -99,11 +99,11 @@
 <lb n="04098"/> He told her the names of the ships he had been on and the
 <lb n="04099"/> names of the different services. He had sailed through the
 <lb n="04100"/> Straits of Magellan and he told her stories of the terrible
-<lb n="04101"/> Patagonians. He had fallen on his feet in Buenos Ayres, he said,
-<lb n="04102"/> and had come over to the old country just for a holiday. Of
+<lb n="04101"/> Patagonians.<said who="Frank" direct="false"> He had fallen on his feet in Buenos Ayres,</said> he said,<said who="Frank" direct="false">
+  <lb n="04102"/> and had come over to the old country just for a holiday.</said> Of
 <lb n="04103"/> course, her father had found out the affair and had forbidden
 <lb n="04104"/> her to have anything to say to him:
-<lb n="04105"/> <said who="Eveline's father">―I know these sailor chaps, he said.</said></p>
+<lb n="04105"/> <said who="Eveline's father">―I know these sailor chaps, </said>he said.</p>
   <lb n="04106"/> <p>One day he had quarrelled with <persName xml:id="fr">Frank</persName> and after that she had
 <lb n="04107"/> to meet her lover secretly.</p>
 <lb n="04108"/> <p>The evening deepened in the avenue. The white of two let=
@@ -161,7 +161,7 @@
 <lb n="04159"/> drawing her into them: he would drown her. She gripped with
 <lb n="04160"/> both hands at the iron railing.
 <lb n="04161"/> <said who="Frank">―Come!</said></p>
-<lb n="04162"/> <p>No! No! No! It was impossible. Her hands clutched the iron
+  <lb n="04162"/> <p><said who="Eveline" aloud="false">No! No! No! It was impossible.</said> Her hands clutched the iron
 <lb n="04163"/> in frenzy. Amid the seas she sent a cry of anguish.
   <lb n="04164"/> <said who="Frank">―<persName xml:id="ev">Eveline</persName>! <persName xml:id="ev">Evvy</persName>!</said></p>
 <lb n="04165"/> <p>He rushed beyond the barrier and called to her to follow. He
