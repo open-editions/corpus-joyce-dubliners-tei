@@ -70,8 +70,8 @@
 <lb n="09069"/> must slake the thirst in his throat. He stood up from his desk
 <lb n="09070"/> and, lifting the counter as before, passed out of the office. As
 <lb n="09071"/> he was passing out the chief clerk looked at him inquiringly.
-  <lb n="09072"/> <said who="Farrington">―It's all right, <persName xml:id="msh">Mr Shelley</persName>, said the man pointing with his
-<lb n="09073"/> finger to indicate the objective of his journey.</said></p>
+  <lb n="09072"/> <said who="Farrington">―It's all right, <persName xml:id="msh">Mr Shelley</persName>, </said>said the man pointing with his
+<lb n="09073"/> finger to indicate the objective of his journey.</p>
 <lb n="09074"/> <p>The chief clerk glanced at the hatrack but, seeing the row
 <lb n="09075"/> complete, offered no remark. As soon as he was on the landing
 <lb n="09076"/> the man pulled a shepherd's plaid cap out of his pocket, put it
@@ -95,13 +95,13 @@
   <lb n="09094"/> nose: evidently <persName xml:id="md">Miss Delacour</persName> had come while he was out in
 <lb n="09095"/> O'Neill's. He crammed his cap back again into his pocket and
 <lb n="09096"/> reentered the office, assuming an air of absentmindedness.
-  <lb n="09097"/> <said who="Mr Shelley">―<persName xml:id="ma">Mr Alleyne</persName> has been calling for you, said the chief clerk
-<lb n="09098"/> severely. Where were you?</said></p>
+  <lb n="09097"/> <said who="Mr Shelley">―<persName xml:id="ma">Mr Alleyne</persName> has been calling for you, </said>said the chief clerk
+<lb n="09098"/> severely. <said who="Mr Shelley">Where were you?</said></p>
 <lb n="09099"/> <p>The man glanced at the two clients who were standing at the
 <lb n="09100"/> counter as if to intimate that their presence prevented him from
 <lb n="09101"/> answering. As the clients were both male the chief clerk
 <lb n="09102"/> allowed himself a laugh:
-<lb n="09103"/> <said who="Mr Shelley">―I know that game, he said. Five times in one day is a little
+  <lb n="09103"/> <said who="Mr Shelley">―I know that game, </said>he said. <said who="Mr Shelley">Five times in one day is a little
 <lb n="09104"/> bit ..... Well, you better look sharp and get a copy of our
   <lb n="09105"/> correspondence in the <persName xml:id="md">Delacour</persName> case for <persName xml:id="ma">Mr Alleyne</persName>.</said></p>
 <lb n="09106"/> <p>This address in the presence of the public, his run upstairs
@@ -138,7 +138,7 @@
 <lb n="09137"/> wandered away to the glare and rattle of the publichouse. It
 <lb n="09138"/> was a night for hot punches. He struggled on with his copy but
 <lb n="09139"/> when the clock struck five he had still fourteen pages to write.
-<lb n="09140"/> Blast it! He couldn't finish it in time. He longed to execrate
+  <lb n="09140"/> <said who="Farrington" aloud="false">Blast it! </said>He couldn't finish it in time. He longed to execrate
 <lb n="09141"/> aloud, to bring his fist down on something violently. He was so
   <lb n="09142"/> enraged that he wrote <emph><persName xml:id="bo">Bernard Bernard</persName></emph> instead of <emph><persName xml:id="bo">Bernard
   <lb n="09143"/> Bodley</persName></emph> and had to begin again on a clean sheet.</p>
@@ -160,15 +160,15 @@
 <lb n="09159"/> tirade continued: it was so bitter and violent that the man
 <lb n="09160"/> could hardly restrain his fist from descending upon the head of
 <lb n="09161"/> the manikin before him:
-<lb n="09162"/> <said who="Farrington">―I know nothing about any other two letters, he said stupidly.</said>
-<lb n="09163"/> <said who="Mr Alleyne">―<emph>You-know-nothing.</emph> Of course you know nothing, said
-  <lb n="09164"/> <persName xml:id="ma">Mr Alleyne</persName>. Tell me, he added, glancing first for approval to
-<lb n="09165"/> the lady beside him, do you take me for a fool? Do you think
+  <lb n="09162"/> <said who="Farrington">―I know nothing about any other two letters, </said>he said stupidly.
+<lb n="09163"/> <said who="Mr Alleyne">―<emph>You-know-nothing.</emph> Of course you know nothing, </said>said
+  <lb n="09164"/> <persName xml:id="ma">Mr Alleyne</persName>. <said who="Mr Alleyne">Tell me, </said>he added, glancing first for approval to
+<lb n="09165"/> the lady beside him, <said who="Mr Alleyne">do you take me for a fool? Do you think
 <lb n="09166"/> me an utter fool?</said></p>
 <lb n="09167"/> <p>The man glanced from the lady's face to the little eggshaped
 <lb n="09168"/> head and back again: and almost before he was aware of it his
 <lb n="09169"/> tongue had found a felicitous moment:
-<lb n="09170"/> <said who="Farrington">―I don't think, sir, he said, that that's a fair question to put
+  <lb n="09170"/> <said who="Farrington">―I don't think, sir, </said>he said, <said who="Farrington">that that's a fair question to put
 <lb n="09171"/> to me.</said></p>
 <lb n="09172"/> <p>There was a pause in the very breathing of the clerks. Every=
 <lb n="09173"/> one was astounded (the author of the witticism no less than his
@@ -266,16 +266,16 @@
   <lb n="09264"/> They began to exchange stories. <persName xml:id="ld">Leonard</persName> introduced them to a
   <lb n="09265"/> young fellow named <persName xml:id="we">Weathers</persName> who was performing at the
 <lb n="09266"/> Tivoli as an acrobat and knockabout <emph>artiste.</emph> <persName xml:id="fn">Farrington</persName> stood
-  <lb n="09267"/> a drink all round. <persName xml:id="we">Weathers</persName> said he would take a small Irish
-  <lb n="09268"/> and Apollinaris. <persName xml:id="fn">Farrington</persName>, who had definite notions of what
+  <lb n="09267"/> a drink all round. <persName xml:id="we">Weathers</persName> said <said who="Weathers" direct="false">he would take a small Irish
+  <lb n="09268"/> and Apollinaris.</said> <persName xml:id="fn">Farrington</persName>, who had definite notions of what
 <lb n="09269"/> was what, asked the boys would they have an Apollinaris too:
   <lb n="09270"/> but the boys told <persName xml:id="tm">Tim</persName> to make theirs hot. The talk became
   <lb n="09271"/> theatrical. <persName xml:id="on">O'Halloran</persName> stood a round and then <persName xml:id="fn">Farrington</persName>
   <lb n="09272"/> stood another round, <persName xml:id="we">Weathers</persName> protesting that the hospitality
 <lb n="09273"/> was too Irish. He promised to get them in behind the scenes
-  <lb n="09274"/> and introduce them to some nice girls. <persName xml:id="on">O'Halloran</persName> said that he
+  <lb n="09274"/> and introduce them to some nice girls. <persName xml:id="on">O'Halloran</persName> said that <said who="O'Halloran" direct="false">he
   <lb n="09275"/> and <persName xml:id="ld">Leonard</persName> would go but that <persName xml:id="fn">Farrington</persName> wouldn't go be=
-  <lb n="09276"/> cause he was a married man and <persName xml:id="fn">Farrington</persName>'s heavy dirty eyes
+  <lb n="09276"/> cause he was a married man</said> and <persName xml:id="fn">Farrington</persName>'s heavy dirty eyes
 <lb n="09277"/> leered at the company in token that he understood when he
   <lb n="09278"/> was being chaffed. <persName xml:id="we">Weathers</persName> made them all have just one little
 <lb n="09279"/> tincture at his expense and promised to meet them later on at
@@ -324,8 +324,8 @@
   <lb n="09322"/> rington</persName>'s dark winecoloured face flushed darker still with anger
 <lb n="09323"/> and humiliation at having been defeated by such a stripling.
 <lb n="09324"/> <said who="Farrington">―You're not to put the weight of your body behind it. Play
-<lb n="09325"/> fair, he said.</said>
-<lb n="09326"/> <said who="Weathers">―Who's not playing fair? said the other.</said>
+  <lb n="09325"/> fair, </said>he said.
+  <lb n="09326"/> <said who="Weathers">―Who's not playing fair? </said>said the other.
 <lb n="09327"/> <said who="Farrington">―Come on again. The two best out of three.</said></p>
 <lb n="09328"/> <p>The trial began again. The veins stood out on <persName xml:id="fn">Farrington</persName>'s
   <lb n="09329"/> forehead and the pallor of <persName xml:id="we">Weathers'</persName> complexion changed to
@@ -336,10 +336,10 @@
 <lb n="09334"/> nodded his red head towards the victor and said with loutish
 <lb n="09335"/> familiarity:
 <lb n="09336"/> <said who="curate">―Ah! that's the knack!</said>
-<lb n="09337"/> <said who="Farrington">―What the hell do you know about it? said <persName xml:id="fn">Farrington</persName>
-<lb n="09338"/> fiercely, turning on the man. What do you put in your gab for?</said>
-  <lb n="09339"/> <said who="O'Halloran">―'Sh,'sh! said <persName xml:id="on">O'Halloran</persName>, observing the violent expression of
-  <lb n="09340"/> <persName xml:id="fn">Farrington</persName>'s face. Pony up, boys. We'll have just one little
+  <lb n="09337"/> <said who="Farrington">―What the hell do you know about it? </said>said <persName xml:id="fn">Farrington</persName>
+<lb n="09338"/> fiercely, turning on the man. <said who="Farrington">What do you put in your gab for?</said>
+  <lb n="09339"/> <said who="O'Halloran">―'Sh,'sh! </said>said <persName xml:id="on">O'Halloran</persName>, observing the violent expression of
+  <lb n="09340"/> <persName xml:id="fn">Farrington</persName>'s face. <said who="O'Halloran">Pony up, boys. We'll have just one little
 <lb n="09341"/> smahan more and then we'll be off!</said></p>
 <lb n="09342"/> <p>A very sullenfaced man stood at the corner of O'Connell
 <lb n="09343"/> Bridge waiting for the little Sandymount tram to take him
@@ -364,7 +364,7 @@
 <lb n="09362"/> husband when he was sober and was bullied by him when he
 <lb n="09363"/> was drunk. They had five children. A little boy came running
 <lb n="09364"/> down the stairs.
-<lb n="09365"/> <said who="Farrington">―Who is that? said the man peering through the darkness.</said>
+  <lb n="09365"/> <said who="Farrington">―Who is that? </said>said the man peering through the darkness.
 <lb n="09366"/> <said who="Tom">―Me, pa.</said>
   <lb n="09367"/> <said who="Farrington">―Who are you? <persName xml:id="ch">Charlie</persName></said>?
   <lb n="09368"/> <said who="Tom">―No, pa. <persName xml:id="tom">Tom</persName>.</said>
@@ -380,25 +380,25 @@
 <lb n="09378"/> please!</emph> When the lamp was lit he banged his fist on the table
 <lb n="09379"/> and shouted:
 <lb n="09380"/> <said who="Farrington">―What's for my dinner?</said>
-<lb n="09381"/> <said who="Tom">―I'm ... going to cook it, pa, said the little boy.</said></p>
+  <lb n="09381"/> <said who="Tom">―I'm ... going to cook it, pa, </said>said the little boy.</p>
 <lb n="09382"/> <p>The man jumped up furiously and pointed to the fire:
 <lb n="09383"/> <said who="Farrington">―On that fire! You let the fire out! By God, I'll teach you to do
 <lb n="09384"/> that again!</said></p>
 <lb n="09385"/> <p>He took a step to the door and seized the walking stick
 <lb n="09386"/> which was standing behind it:
-<lb n="09387"/> <said who="Farrington">―I'll teach you to let the fire out! he said, rolling up his sleeve
-<lb n="09388"/> in order to give his arm free play.</said></p>
+  <lb n="09387"/> <said who="Farrington">―I'll teach you to let the fire out! </said>he said, rolling up his sleeve
+<lb n="09388"/> in order to give his arm free play.</p>
 <lb n="09389"/> <p>The little boy cried <emph>O, pa!</emph> and ran whimpering round the
 <lb n="09390"/> table but the man followed him and caught him by the coat.
 <lb n="09391"/> The little boy looked about him wildly but, seeing no way of
 <lb n="09392"/> escape, fell upon his knees.
-<lb n="09393"/> <said who="Farrington">―Now, you'll let the fire out the next time! said the man,
-<lb n="09394"/> striking at him viciously with the stick. Take that, you little
+  <lb n="09393"/> <said who="Farrington">―Now, you'll let the fire out the next time! </said>said the man,
+<lb n="09394"/> striking at him viciously with the stick. <said who="Farrington">Take that, you little
 <lb n="09395"/> whelp!</said></p>
 <lb n="09396"/> <p>The boy uttered a squeal of pain as the stick cut his thigh.
 <lb n="09397"/> He clasped his hands together in the air and his voice shook
 <lb n="09398"/> with fright.
-<lb n="09399"/> <said who="Tom">―O, pa! he cried. Don't beat me, pa! And I'll ... I'll say a <emph>Hail
+  <lb n="09399"/> <said who="Tom">―O, pa! </said>he cried. <said who="Tom">Don't beat me, pa! And I'll ... I'll say a <emph>Hail
 <lb n="09400"/> Mary</emph> for you. ... I'll say a <emph>Hail Mary</emph> for you, pa, if you don't
 <lb n="09401"/> beat me. ... I'll say a <emph>Hail Mary.</emph> ...</said></p>
 </div> <!-- End of story -->
