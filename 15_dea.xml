@@ -725,7 +725,7 @@
 <lb n="150723"/> into the goose. He felt quite at ease now for he was an expert
 <lb n="150724"/> carver and liked nothing better than to find himself at the head
 <lb n="150725"/> of a well laden table.
-  <lb n="150726"/> <said who="Gabriel Conroy">―<persName xml:id="fr">Miss Furlong</persName>, what shall I send you? he asked. A wing or a
+  <lb n="150726"/> <said who="Gabriel Conroy">―<persName xml:id="fr">Miss Furlong</persName>, what shall I send you? </said>he asked. <said who="Gabriel Conroy">A wing or a
 <lb n="150727"/> slice of the breast?</said>
 <lb n="150728"/> <said who="Miss Furlong">―Just a small slice of the breast.</said>
   <lb n="150729"/> <said who="Gabriel Conroy">―<persName xml:id="hg">Miss Higgins</persName>, what for you?</said>
@@ -760,8 +760,8 @@
 <lb n="150758"/> <p>A chorus of voices invited him to begin his own supper and
   <lb n="150759"/> <persName xml:id="ll">Lily</persName> came forward with three potatoes which she had reserved
 <lb n="150760"/> for him.
-  <lb n="150761"/> <said who="Gabriel Conroy">―Very well, said <persName xml:id="gc">Gabriel</persName> amiably as he took another prepara=
-<lb n="150762"/> tory draught, kindly forget my existence, ladies and gentlemen,
+  <lb n="150761"/> <said who="Gabriel Conroy">―Very well, </said>said <persName xml:id="gc">Gabriel</persName> amiably as he took another prepara=
+<lb n="150762"/> tory draught, <said who="Gabriel Conroy">kindly forget my existence, ladies and gentlemen,
 <lb n="150763"/> for a few minutes.</said></p>
 <lb n="150764"/> <p>He set to his supper and took no part in the conversation
   <lb n="150765"/> with which the table covered <persName xml:id="ll">Lily</persName>'s removal of the plates. The
@@ -770,58 +770,58 @@
 <lb n="150768"/> plexioned young man with a smart moustache, praised very
 <lb n="150769"/> highly the leading contralto of the company but <persName xml:id="fr">Miss Furlong</persName>
 <lb n="150770"/> thought she had a rather vulgar style of production. <persName xml:id="fm">Freddy
-  <lb n="150771"/> Malins</persName> said there was a negro chieftain singing in the second
+  <lb n="150771"/> Malins</persName> said <said who="Freddy Malins" direct="false">there was a negro chieftain singing in the second
 <lb n="150772"/> part of the Gaiety pantomime who had one of the finest tenor
-<lb n="150773"/> voices he had ever heard.
-<lb n="150774"/> <said who="Freddy Malins">―Have you heard him? he asked <persName xml:id="bda">Mr Bartell D'Arcy</persName> across the
-<lb n="150775"/> table.</said>
-<lb n="150776"/> <said who="Mr Bartell D'Arcy">―No, answered <persName xml:id="bda">Mr Bartell D'Arcy</persName> carelessly.</said>
-  <lb n="150777"/> <said who="Freddy Malins">―Because, <persName xml:id="fm">Freddy Malins</persName> explained, now I'd be curious to
+  <lb n="150773"/> voices he had ever heard.</said>
+  <lb n="150774"/> <said who="Freddy Malins">―Have you heard him? </said>he asked <persName xml:id="bda">Mr Bartell D'Arcy</persName> across the
+<lb n="150775"/> table.
+  <lb n="150776"/> <said who="Mr Bartell D'Arcy">―No, </said>answered <persName xml:id="bda">Mr Bartell D'Arcy</persName> carelessly.
+  <lb n="150777"/> <said who="Freddy Malins">―Because, </said><persName xml:id="fm">Freddy Malins</persName> explained, <said who="Freddy Malins">now I'd be curious to
 <lb n="150778"/> hear your opinion of him. I think he has a grand voice.</said>
-<lb n="150779"/> <said who="Mr Browne">―It takes Teddy to find out the really good things, said <persName xml:id="bw">Mr
-  <lb n="150780"/> Browne</persName> familiarly to the table.</said>
-<lb n="150781"/> <said who="Freddy Malins">―And why couldn't he have a voice too? asked <persName xml:id="fm">Freddy Malins</persName>
-<lb n="150782"/> sharply. Is it because he's only a black?</said></p>
+  <lb n="150779"/> <said who="Mr Browne">―It takes Teddy to find out the really good things, </said>said <persName xml:id="bw">Mr
+  <lb n="150780"/> Browne</persName> familiarly to the table.
+  <lb n="150781"/> <said who="Freddy Malins">―And why couldn't he have a voice too? </said>asked <persName xml:id="fm">Freddy Malins</persName>
+<lb n="150782"/> sharply.<said who="Freddy Malins"> Is it because he's only a black?</said></p>
   <lb n="150783"/> <p>Nobody answered this question and <persName xml:id="mj">Mary Jane</persName> led the table
 <lb n="150784"/> back to the legitimate opera. One of her pupils had given her a
-<lb n="150785"/> pass for <emph>Mignon.</emph> Of course, it was very fine, she said, but it
-  <lb n="150786"/> made her think of poor Georgina Burns. <persName xml:id="bw">Mr Browne</persName> could go
+<lb n="150785"/> pass for <emph>Mignon.</emph> <said who="Mary Jane">Of course, it was very fine, </said>she said, <said who="Mary Jane">but it
+  <lb n="150786"/> made her think of poor Georgina Burns.</said> <persName xml:id="bw">Mr Browne</persName> could go
 <lb n="150787"/> back farther still to the old Italian companies that used to come
 <lb n="150788"/> to Dublin, Tietjens, Trebelli, Ilma de Murzka, Campanini, the
-<lb n="150789"/> great Giuglini, Ravelli, Aramburo. Those were the days, he
-<lb n="150790"/> said, when there was something like singing to be heard in
-<lb n="150791"/> Dublin. He told too of how the top gallery of the old Royal
+<lb n="150789"/> great Giuglini, Ravelli, Aramburo. <said who="Mr Browne">Those were the days, </said>he
+<lb n="150790"/> said, <said who="Mr Browne">when there was something like singing to be heard in
+  <lb n="150791"/> Dublin.</said> He told too of how the top gallery of the old Royal
 <lb n="150792"/> used to be packed night after night, of how one night an Italian
 <lb n="150793"/> tenor had sung five encores to <emph>Let Me Like a Soldier Fall</emph>,
 <lb n="150794"/> introducing a high C every time, and of how the gallery boys
 <lb n="150795"/> would sometimes in their enthusiasm unyoke the horses from
 <lb n="150796"/> the carriage of some great <emph>prima donna</emph> and pull her themselves
-<lb n="150797"/> through the streets to her hotel. Why did they never play the
-<lb n="150798"/> grand old operas now, he asked. <emph>Dinorah, Lucrezia Borgia?</emph>
+<lb n="150797"/> through the streets to her hotel. <said who="Mr Browne">Why did they never play the
+  <lb n="150798"/> grand old operas now, </said>he asked. <said who="Mr Browne"><emph>Dinorah, Lucrezia Borgia?</emph>
 <lb n="150799"/> Because they could not get the voices to sing them: that was
-<lb n="150800"/> why.
-<lb n="150801"/> <said who="Mr Bartell D'Arcy">―O, well, said <persName xml:id="bda">Mr Bartell D'Arcy</persName>, I presume there are as good
+  <lb n="150800"/> why.</said>
+  <lb n="150801"/> <said who="Mr Bartell D'Arcy">―O, well, </said>said <persName xml:id="bda">Mr Bartell D'Arcy</persName>, <said who="Mr Bartell D'Arcy">I presume there are as good
 <lb n="150802"/> singers today as there were then.</said>
-<lb n="150803"/> <said who="Mr Browne">―Where are they? asked <persName xml:id="bw">Mr Browne</persName> defiantly.</said>
-<lb n="150804"/> <said who="Mr Bartell D'Arcy">―In London, Paris, Milan, said <persName xml:id="bda">Mr Bartell D'Arcy</persName> warmly. I
+  <lb n="150803"/> <said who="Mr Browne">―Where are they? </said>asked <persName xml:id="bw">Mr Browne</persName> defiantly.
+  <lb n="150804"/> <said who="Mr Bartell D'Arcy">―In London, Paris, Milan, </said>said <persName xml:id="bda">Mr Bartell D'Arcy</persName> warmly. <said who="Mr Bartell D'Arcy">I
 <lb n="150805"/> suppose Caruso, for example, is quite as good, if not better
 <lb n="150806"/> than any of the men you have mentioned.</said>
-  <lb n="150807"/> <said who="Mr Browne">―Maybe so, said <persName xml:id="bw">Mr Browne</persName>. But I may tell you I doubt it
+  <lb n="150807"/> <said who="Mr Browne">―Maybe so, </said>said <persName xml:id="bw">Mr Browne</persName>. <said who="Mr Browne">But I may tell you I doubt it
 <lb n="150808"/> strongly.</said>
-<lb n="150809"/> <said who="Mary Jane">―O, I'd give anything to hear Caruso sing, said <persName xml:id="mj">Mary Jane</persName>.</said>
-  <lb n="150810"/> <said who="Kate Morkan">―For me, said aunt <persName xml:id="kt">Kate</persName>, who had been picking a bone, there
+  <lb n="150809"/> <said who="Mary Jane">―O, I'd give anything to hear Caruso sing, </said>said <persName xml:id="mj">Mary Jane</persName>.
+  <lb n="150810"/> <said who="Kate Morkan">―For me, </said>said aunt <persName xml:id="kt">Kate</persName>, who had been picking a bone, <said who="Kate Morkan">there
 <lb n="150811"/> was only one tenor. To please me, I mean. But I suppose none
 <lb n="150812"/> of you ever heard of him.</said>
-<lb n="150813"/> <said who="Mr Bartell D'Arcy">―Who was he, Miss Morkan? asked <persName xml:id="bda">Mr Bartell D'Arcy</persName> pol=
-<lb n="150814"/> itely.</said>
-  <lb n="150815"/> <said who="Kate Morkan">―His name, said aunt <persName xml:id="kt">Kate</persName>, was <persName xml:id="pk">Parkinson</persName>. I heard him when
+  <lb n="150813"/> <said who="Mr Bartell D'Arcy">―Who was he, Miss Morkan? </said>asked <persName xml:id="bda">Mr Bartell D'Arcy</persName> pol=
+<lb n="150814"/> itely.
+  <lb n="150815"/> <said who="Kate Morkan">―His name, </said>said aunt <persName xml:id="kt">Kate</persName>, <said who="Kate Morkan">was <persName xml:id="pk">Parkinson</persName>. I heard him when
 <lb n="150816"/> he was in his prime and I think he had then the purest tenor
 <lb n="150817"/> voice that was ever put into a man's throat.</said>
-<lb n="150818"/> <said who="Mr Bartell D'Arcy">―Strange, said <persName xml:id="bda">Mr Bartell D'Arcy</persName>. I never even heard of him.</said>
-<lb n="150819"/> <said who="Mr Browne">―Yes, yes, Miss Morkan is right, said <persName xml:id="bw">Mr Browne</persName>. I remember
+  <lb n="150818"/> <said who="Mr Bartell D'Arcy">―Strange, </said>said <persName xml:id="bda">Mr Bartell D'Arcy</persName>. <said who="Mr Bartell D'Arcy">I never even heard of him.</said>
+<lb n="150819"/> <said who="Mr Browne">―Yes, yes, Miss Morkan is right, </said>said <persName xml:id="bw">Mr Browne</persName>. I remember
   <lb n="150820"/> hearing of old <persName xml:id="pk">Parkinson</persName> but he's too far back for me.</said>
-<lb n="150821"/> <said who="Kate Morkan">―A beautiful pure sweet mellow English tenor, said aunt <persName xml:id="kt">Kate</persName>
-<lb n="150822"/> with enthusiasm.</said></p>
+  <lb n="150821"/> <said who="Kate Morkan">―A beautiful pure sweet mellow English tenor, </said>said aunt <persName xml:id="kt">Kate</persName>
+<lb n="150822"/> with enthusiasm.</p>
   <lb n="150823"/> <p><persName xml:id="gc">Gabriel</persName> having finished, the huge pudding was transferred to
 <lb n="150824"/> the table. The clatter of forks and spoons began again. <persName xml:id="gc">Gabri=
   <lb n="150825"/> el</persName>'s wife served out spoonfuls of the pudding and passed the
@@ -829,8 +829,8 @@
   <lb n="150827"/> <persName xml:id="mj">Mary Jane</persName> who replenished them with raspberry or orange jelly
 <lb n="150828"/> or with blancmange and jam. The pudding was of aunt <persName xml:id="jl">Julia</persName>'s
 <lb n="150829"/> making and she received praises for it from all quarters. She
-<lb n="150830"/> herself said that it was not quite brown enough.
-<lb n="150831"/> <said who="Mr Browne">―Well, I hope, Miss Morkan, said <persName xml:id="bw">Mr Browne</persName>, that I'm brown
+<lb n="150830"/> herself said that <said who="Julia Morkan" direct="false">it was not quite brown enough.</said>
+  <lb n="150831"/> <said who="Mr Browne">―Well, I hope, Miss Morkan, </said>said <persName xml:id="bw">Mr Browne</persName>, <said who="Mr Browne">that I'm brown
 <lb n="150832"/> enough for you because, you know, I'm all brown</said>.</p>
   <lb n="150833"/> <p>All the gentlemen, except <persName xml:id="gc">Gabriel</persName>, ate some of the pudding
   <lb n="150834"/> out of compliment to aunt <persName xml:id="jl">Julia</persName>. As <persName xml:id="gc">Gabriel</persName> never ate sweets
@@ -838,24 +838,24 @@
 <lb n="150836"/> stalk of celery and ate it with his pudding. He had been told
 <lb n="150837"/> that celery was a capital thing for the blood and he was just
   <lb n="150838"/> then under doctor's care. <persName xml:id="mn">Mrs Malins</persName>, who had been silent all
-<lb n="150839"/> through the supper, said that her son was going down to
-<lb n="150840"/> Mount Melleray in a week or so. The table then spoke of
+<lb n="150839"/> through the supper, said that <said who="Mrs Malins" direct="false">her son was going down to
+  <lb n="150840"/> Mount Melleray in a week or so.</said> The table then spoke of
 <lb n="150841"/> Mount Melleray, how bracing the air was down there, how
 <lb n="150842"/> hospitable the monks were and how they never asked for a
 <lb n="150843"/> penny-piece from their guests.
-<lb n="150844"/> <said who="Mr Browne">―And do you mean to say, asked <persName xml:id="bw">Mr Browne</persName> incredulously,
-<lb n="150845"/> that a chap can go down there and put up there as if it were a
+  <lb n="150844"/> <said who="Mr Browne">―And do you mean to say, </said>asked <persName xml:id="bw">Mr Browne</persName> incredulously,
+<lb n="150845"/> <said who="Mr Browne">that a chap can go down there and put up there as if it were a
 <lb n="150846"/> hotel and live on the fat of the land and then come away with=
 <lb n="150847"/> out paying a farthing?</said>
 <lb n="150848"/> <said who="Mary Jane">―O, most people give some donation to the monastery when
-  <lb n="150849"/> they leave, said <persName xml:id="mj">Mary Jane</persName>.</said>
-<lb n="150850"/> <said who="Mr Browne">―I wish we had an institution like that in our church, said <persName xml:id="bw">Mr
-  <lb n="150851"/> Browne</persName> candidly.</said></p>
+  <lb n="150849"/> they leave, </said>said <persName xml:id="mj">Mary Jane</persName>.
+<lb n="150850"/> <said who="Mr Browne">―I wish we had an institution like that in our church, </said>said <persName xml:id="bw">Mr
+  <lb n="150851"/> Browne</persName> candidly.</p>
 <lb n="150852"/> <p>He was astonished to hear that the monks never spoke, got
 <lb n="150853"/> up at two in the morning and slept in their coffins. He asked
 <lb n="150854"/> what they did it for.
-<lb n="150855"/> <said who="Kate Morkan">―That's the rule of the order, said aunt <persName xml:id="kt">Kate</persName> firmly.</said>
-  <lb n="150856"/> <said who="Mr Browne">―Yes, but why? asked <persName xml:id="bw">Mr Browne</persName>.</said></p>
+  <lb n="150855"/> <said who="Kate Morkan">―That's the rule of the order, </said>said aunt <persName xml:id="kt">Kate</persName> firmly.
+  <lb n="150856"/> <said who="Mr Browne">―Yes, but why? </said>asked <persName xml:id="bw">Mr Browne</persName>.</p>
   <lb n="150857"/> <p>Aunt <persName xml:id="kt">Kate</persName> repeated that it was the rule, that was all. <persName xml:id="bw">Mr
   <lb n="150858"/> Browne</persName> still seemed not to understand. <persName xml:id="fm">Freddy Malins</persName> ex=
 <lb n="150859"/> plained to him, as best he could, that the monks were trying to
@@ -864,7 +864,7 @@
 <lb n="150862"/> grinned and said:
 <lb n="150863"/> <said who="Mr Browne">―I like that idea very much but wouldn't a comfortable spring
 <lb n="150864"/> bed do them as well as a coffin?</said>
-  <lb n="150865"/> <said who="Mary Jane">―The coffin, said <persName xml:id="mj">Mary Jane</persName>, is to remind them of their last
+  <lb n="150865"/> <said who="Mary Jane">―The coffin, </said>said <persName xml:id="mj">Mary Jane</persName>, <said who="Mary Jane">is to remind them of their last
 <lb n="150866"/> end.</said></p>
 <lb n="150867"/> <p>As the subject had grown lugubrious it was buried in a si=
   <lb n="150868"/> lence of the table during which <persName xml:id="mn">Mrs Malins</persName> could be heard
@@ -900,7 +900,7 @@
 <lb n="150898"/> It has fallen to my lot this evening as in years past to perform a
 <lb n="150899"/> very pleasing task, but a task for which I am afraid my poor
 <lb n="150900"/> powers as a speaker are all too inadequate.</said>
-  <lb n="150901"/> <said who="Mr Browne">―No, no, said <persName xml:id="bw">Mr Browne</persName>.</said>
+  <lb n="150901"/> <said who="Mr Browne">―No, no, </said>said <persName xml:id="bw">Mr Browne</persName>.
 <lb n="150902"/> <said who="Gabriel Conroy">―But, however that may be, I can only ask you tonight to take
 <lb n="150903"/> the will for the deed and to lend me your attention for a few
 <lb n="150904"/> moments while I endeavour to express to you in words what
@@ -950,9 +950,9 @@
 <lb n="150948"/> we shall still speak of them with pride and affection, still
 <lb n="150949"/> cherish in our hearts the memory of those dead and gone great
 <lb n="150950"/> ones whose fame the world will not willingly let die.</said>
-  <lb n="150951"/> <said who="Mr Browne">―Hear! hear! said <persName xml:id="bw">Mr Browne</persName> loudly.</said>
-  <lb n="150952"/> <said who="Gabriel Conroy">―But yet, continued <persName xml:id="gc">Gabriel</persName>, his voice falling into a softer
-<lb n="150953"/> inflection, there are always in gatherings such as this sadder
+  <lb n="150951"/> <said who="Mr Browne">―Hear! hear! </said>said <persName xml:id="bw">Mr Browne</persName> loudly.
+  <lb n="150952"/> <said who="Gabriel Conroy">―But yet, </said>continued <persName xml:id="gc">Gabriel</persName>, his voice falling into a softer
+<lb n="150953"/> inflection, <said who="Gabriel Conroy">there are always in gatherings such as this sadder
 <lb n="150954"/> thoughts that will recur to our minds: thoughts of the past, of
 <lb n="150955"/> youth, of changes, of absent faces that we miss here tonight.
 <lb n="150956"/> Our path through life is strewn with many such sad memories:
@@ -1024,12 +1024,12 @@
   <lb n="151021"/> were standing so that aunt <persName xml:id="kt">Kate</persName> said:
 <lb n="151022"/> <said who="Kate Morkan">―Close the door, somebody. <persName xml:id="mn">Mrs Malins</persName> will get her death of
 <lb n="151023"/> cold.</said>
-  <lb n="151024"/> <said who="Mary Jane">―<persName xml:id="bw">Browne</persName> is out there, aunt <persName xml:id="kt">Kate</persName>, said <persName xml:id="mj">Mary Jane</persName>.</said>
-  <lb n="151025"/> <said who="Kate Morkan">―<persName xml:id="bw">Browne</persName> is everywhere, said aunt <persName xml:id="kt">Kate</persName> lowering her voice.</said></p>
+  <lb n="151024"/> <said who="Mary Jane">―<persName xml:id="bw">Browne</persName> is out there, aunt <persName xml:id="kt">Kate</persName>, </said>said <persName xml:id="mj">Mary Jane</persName>.
+  <lb n="151025"/> <said who="Kate Morkan">―<persName xml:id="bw">Browne</persName> is everywhere, </said>said aunt <persName xml:id="kt">Kate</persName> lowering her voice.</p>
   <lb n="151026"/> <p><persName xml:id="mj">Mary Jane</persName> laughed at her tone.
-<lb n="151027"/> <said who="Mary Jane">―Really, she said archly, he is very attentive.</said>
-<lb n="151028"/> <said who="Kate Morkan">―He has been laid on here like the gas, said aunt <persName xml:id="kt">Kate</persName> in the
-<lb n="151029"/> same tone, all during the Christmas.</said></p>
+  <lb n="151027"/> <said who="Mary Jane">―Really, </said>she said archly, <said who="Mary Jane">he is very attentive.</said>
+  <lb n="151028"/> <said who="Kate Morkan">―He has been laid on here like the gas, </said>said aunt <persName xml:id="kt">Kate</persName> in the
+<lb n="151029"/> same tone, <said who="Kate Morkan">all during the Christmas.</said></p>
 <lb n="151030"/> <p>She laughed herself this time good-humouredly and then
 <lb n="151031"/> added quickly:
 <lb n="151032"/> <said who="Kate Morkan">―But tell him to come in, <persName xml:id="mj">Mary Jane</persName>, and close the door. I
@@ -1040,45 +1040,45 @@
 <lb n="151037"/> astrakhan cuffs and collar and wore on his head an oval fur
 <lb n="151038"/> cap. He pointed down the snowcovered quay whence the sound
 <lb n="151039"/> of shrill prolonged whistling was borne in.
-  <lb n="151040"/> <said who="Mr Browne">―<persName xml:id="ty">Teddy</persName> will have all the cabs in Dublin out, he said.</said></p>
+  <lb n="151040"/> <said who="Mr Browne">―<persName xml:id="ty">Teddy</persName> will have all the cabs in Dublin out, </said>he said.</p>
   <lb n="151041"/> <p><persName xml:id="gc">Gabriel</persName> advanced from the little pantry behind the office,
 <lb n="151042"/> struggling into his overcoat and, looking round the hall, said:
   <lb n="151043"/> <said who="Gabriel Conroy">―<persName xml:id="gt">Gretta</persName> not down yet?</said>
 <lb n="151044"/> <said who="Kate Morkan">―She's getting on her things, <persName xml:id="gc">Gabriel</persName>, </said>said aunt <persName xml:id="kt">Kate</persName>.
-<lb n="151045"/> <said who="Gabriel Conroy">―Who's playing up there? asked <persName xml:id="gc">Gabriel</persName>.</said>
+  <lb n="151045"/> <said who="Gabriel Conroy">―Who's playing up there? </said>asked <persName xml:id="gc">Gabriel</persName>.
 <lb n="151046"/> <said who="Kate Morkan">―Nobody. They're all gone.</said>
-  <lb n="151047"/> <said who="Mary Jane">―O no, aunt <persName xml:id="kt">Kate</persName>, said <persName xml:id="mj">Mary Jane</persName>. <persName xml:id="bda">Bartell D'Arcy</persName> and Miss
+  <lb n="151047"/> <said who="Mary Jane">―O no, aunt <persName xml:id="kt">Kate</persName>, </said>said <persName xml:id="mj">Mary Jane</persName>. <said who="Mary Jane"><persName xml:id="bda">Bartell D'Arcy</persName> and Miss
   <lb n="151048"/> <persName xml:id="ocl">O'Callaghan</persName> aren't gone yet.</said>
-<lb n="151049"/> <said who="Gabriel Conroy">―Someone is strumming at the piano, anyhow, said <persName xml:id="gc">Gabriel</persName>.</said></p>
+  <lb n="151049"/> <said who="Gabriel Conroy">―Someone is strumming at the piano, anyhow, </said>said <persName xml:id="gc">Gabriel</persName>.</p>
   <lb n="151050"/> <p><persName xml:id="mj">Mary Jane</persName> glanced at <persName xml:id="gc">Gabriel</persName> and <persName xml:id="bw">Mr Browne</persName> and said with
 <lb n="151051"/> a shiver:
 <lb n="151052"/> <said who="Mary Jane">―It makes me feel cold to look at you two gentlemen muffled
 <lb n="151053"/> up like that. I wouldn't like to face your journey home at this
 <lb n="151054"/> hour.</said>
-<lb n="151055"/> <said who="Mr Browne">―I'd like nothing better this minute, said <persName xml:id="bw">Mr Browne</persName> stoutly,
-<lb n="151056"/> than a rattling fine walk in the country or a fast drive with a
+  <lb n="151055"/> <said who="Mr Browne">―I'd like nothing better this minute, </said>said <persName xml:id="bw">Mr Browne</persName> stoutly,
+<lb n="151056"/> <said who="Mr Browne">than a rattling fine walk in the country or a fast drive with a
 <lb n="151057"/> good spanking goer between the shafts.</said>
-<lb n="151058"/> <said who="Julia Morkan">―We used to have a very good horse and trap at home, said
-  <lb n="151059"/> aunt <persName xml:id="jl">Julia</persName> sadly.</said>
-<lb n="151060"/> <said who="Mary Jane">―The never-to-be-forgotten Johnny, said <persName xml:id="mj">Mary Jane</persName> laughing.</said></p>
+<lb n="151058"/> <said who="Julia Morkan">―We used to have a very good horse and trap at home, </said>said
+  <lb n="151059"/> aunt <persName xml:id="jl">Julia</persName> sadly.
+  <lb n="151060"/> <said who="Mary Jane">―The never-to-be-forgotten Johnny, </said>said <persName xml:id="mj">Mary Jane</persName> laughing.</p>
   <lb n="151061"/> <p>Aunt <persName xml:id="kt">Kate</persName> and <persName xml:id="gc">Gabriel</persName> laughed too.
 <lb n="151062"/> <said who="Mr Browne">―Why, what was wonderful about Johnny? </said>asked <persName xml:id="bw">Mr
   <lb n="151063"/> Browne</persName>.
 <lb n="151064"/> <said who="Gabriel Conroy">―The late lamented <persName xml:id="pm">Patrick Morkan</persName>, our grandfather that is,
-  <lb n="151065"/> explained <persName xml:id="gc">Gabriel</persName>, commonly known in his later years as the
+  <lb n="151065"/> </said>explained <persName xml:id="gc">Gabriel</persName>, <said who="Gabriel Conroy">commonly known in his later years as the
 <lb n="151066"/> old gentleman, was a glue boiler.</said>
-  <lb n="151067"/> <said who="Kate Morkan">―O now, <persName xml:id="gc">Gabriel</persName>, said aunt <persName xml:id="kt">Kate</persName> laughing, he had a starch
+  <lb n="151067"/> <said who="Kate Morkan">―O now, <persName xml:id="gc">Gabriel</persName>, </said>said aunt <persName xml:id="kt">Kate</persName> laughing, <said who="Kate Morkan">he had a starch
 <lb n="151068"/> mill.</said>
-<lb n="151069"/> <said who="Gabriel Conroy">―Well, glue or starch, said <persName xml:id="gc">Gabriel</persName>, the old gentleman had a
+  <lb n="151069"/> <said who="Gabriel Conroy">―Well, glue or starch, </said>said <persName xml:id="gc">Gabriel</persName>, <said who="Gabriel Conroy">the old gentleman had a
 <lb n="151070"/> horse by the name of Johnny. And Johnny used to work in the
 <lb n="151071"/> old gentleman's mill walking round and round in order to drive
 <lb n="151072"/> the mill. That was all very well; but now comes the tragic part
 <lb n="151073"/> about Johnny. One fine day the old gentleman thought he'd
 <lb n="151074"/> like to drive out with the quality to a military review in the
 <lb n="151075"/> park.</said>
-<lb n="151076"/> <said who="Kate Morkan">―The Lord have mercy on his soul, said aunt <persName xml:id="kt">Kate</persName> com=
-<lb n="151077"/> passionately.</said>
-  <lb n="151078"/> <said who="Gabriel Conroy">―Amen, said <persName xml:id="gc">Gabriel</persName>. So the old gentleman, as I said, har=
+  <lb n="151076"/> <said who="Kate Morkan">―The Lord have mercy on his soul, </said>said aunt <persName xml:id="kt">Kate</persName> com=
+<lb n="151077"/> passionately.
+  <lb n="151078"/> <said who="Gabriel Conroy">―Amen, </said>said <persName xml:id="gc">Gabriel</persName>. <said who="Gabriel Conroy">So the old gentleman, as I said, har=
 <lb n="151079"/> nessed Johnny and put on his very best tall hat and his very
 <lb n="151080"/> best stock collar and drove out in grand style from his ancestral
 <lb n="151081"/> mansion somewhere near Back Lane, I think.</said></p>
@@ -1086,15 +1086,15 @@
   <lb n="151083"/> and aunt <persName xml:id="kt">Kate</persName> said:
   <lb n="151084"/> <said who="Kate Morkan">―O now, <persName xml:id="gc">Gabriel</persName>, he didn't live in Back Lane really. Only the
 <lb n="151085"/> mill was there.</said>
-<lb n="151086"/> <said who="Gabriel Conroy">―Out from the mansion of his forefathers, continued <persName xml:id="gc">Gabriel</persName>,
-<lb n="151087"/> he drove with Johnny. And everything went on beautifully until
+  <lb n="151086"/> <said who="Gabriel Conroy">―Out from the mansion of his forefathers, </said>continued <persName xml:id="gc">Gabriel</persName>,
+<lb n="151087"/> <said who="Gabriel Conroy">he drove with Johnny. And everything went on beautifully until
 <lb n="151088"/> Johnny came in sight of King Billy's statue: and whether he fell
 <lb n="151089"/> in love with the horse King Billy sits on or whether he thought
 <lb n="151090"/> he was back again in the mill, anyhow he began to walk round
 <lb n="151091"/> the statue.</said></p>
   <lb n="151092"/> <p><persName xml:id="gc">Gabriel</persName> paced in a circle round the hall in his goloshes amid
 <lb n="151093"/> the laughter of the others.
-<lb n="151094"/> <said who="Gabriel Conroy">―Round and round he went, said <persName xml:id="gc">Gabriel</persName>, and the old gentle=
+  <lb n="151094"/> <said who="Gabriel Conroy">―Round and round he went, </said>said <persName xml:id="gc">Gabriel</persName>, <said who="Gabriel Conroy">and the old gentle=
 <lb n="151095"/> man, who was a very pompous old gentleman, was highly
 <lb n="151096"/> indignant. <emph>Go on, sir! What do you mean, sir? Johnny! Johnny!
 <lb n="151097"/> Most extraordinary conduct! Can't understand the horse!</emph></said></p>
@@ -1104,9 +1104,9 @@
   <lb n="151101"/> <persName xml:id="fm">Freddy Malins</persName>, with his hat well back on his head and his
 <lb n="151102"/> shoulders humped with cold, was puffing and steaming after
 <lb n="151103"/> his exertions.
-<lb n="151104"/> <said who="Freddy Malins">―I could only get one cab, he said.</said>
-<lb n="151105"/> <said who="Gabriel Conroy">―O, we'll find another along the quay, said <persName xml:id="gc">Gabriel</persName>.</said>
-  <lb n="151106"/> <said who="Kate Morkan">―Yes, said aunt <persName xml:id="kt">Kate</persName>. Better not keep <persName xml:id="mn">Mrs Malins</persName> standing in
+  <lb n="151104"/> <said who="Freddy Malins">―I could only get one cab, </said>he said.
+  <lb n="151105"/> <said who="Gabriel Conroy">―O, we'll find another along the quay, </said>said <persName xml:id="gc">Gabriel</persName>.
+  <lb n="151106"/> <said who="Kate Morkan">―Yes, </said>said aunt <persName xml:id="kt">Kate</persName>. <said who="Kate Morkan">Better not keep <persName xml:id="mn">Mrs Malins</persName> standing in
 <lb n="151107"/> the draught.</said></p>
   <lb n="151108"/> <p><persName xml:id="mn">Mrs Malins</persName> was helped down the front steps by her son and
   <lb n="151109"/> <persName xml:id="bw">Mr Browne</persName> and, after many manoeuvres, hoisted into the cab.
@@ -1129,13 +1129,13 @@
 <lb n="151126"/> shouted to the bewildered cabman above the din of everybody's
 <lb n="151127"/> laughter:
 <lb n="151128"/> <said who="Mr Browne">―Do you know Trinity College?</said>
-<lb n="151129"/> <said who="cabman">―Yes, sir, said the cabman.</said>
-<lb n="151130"/> <said who="Mr Browne">―Well, drive bang up against Trinity College gates, said <persName xml:id="bw">Mr
-  <lb n="151131"/> Browne</persName>, and then we'll tell you where to go. You understand
+  <lb n="151129"/> <said who="cabman">―Yes, sir, </said>said the cabman.
+  <lb n="151130"/> <said who="Mr Browne">―Well, drive bang up against Trinity College gates, </said>said <persName xml:id="bw">Mr
+  <lb n="151131"/> Browne</persName>, <said who="Mr Browne">and then we'll tell you where to go. You understand
 <lb n="151132"/> now?</said>
-<lb n="151133"/> <said who="cabman">―Yes, sir, said the cabman.</said>
+  <lb n="151133"/> <said who="cabman">―Yes, sir, </said>said the cabman.
 <lb n="151134"/> <said who="Mr Browne">―Make like a bird for Trinity College.</said>
-<lb n="151135"/> <said who="cabman">―Right, sir, cried the cabman.</p></said>
+  <lb n="151135"/> <said who="cabman">―Right, sir, </said>cried the cabman.</p>
 <lb n="151136"/> <p>The horse was whipped up and the cab rattled off along the
 <lb n="151137"/> quay amid a chorus of laughter and adieus.</p>
 <lb n="151138"/> <p>Gabriel had not gone to the door with the others. He was in
@@ -1152,8 +1152,8 @@
 <lb n="151149"/> <p>He stood still in the gloom of the hall, trying to catch the air
 <lb n="151150"/> that the voice was singing and gazing up at his wife. There was
 <lb n="151151"/> grace and mystery in her attitude as if she were a symbol of
-<lb n="151152"/> something. He asked himself what is a woman standing on the
-<lb n="151153"/> stairs in the shadow, listening to distant music, a symbol of. If
+<lb n="151152"/> something. He asked himself <said who="Gabriel Conroy" direct="false" aloud="false">what is a woman standing on the
+  <lb n="151153"/> stairs in the shadow, listening to distant music, a symbol of.</said> If
 <lb n="151154"/> he were a painter he would paint her in that attitude. Her blue
 <lb n="151155"/> felt hat would show off the bronze of her hair against the
 <lb n="151156"/> darkness and the dark panels of her skirt would show off the
@@ -1161,8 +1161,8 @@
 <lb n="151158"/> painter.</p>
   <lb n="151159"/> <p>The halldoor was closed and aunt <persName xml:id="kt">Kate</persName>, aunt <persName xml:id="jl">Julia</persName> and <persName xml:id="mj">Mary
   <lb n="151160"/> Jane</persName> came down the hall, still laughing.
-  <lb n="151161"/> <said who="Mary Jane">―Well, isn't <persName xml:id="fm">Freddy</persName> terrible? said <persName xml:id="mj">Mary Jane</persName>. He's really ter=
-<lb n="151162"/> rible.</said></p>
+  <lb n="151161"/> <said who="Mary Jane">―Well, isn't <persName xml:id="fm">Freddy</persName> terrible? </said>said <persName xml:id="mj">Mary Jane</persName>. <said who="Mary Jane">He's really ter=
+  <lb n="151162"/> rible.</said></p>
   <lb n="151163"/> <p><persName xml:id="gc">Gabriel</persName> said nothing but pointed up the stairs towards
 <lb n="151164"/> where his wife was standing. Now that the halldoor was closed
 <lb n="151165"/> the voice and the piano could be heard more clearly. <persName xml:id="gc">Gabriel</persName>
@@ -1174,33 +1174,33 @@
 <lb n="151171"/> <p><said who="singer">―<emph>O, the rain falls on my heavy locks</p>
 <lb n="151172"/> <p>And the dew wets my skin,</p>
 <lb n="151173"/> <p>My babe lies cold ...</emph></said>
-  <lb n="151174"/> <said who="Mary Jane">―O, exclaimed <persName xml:id="mj">Mary Jane</persName>. It's <persName xml:id="bda">Bartell D'Arcy</persName> singing and he
+  <lb n="151174"/> <said who="Mary Jane">―O, </said>exclaimed <persName xml:id="mj">Mary Jane</persName>. <said who="Mary Jane">It's <persName xml:id="bda">Bartell D'Arcy</persName> singing and he
 <lb n="151175"/> wouldn't sing all the night. O, I'll get him to sing a song before
 <lb n="151176"/> he goes.</said>
   <lb n="151177"/> <said who="Kate Morkan">―O do, <persName xml:id="mj">Mary Jane</persName>, </said>said aunt <persName xml:id="kt">Kate</persName>.</p>
   <lb n="151178"/> <p><persName xml:id="mj">Mary Jane</persName> brushed past the others and ran to the staircase
 <lb n="151179"/> but before she reached it the singing stopped and the piano was
 <lb n="151180"/> closed abruptly.
-<lb n="151181"/> <said who="Mary Jane">―O, what a pity! she cried. Is he coming down, <persName xml:id="gt">Gretta</persName>?</said></p>
+  <lb n="151181"/> <said who="Mary Jane">―O, what a pity! </said>she cried. <said who="Mary Jane">Is he coming down, <persName xml:id="gt">Gretta</persName>?</said></p>
   <lb n="151182"/> <p><persName xml:id="gc">Gabriel</persName> heard his wife answer yes and saw her come down
 <lb n="151183"/> towards them. A few steps behind her were <persName xml:id="bda">Mr Bartell D'Arcy</persName>
   <lb n="151184"/> and <persName xml:id="ocl">Miss O'Callaghan</persName>.
-  <lb n="151185"/> <said who="Mary Janr">―O, <persName xml:id="bda">Mr D'Arcy</persName>, </said>cried <persName xml:id="mj">Mary Jane</persName>, it's downright mean of you
+  <lb n="151185"/> <said who="Mary Janr">―O, <persName xml:id="bda">Mr D'Arcy</persName>, </said>cried <persName xml:id="mj">Mary Jane</persName>, <said who="Mary Jane">it's downright mean of you
 <lb n="151186"/> to break off like that when we were all in raptures listening to
-<lb n="151187"/> you.
-<lb n="151188"/> <said who="Miss O'Callaghan">―I have been at him all the evening, said <persName xml:id="ocl">Miss O'Callaghan</persName>,
-  <lb n="151189"/> and <persName xml:id="gt">Mrs Conroy</persName> too, and he told us he had a dreadful cold and
+  <lb n="151187"/> you.</said>
+  <lb n="151188"/> <said who="Miss O'Callaghan">―I have been at him all the evening, </said>said <persName xml:id="ocl">Miss O'Callaghan</persName>,
+  <lb n="151189"/> <said who="Miss O'Callaghan">and <persName xml:id="gt">Mrs Conroy</persName> too, and he told us he had a dreadful cold and
 <lb n="151190"/> couldn't sing.</said>
-  <lb n="151191"/> <said who="Kate Morkan">―O, <persName xml:id="bda">Mr D'Arcy</persName>, said aunt <persName xml:id="kt">Kate</persName>, now that was a great fib to
+  <lb n="151191"/> <said who="Kate Morkan">―O, <persName xml:id="bda">Mr D'Arcy</persName>, s</said>aid aunt <persName xml:id="kt">Kate</persName>, <said who="Kate Morkan">now that was a great fib to
 <lb n="151192"/> tell.</said>
-<lb n="151193"/> <said who="Mr D'Arcy">―Can't you see that I'm as hoarse as a crow? said <persName xml:id="bda">Mr D'Arcy</persName>
-<lb n="151194"/> roughly.</said></p>
+  <lb n="151193"/> <said who="Mr D'Arcy">―Can't you see that I'm as hoarse as a crow? </said>said <persName xml:id="bda">Mr D'Arcy</persName>
+<lb n="151194"/> roughly.</p>
 <lb n="151195"/> <p>He went into the pantry hastily and put on his overcoat. The
 <lb n="151196"/> others, taken aback by his rude speech, could find nothing to
   <lb n="151197"/> say. Aunt <persName xml:id="kt">Kate</persName> wrinkled her brows and made signs to the
   <lb n="151198"/> others to drop the subject. <persName xml:id="bda">Mr D'Arcy</persName> stood swathing his neck
 <lb n="151199"/> carefully and frowning.
-<lb n="151200"/> <said who="Julia Morkan">―It's the weather, said aunt <persName xml:id="jl">Julia</persName> after a pause.</said>
+  <lb n="151200"/> <said who="Julia Morkan">―It's the weather, </said>said aunt <persName xml:id="jl">Julia</persName> after a pause.
 <lb n="151201"/> <said who="Kate Morkan">―Yes, everybody has colds, said aunt <persName xml:id="kt">Kate</persName> readily, everybody.</said>
   <lb n="151202"/> <said who="Mary Jane">―They say, said <persName xml:id="mj">Mary Jane</persName>, we haven't had snow like it for
 <lb n="151203"/> thirty years: and I read this morning in the newspaper that the
