@@ -11,9 +11,9 @@
 <lb n="14010"/> the stairs and laid him down again on the floor of the bar. In
 <lb n="14011"/> two minutes he was surrounded by a ring of men. The manager
 <lb n="14012"/> of the bar asked everyone who he was and who was with him.
-<lb n="14013"/> No-one knew who he was but one of the curates said he had
-<lb n="14014"/> served the gentleman with a small rum.
-<lb n="14015"/> <said who="manager">―Was he by himself? asked the manager.</said>
+<lb n="14013"/> No-one knew who he was but one of the curates said <said who="curate" direct="false">he had
+  <lb n="14014"/> served the gentleman with a small rum.</said>
+  <lb n="14015"/> <said who="manager">―Was he by himself? </said>asked the manager.
 <lb n="14016"/> <said who="curate">―No, sir. There was two gentlemen with him.</said>
 <lb n="14017"/> <said who="manager">―And where are they?</said></p>
 <lb n="14018"/> <p>No-one knew; a voice said:
@@ -52,16 +52,16 @@
 <lb n="14051"/> strove to rise to his feet.
 <lb n="14052"/> <said who="young man">―You're all right now? </said>asked the young man in the cycling
 <lb n="14053"/> suit.
-<lb n="14054"/> <said who="Tom Kernan">―'Sha,'s nothing, said the injured man, </said>trying to stand up.</p>
+  <lb n="14054"/> <said who="Tom Kernan">―'Sha,'s nothing, </said>said the injured man, trying to stand up.</p>
 <lb n="14055"/> <p>He was helped to his feet. The manager said something
 <lb n="14056"/> about a hospital and some of the bystanders gave advice. The
 <lb n="14057"/> battered silk hat was placed on the man's head. The constable
 <lb n="14058"/> asked:
 <lb n="14059"/> <said who="constable">―Where do you live?</said></p>
 <lb n="14060"/> <p>The man, without answering, began to twirl the ends of his
-<lb n="14061"/> moustache. He made light of his accident. It was nothing, he
-<lb n="14062"/> said: only a little accident. He spoke very thickly.
-<lb n="14063"/> <said who="constable">―Where do you live? repeated the constable.</said></p>
+<lb n="14061"/> moustache. He made light of his accident. <said who="Tom Kernan">It was nothing, </said>he
+  <lb n="14062"/> said: <said who="Tom Kernan">only a little accident.</said> He spoke very thickly.
+  <lb n="14063"/> <said who="constable">―Where do you live? </said>repeated the constable.</p>
 <lb n="14064"/> <p>The man said they were to get a cab for him. While the point
 <lb n="14065"/> was being debated a tall agile gentleman of fair complexion,
 <lb n="14066"/> wearing a long yellow ulster, came from the far end of the bar.
@@ -73,8 +73,8 @@
 <lb n="14072"/> <said who="Jack Power">―It's all right, constable. I'll see him home.</said></p>
 <lb n="14073"/> <p>The constable touched his helmet and answered:
   <lb n="14074"/> <said who="constable">―All right, <persName xml:id="jp">Mr Power</persName>!</said>
-  <lb n="14075"/> <said who="Jack Power">―Come now, <persName xml:id="tk">Tom</persName>, said <persName xml:id="jp">Mr Power</persName>, taking his friend by the
-<lb n="14076"/> arm. No bones broken. What? Can you walk?</said></p>
+  <lb n="14075"/> <said who="Jack Power">―Come now, <persName xml:id="tk">Tom</persName>, </said>said <persName xml:id="jp">Mr Power</persName>, taking his friend by the
+<lb n="14076"/> arm. <said who="Jack Power">No bones broken. What? Can you walk?</said></p>
 <lb n="14077"/> <p>The young man in the cycling suit took the man by the other
 <lb n="14078"/> arm and the crowd divided.
 <lb n="14079"/> <said who="Jack Power">―How did you get yourself into this mess? </said>asked <persName xml:id="jp">Mr Power</persName>.
@@ -94,18 +94,18 @@
 <lb n="14093"/> <said who="Tom Kernan">―I' 'ery 'uch o'liged to you, sir. I hope we'll 'eet again. 'y na'e
   <lb n="14094"/> is <persName xml:id="tk">Kernan</persName>.</said></p>
 <lb n="14095"/> <p>The shock and the incipient pain had partly sobered him.
-<lb n="14096"/> <said who="young man">―Don't mention it, said the young man.</said></p>
+  <lb n="14096"/> <said who="young man">―Don't mention it, </said>said the young man.</p>
   <lb n="14097"/> <p>They shook hands. <persName xml:id="tk">Mr Kernan</persName> was hoisted on to the car
   <lb n="14098"/> and, while <persName xml:id="jp">Mr Power</persName> was giving directions to the carman, he
 <lb n="14099"/> expressed his gratitude to the young man and regretted that
 <lb n="14100"/> they could not have a little drink together.
-<lb n="14101"/> <said who="young man">―Another time, said the young man.</said></p>
+<lb n="14101"/> <said who="young man">―Another time,</said>said the young man.</p>
 <lb n="14102"/> <p>The car drove off towards Westmoreland Street. As it passed
 <lb n="14103"/> the Ballast office the clock showed half past nine. A keen east
 <lb n="14104"/> wind hit them blowing from the mouth of the river. <persName xml:id="tk">Mr Kernan</persName>
 <lb n="14105"/> was huddled together with cold. His friend asked him to tell
 <lb n="14106"/> how the accident had happened.
-<lb n="14107"/> <said who="Tom Kernan">―I 'an't,'an, he answered. 'y 'ongue is hurt.</said>
+  <lb n="14107"/> <said who="Tom Kernan">―I 'an't,'an, </said>he answered. <said who="Tom Kernan">'y 'ongue is hurt.</said>
 <lb n="14108"/> <said who="Jack Power">―Show.</said></p>
 <lb n="14109"/> <p>The other leaned over the well of the car and peered into <persName xml:id="tk">Mr
   <lb n="14110"/> Kernan</persName>'s mouth but he could not see. He struck a match and,
@@ -121,8 +121,8 @@
   <lb n="14120"/> <p><persName xml:id="tk">Mr Kernan</persName> was a commercial traveler of the old school
 <lb n="14121"/> which believed in the dignity of its calling. He had never been
 <lb n="14122"/> seen in the city without a silk hat of some decency and a pair of
-<lb n="14123"/> gaiters. By grace of these two articles of clothing, he said, a
-<lb n="14124"/> man could always pass muster. He carried on the tradition of
+  <lb n="14123"/> gaiters. <said who="Tom Kernan">By grace of these two articles of clothing, </said>he said, <said who="Tom Kernan">a
+  <lb n="14124"/> man could always pass muster.</said> He carried on the tradition of
 <lb n="14125"/> his Napoleon, the great Blackwhite, whose memory he evoked
 <lb n="14126"/> at times by legend and mimicry. Modern business methods had
 <lb n="14127"/> spared him only so far as to allow him a little office in Crowe
@@ -164,13 +164,13 @@
 <lb n="14163"/> him out from his wife and family. Nice friends! Who was he
 <lb n="14164"/> with tonight, I'd like to know?</said></p>
   <lb n="14165"/> <p><persName xml:id="jp">Mr Power</persName> shook his head but said nothing.
-<lb n="14166"/> <said who="Mrs Kernan">―I'm so sorry, she continued, that I've nothing in the house to
+  <lb n="14166"/> <said who="Mrs Kernan">―I'm so sorry, </said>she continued, <said who="Mrs Kernan">that I've nothing in the house to
 <lb n="14167"/> offer you. But if you wait a minute I'll send round to Fogarty's
 <lb n="14168"/> at the corner.</said></p>
   <lb n="14169"/> <p><persName xml:id="jp">Mr Power</persName> stood up.
 <lb n="14170"/> <said who="Jack Power">―We were waiting for him to come home with the money. He
 <lb n="14171"/> never seems to think he has a home at all.</said>
-  <lb n="14172"/> <said who="Jack Power">―O now, <persName xml:id="mk">Mrs Kernan</persName>, said Mr Power, we'll make him turn
+  <lb n="14172"/> <said who="Jack Power">―O now, <persName xml:id="mk">Mrs Kernan</persName>, </said>said Mr Power, <said who="Jack Power">we'll make him turn
   <lb n="14173"/> over a new leaf. I'll talk to <persName xml:id="mc">Martin</persName>. He's the man. We'll come
 <lb n="14174"/> here one of these nights and talk it over.</said></p>
 <lb n="14175"/> <p>She saw him to the door. The carman was stamping up and
@@ -179,7 +179,7 @@
   <lb n="14178"/> <said who="Jack Power">―Not at all, </said>said <persName xml:id="jp">Mr Power</persName>.</p>
 <lb n="14179"/> <p>He got up on the car. As it drove off he raised his hat to her
 <lb n="14180"/> gaily.
-<lb n="14181"/> <said who="Jack Power">―We'll make a new man of him, he said. Goodnight, <persName xml:id="mk">Mrs
+  <lb n="14181"/> <said who="Jack Power">―We'll make a new man of him, </said>he said. <said who="Jack Power">Goodnight, <persName xml:id="mk">Mrs
   <lb n="14182"/> Kernan</persName>.</said></p>
 <lb />   *  *  *
   <lb n="14183"/> <p><persName xml:id="mk">Mrs Kernan</persName>'s puzzled eyes watched the car till it was out of
@@ -245,7 +245,7 @@
 <lb n="14243"/> considered that his face was like Shakespeare's.</p>
 <lb n="14244"/> <p>When the plot had been disclosed to her <persName xml:id="mk">Mrs Kernan</persName> had
 <lb n="14245"/> said:
-<lb n="14246"/> <said who="Mrs Kernan">I leave it all in your hands, <persName xml:id="mc">Mr Cunningham</persName>.</said></p>
+  <lb n="14246"/> <said who="Mrs Kernan">I leave it all in your hands, </said><persName xml:id="mc">Mr Cunningham</persName>.</p>
 <lb n="14247"/> <p>After a quarter of a century of married life she had very few
 <lb n="14248"/> illusions left. Religion for her was a habit and she suspected
 <lb n="14249"/> that a man of her husband's age would not change greatly
@@ -261,13 +261,13 @@
 <lb n="14259"/> kitchen but, if she was put to it, she could believe also in the
 <lb n="14260"/> banshee and in the Holy Ghost.</p>
 <lb n="14261"/> <p>The gentlemen began to talk of the accident. <persName xml:id="mc">Mr Cunning=
-  <lb n="14262"/> ham</persName> said that he had once known a similar case. A man of
+  <lb n="14262"/> ham</persName> said that <said who="Martin Cunningham" direct="false">he had once known a similar case. A man of
 <lb n="14263"/> seventy had bitten off a piece of his tongue during an epileptic
 <lb n="14264"/> fit and the tongue had filled in again so that no-one could see a
-<lb n="14265"/> trace of the bite.
+  <lb n="14265"/> trace of the bite.</said>
 <lb n="14266"/> <said who="Tom Kernan">―Well, I'm not seventy, </said>said the invalid.
-  <lb n="14267"/> <said who="Mr Cunningham">―God forbid, said <persName xml:id="mc">Mr Cunningham</persName>.</said>
-<lb n="14268"/> <said who="Mr M'Coy">―It doesn't pain you now? asked <persName xml:id="mco">Mr M'Coy</persName>.</said></p>
+  <lb n="14267"/> <said who="Mr Cunningham">―God forbid, </said>said <persName xml:id="mc">Mr Cunningham</persName>.
+<lb n="14268"/> <said who="Mr M'Coy">―It doesn't pain you now? </said>asked <persName xml:id="mco">Mr M'Coy</persName>.</p>
   <lb n="14269"/> <p><persName xml:id="mco">Mr M'Coy</persName> had been at one time a tenor of some reputation.
 <lb n="14270"/> His wife, who had been a soprano, still taught young children
 <lb n="14271"/> to play the piano at low terms. His line of life had not been the
@@ -279,16 +279,16 @@
 <lb n="14277"/> office of the Sub-Sheriff and he had recently become secretary
 <lb n="14278"/> to the City Coroner. His new office made him professionally
   <lb n="14279"/> interested in <persName xml:id="tk">Mr Kernan</persName>'s case.
-<lb n="14280"/> <said who="Tom Kernan">―Pain? Not much, answered <persName xml:id="tk">Mr Kernan</persName>. But it's so sickening:
+  <lb n="14280"/> <said who="Tom Kernan">―Pain? Not much, </said>answered <persName xml:id="tk">Mr Kernan</persName>. <said who="Tom Kernan">But it's so sickening:
 <lb n="14281"/> I feel as if I wanted to retch off.</said>
-<lb n="14282"/> <said who="Mr Cunningham">―That's the boose, said <persName xml:id="mc">Mr Cunningham</persName> firmly.</said>
-  <lb n="14283"/> <said who="Tom Kernan">―No, said <persName xml:id="tk">Mr Kernan</persName>. I think I caught a cold on the car.
+  <lb n="14282"/> <said who="Mr Cunningham">―That's the boose, </said>said <persName xml:id="mc">Mr Cunningham</persName> firmly.
+  <lb n="14283"/> <said who="Tom Kernan">―No, </said>said <persName xml:id="tk">Mr Kernan</persName>. <said who="Tom Kernan">I think I caught a cold on the car.
 <lb n="14284"/> There's something keeps coming into my throat, phlegm
 <lb n="14285"/> or ......</said>
-  <lb n="14286"/> <said who="Mr M'Coy">―Mucus, said <persName xml:id="mco">Mr M'Coy</persName>.</said>
+  <lb n="14286"/> <said who="Mr M'Coy">―Mucus, </said>said <persName xml:id="mco">Mr M'Coy</persName>.
 <lb n="14287"/> <said who="Tom Kernan">―It keeps coming like from down in my throat; sickening
 <lb n="14288"/> thing.</said>
-  <lb n="14289"/> <said who="Mr M'Coy">―Yes, yes, said <persName xml:id="mco">Mr M'Coy</persName>, that's the thorax.</said></p>
+  <lb n="14289"/> <said who="Mr M'Coy">―Yes, yes, </said>said <persName xml:id="mco">Mr M'Coy</persName>, <said who="Mr M'Coy">that's the thorax.</said></p>
   <lb n="14290"/> <p>He looked at <persName xml:id="mc">Mr Cunningham</persName> and <persName xml:id="jp">Mr Power</persName> at the same
   <lb n="14291"/> time with an air of challenge. <persName xml:id="mc">Mr Cunningham</persName> nodded his head
   <lb n="14292"/> rapidly and <persName xml:id="jp">Mr Power</persName> said:
@@ -296,7 +296,7 @@
 <lb n="14294"/> <said who="Tom Kernan">―I'm very much obliged to you, old man, </said>said the invalid.</p>
   <lb n="14295"/> <p><persName xml:id="jp">Mr Power</persName> waved his hand.
 <lb n="14296"/> <said who="Tom Kernan">―Those other two fellows I was with .....</said>
-<lb n="14297"/> <said who="Mr Cunningham">―Who were you with? asked <persName xml:id="mc">Mr Cunningham</persName>.</said>
+  <lb n="14297"/> <said who="Mr Cunningham">―Who were you with? </said>asked <persName xml:id="mc">Mr Cunningham</persName>.
 <lb n="14298"/> <said who="Tom Kernan">―A chap - I don't know his name. Damn it now, what's his
 <lb n="14299"/> name? Little chap with sandy hair ...</said>
 <lb n="14300"/> <said who="Mr Cunningham">―And who else?</said>
@@ -320,7 +320,7 @@
 <lb n="14318"/> as an Irish Jew and an illiterate and saw divine disapproval of
 <lb n="14319"/> usury made manifest through the person of his idiot son. At
 <lb n="14320"/> other times they remembered his good points.
-<lb n="14321"/> <said who="Tom Kernan">―I wonder where did he go to, said <persName xml:id="tk">Mr Kernan</persName>.</said></p>
+<lb n="14321"/> <said who="Tom Kernan">―I wonder where did he go to, </said>said <persName xml:id="tk">Mr Kernan</persName>.</p>
 <lb n="14322"/> <p>He wished the details of the incident to remain vague. He
 <lb n="14323"/> wished his friends to think there had been some mistake, that
   <lb n="14324"/> <persName xml:id="hf">Mr Harford</persName> and he had missed each other. His friends, who
@@ -328,16 +328,16 @@
   <lb n="14326"/> <persName xml:id="jp">Mr Power</persName> said again:
 <lb n="14327"/> <said who="Jack Power">―All's well that ends well.</said></p>
   <lb n="14328"/> <p><persName xml:id="tk">Mr Kernan</persName> changed the subject at once.
-<lb n="14329"/> <said who="Tom Kernan">―That was a decent young chap, that medical fellow, he said.</said>
-<lb n="14330"/> Only for him ......
-  <lb n="14331"/> <said who="Jack Power">―O, only for him, said <persName xml:id="jp">Mr Power</persName>, it might have been a case of
+<lb n="14329"/> <said who="Tom Kernan">―That was a decent young chap, that medical fellow, </said>he said.
+  <lb n="14330"/> <said who="Tom Kernan">Only for him ......</said>
+  <lb n="14331"/> <said who="Jack Power">―O, only for him, </said>said <persName xml:id="jp">Mr Power</persName>, <said who="Jack Power">it might have been a case of
 <lb n="14332"/> seven days without the option of a fine.</said>
-  <lb n="14333"/> <said who="Tom Kernan">―Yes, yes, said <persName xml:id="tk">Mr Kernan</persName>, trying to remember. I remember
-<lb n="14334"/> now there was a policeman. Decent young fellow, he seemed.</said>
-<lb n="14335"/> How did it happen at all?
+  <lb n="14333"/> <said who="Tom Kernan">―Yes, yes, </said>said <persName xml:id="tk">Mr Kernan</persName>, trying to remember. <said who="Tom Kernan">I remember
+<lb n="14334"/> now there was a policeman. Decent young fellow, he seemed.
+  <lb n="14335"/> How did it happen at all?</said>
 <lb n="14336"/> <said who="Mr Cunningham">―It happened that you were peloothered, <persName xml:id="tk">Tom</persName>, </said>said <persName xml:id="mc">Mr Cun=
   <lb n="14337"/> ningham</persName> gravely.
-  <lb n="14338"/> <said who="Tom Kernan">―True bill, said <persName xml:id="tk">Mr Kernan</persName> equally gravely.</said>
+  <lb n="14338"/> <said who="Tom Kernan">―True bill, </said>said <persName xml:id="tk">Mr Kernan</persName> equally gravely.
 <lb n="14339"/> <said who="Mr M'Coy">―I suppose you squared the constable, <persName xml:id="jp">Jack</persName>, </said>said <persName xml:id="mco">Mr M'Coy</persName>.</p>
   <lb n="14340"/> <p><persName xml:id="jp">Mr Power</persName> did not relish the use of his Christian name. He
 <lb n="14341"/> was not straitlaced but he could not forget that <persName xml:id="mco">Mr M'Coy</persName> had
@@ -350,11 +350,11 @@
 <lb n="14348"/> conscious of his citizenship, wished to live with his city on
 <lb n="14349"/> terms mutually honourable and resented any affront put upon
 <lb n="14350"/> him by those whom he called country bumpkins.
-<lb n="14351"/> <said who="Tom Kernan">―Is this what we pay rates for? he asked. To feed and clothe
+  <lb n="14351"/> <said who="Tom Kernan">―Is this what we pay rates for? </said>he asked. <said who="Tom Kernan">To feed and clothe
 <lb n="14352"/> these ignorant bostoons ... and they're nothing else.</said></p>
   <lb n="14353"/> <p><persName xml:id="mc">Mr Cunningham</persName> laughed. He was a Castle official only
 <lb n="14354"/> during office hours.
-<lb n="14355"/> <said who="Mr Cunningham">―How could they be anything else, <persName xml:id="tk">Tom</persName>? he said.</said></p>
+<lb n="14355"/> <said who="Mr Cunningham">―How could they be anything else, <persName xml:id="tk">Tom</persName>? </said>he said.</p>
 <lb n="14356"/> <p>He assumed a thick provincial accent and said in a tone of
 <lb n="14357"/> command:
 <lb n="14358"/> <said who="Mr Cunningham">―65, catch your cabbage!</said></p>
@@ -373,16 +373,16 @@
 <lb n="14371"/> their plates: <emph>65, catch your cabbage.</emph></said></p>
   <lb n="14372"/> <p>Everyone laughed again: but <persName xml:id="tk">Mr Kernan</persName> was somewhat
 <lb n="14373"/> indignant still. He talked of writing a letter to the papers.
-<lb n="14374"/> <said who="Tom Kernan">―These yahoos coming up here, he said, think they can boss
+  <lb n="14374"/> <said who="Tom Kernan">―These yahoos coming up here, </said>he said, <said who="Tom Kernan">think they can boss
   <lb n="14375"/> the people. I needn't tell you, <persName xml:id="mc">Martin</persName>, what kind of men they
 <lb n="14376"/> are.</said></p>
   <lb n="14377"/> <p><persName xml:id="mc">Mr Cunningham</persName> gave a qualified assent.
-<lb n="14378"/> <said who="Mr Cunningham">―It's like everything else in this world, he said. You get some
+  <lb n="14378"/> <said who="Mr Cunningham">―It's like everything else in this world, </said>he said. <said who="Mr Cunningham">You get some
 <lb n="14379"/> bad ones and you get some good ones.</said>
-<lb n="14380"/> <said who="Tom Kernan">―O yes, you get some good ones, I admit, said <persName xml:id="tk">Mr Kernan</persName>,
-<lb n="14381"/> satisfied.</said>
-<lb n="14382"/> <said who="Mr M'Coy">―It's better to have nothing to say to them, said <persName xml:id="mco">Mr M'Coy</persName>.
-<lb n="14383"/> That's my opinion.</said></p>
+  <lb n="14380"/> <said who="Tom Kernan">―O yes, you get some good ones, I admit, </said>said <persName xml:id="tk">Mr Kernan</persName>,
+<lb n="14381"/> satisfied.
+  <lb n="14382"/> <said who="Mr M'Coy">―It's better to have nothing to say to them, </said>said <persName xml:id="mco">Mr M'Coy</persName>.
+<lb n="14383"/> <said who="Mr M'Coy">That's my opinion.</said></p>
   <lb n="14384"/> <p><persName xml:id="mk">Mrs Kernan</persName> entered the room and, placing a tray on the
 <lb n="14385"/> table, said:
 <lb n="14386"/> <said who="Mrs Kernan">―Help yourselves, gentlemen.</said></p>
@@ -392,8 +392,8 @@
   <lb n="14390"/> Power</persName>'s back, prepared to leave the room. Her husband called
 <lb n="14391"/> out to her:
 <lb n="14392"/> <said who="Tom Kernan">―And have you nothing for me, duckie?</said>
-<lb n="14393"/> <said who="Mrs Kernan">―O, you! The back of my hand to you! said <persName xml:id="mk">Mrs Kernan</persName>
-<lb n="14394"/> tartly.</said></p>
+  <lb n="14393"/> <said who="Mrs Kernan">―O, you! The back of my hand to you! </said>said <persName xml:id="mk">Mrs Kernan</persName>
+<lb n="14394"/> tartly.</p>
 <lb n="14395"/> <p>Her husband called after her:
 <lb n="14396"/> <said who="Tom Kernan">―Nothing for poor little hubby!</said></p>
 <lb n="14397"/> <p>He assumed such a comical face and voice that the distribu=
@@ -402,41 +402,41 @@
   <lb n="14400"/> on the table and paused. Then <persName xml:id="mc">Mr Cunningham</persName> turned to=
   <lb n="14401"/> wards <persName xml:id="jp">Mr Power</persName> and said casually:
 <lb n="14402"/> <said who="Mr Cunningham">―On Thursday night, you said, <persName xml:id="jp">Jack</persName>?</said>
-  <lb n="14403"/> <said who="Jack Power">―Thursday, yes, said <persName xml:id="jp">Mr Power</persName>.</said>
-  <lb n="14404"/> <said who="Mr Cunningham">―Righto! said <persName xml:id="mc">Mr Cunningham</persName> promptly.</said>
-<lb n="14405"/> <said who="Mr M'Coy">―We can meet in M'Auley's, said <persName xml:id="mco">Mr M'Coy</persName>. That'll be the
+  <lb n="14403"/> <said who="Jack Power">―Thursday, yes, </said>said <persName xml:id="jp">Mr Power</persName>.
+  <lb n="14404"/> <said who="Mr Cunningham">―Righto! </said>said <persName xml:id="mc">Mr Cunningham</persName> promptly.
+  <lb n="14405"/> <said who="Mr M'Coy">―We can meet in M'Auley's, </said>said <persName xml:id="mco">Mr M'Coy</persName>. <said who="Mr M'Coy">That'll be the
 <lb n="14406"/> most convenient place.</said>
-<lb n="14407"/> <said who="Jack Power">―But we mustn't be late, said <persName xml:id="jp">Mr Power</persName> earnestly, because it
+  <lb n="14407"/> <said who="Jack Power">―But we mustn't be late, </said>said <persName xml:id="jp">Mr Power</persName> earnestly, <said who="Jack Power">because it
 <lb n="14408"/> is sure to be crammed to the doors.</said>
-<lb n="14409"/> <said who="Mr M'Coy">―We can meet at half seven, said <persName xml:id="mco">Mr M'Coy</persName>.</said>
-  <lb n="14410"/> <said who="Mr Cunningham">―Righto! said <persName xml:id="mc">Mr Cunningham</persName>. Half seven at M'Auley's be it!</said></p>
+  <lb n="14409"/> <said who="Mr M'Coy">―We can meet at half seven, </said>said <persName xml:id="mco">Mr M'Coy</persName>.
+  <lb n="14410"/> <said who="Mr Cunningham">―Righto! </said>said <persName xml:id="mc">Mr Cunningham</persName>. <said who="Mr Cunningham">Half seven at M'Auley's be it!</said></p>
   <lb n="14411"/> <p>There was a short silence. <persName xml:id="tk">Mr Kernan</persName> waited to see whether
 <lb n="14412"/> he would be taken into his friends' confidence. Then he asked:
 <lb n="14413"/> <said who="Tom Kernan">―What's in the wind?</said>
-<lb n="14414"/> <said who="Mr Cunningham">―O, it's nothing, said <persName xml:id="mc">Mr Cunningham</persName>. It's only a little matter
+  <lb n="14414"/> <said who="Mr Cunningham">―O, it's nothing, </said>said <persName xml:id="mc">Mr Cunningham</persName>. <said who="Mr Cunningham">It's only a little matter
 <lb n="14415"/> that we're arranging about for Thursday.</said>
-<lb n="14416"/> <said who="Tom Kernan">―The opera, is it? said <persName xml:id="tk">Mr Kernan</persName>.</said>
-  <lb n="14417"/> <said who="Mr Cunningham">―No, no, said <persName xml:id="mc">Mr Cunningham</persName> in an evasive tone, it's just a
+  <lb n="14416"/> <said who="Tom Kernan">―The opera, is it? </said>said <persName xml:id="tk">Mr Kernan</persName>.
+  <lb n="14417"/> <said who="Mr Cunningham">―No, no, </said>said <persName xml:id="mc">Mr Cunningham</persName> in an evasive tone, <said who="Mr Cunningham">it's just a
 <lb n="14418"/> little .... spiritual matter.</said>
-  <lb n="14419"/> <said who="Tom Kernan">―O, said <persName xml:id="tk">Mr Kernan</persName>.</said></p>
+  <lb n="14419"/> <said who="Tom Kernan">―O, </said>said <persName xml:id="tk">Mr Kernan</persName>.</p>
   <lb n="14420"/> <p>There was silence again. Then <persName xml:id="jp">Mr Power</persName> said point blank:
   <lb n="14421"/> <said who="Jack Power">―To tell you the truth, <persName xml:id="tk">Tom</persName>, we're going to make a retreat.</said>
-<lb n="14422"/> <said who="Mr Cunningham">―Yes, that's it, said <persName xml:id="mc">Mr Cunningham</persName>, <persName xml:id="jp">Jack</persName> and I and <persName xml:id="mco">M'Coy</persName>
+  <lb n="14422"/> <said who="Mr Cunningham">―Yes, that's it, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham"><persName xml:id="jp">Jack</persName> and I and <persName xml:id="mco">M'Coy</persName>
 <lb n="14423"/> here we're all going to wash the pot.</said></p>
 <lb n="14424"/> <p>He uttered the metaphor with a certain homely energy and,
 <lb n="14425"/> encouraged by his own voice, proceeded:
 <lb n="14426"/> <said who="Mr Cunningham">―You see, we may as well all admit we're a nice collection of
 <lb n="14427"/> scoundrels, one and all. I say, one and all, he added with gruff
   <lb n="14428"/> charity and turning to <persName xml:id="jp">Mr Power</persName>. Own up now!</said>
-  <lb n="14429"/> <said who="Jack Power">―I own up, said <persName xml:id="jp">Mr Power</persName>.</said>
-  <lb n="14430"/> <said who="Mr M'Coy">―And I own up, said <persName xml:id="mco">Mr M'Coy</persName>.</said>
-<lb n="14431"/> <said who="Mr Cunningham">―So we're going to wash the pot together, said <persName xml:id="mc">Mr Cunning=
-  <lb n="14432"/> ham</persName>.</said></p>
+  <lb n="14429"/> <said who="Jack Power">―I own up, </said>said <persName xml:id="jp">Mr Power</persName>.
+  <lb n="14430"/> <said who="Mr M'Coy">―And I own up, </said>said <persName xml:id="mco">Mr M'Coy</persName>.
+  <lb n="14431"/> <said who="Mr Cunningham">―So we're going to wash the pot together, </said>said <persName xml:id="mc">Mr Cunning=
+  <lb n="14432"/> ham</persName>.</p>
 <lb n="14433"/> <p>A thought seemed to strike him. He turned suddenly to the
 <lb n="14434"/> invalid and said:
   <lb n="14435"/> <said who="Mr Cunningham">―Do you know what, <persName xml:id="tk">Tom</persName>, has just occurred to me? You
 <lb n="14436"/> might join in and we'd have a fourhanded reel.</said>
-  <lb n="14437"/> <said who="Jack Power">―Good idea, said <persName xml:id="jp">Mr Power</persName>. The four of us together.</said></p>
+  <lb n="14437"/> <said who="Jack Power">―Good idea, </said>said <persName xml:id="jp">Mr Power</persName>. <said who="Jack Power">The four of us together.</said></p>
   <lb n="14438"/> <p><persName xml:id="tk">Mr Kernan</persName> was silent. The proposal conveyed very little
 <lb n="14439"/> meaning to his mind but, understanding that some spiri=
 <lb n="14440"/> tual agencies were about to concern themselves on his behalf,
@@ -444,35 +444,35 @@
 <lb n="14442"/> took no part in the conversation for a long while but listened,
 <lb n="14443"/> with an air of calm enmity, while his friends discussed the
 <lb n="14444"/> Jesuits.
-<lb n="14445"/> <said who="Tom Kernan">―I haven't such a bad opinion of the Jesuits, he said, inter=
-<lb n="14446"/> vening at length. They're an educated order. I believe they
+  <lb n="14445"/> <said who="Tom Kernan">―I haven't such a bad opinion of the Jesuits, </said>he said, inter=
+<lb n="14446"/> vening at length. <said who="Tom Kernan">They're an educated order. I believe they
 <lb n="14447"/> mean well too.</said>
-<lb n="14448"/> <said who="Mr Cunningham">―They're the grandest order in the Church, <persName xml:id="tk">Tom</persName>, said <persName xml:id="mc">Mr
-  <lb n="14449"/> Cunningham</persName> with enthusiasm. The General of the Jesuits
+<lb n="14448"/> <said who="Mr Cunningham">―They're the grandest order in the Church, <persName xml:id="tk">Tom</persName>, </said>said <persName xml:id="mc">Mr
+  <lb n="14449"/> Cunningham</persName> with enthusiasm. <said who="Mr Cunningham">The General of the Jesuits
 <lb n="14450"/> stands next to the Pope.</said>
-<lb n="14451"/> <said who="Mr M'Coy">―There's no mistake about it, said <persName xml:id="mco">Mr M'Coy</persName>, if you want a
+  <lb n="14451"/> <said who="Mr M'Coy">―There's no mistake about it, </said>said <persName xml:id="mco">Mr M'Coy</persName>, <said who="Mr M'Coy">if you want a
 <lb n="14452"/> thing well done and no flies about it you go to a Jesuit. They're
 <lb n="14453"/> the boyos have influence. I'll tell you a case in point .......</said>
-<lb n="14454"/> <said who="Jack Power">―The Jesuits are a fine body of men, said <persName xml:id="jp">Mr Power</persName>.</said>
-<lb n="14455"/> <said who="Mr Cunningham">―It's a curious thing, said <persName xml:id="mc">Mr Cunningham</persName>, about the Jesuit
+  <lb n="14454"/> <said who="Jack Power">―The Jesuits are a fine body of men, </said>said <persName xml:id="jp">Mr Power</persName>.
+  <lb n="14455"/> <said who="Mr Cunningham">―It's a curious thing, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">about the Jesuit
 <lb n="14456"/> Order. Every other order of the Church had to be reformed at
 <lb n="14457"/> some time or other but the Jesuit Order was never once
 <lb n="14458"/> reformed. It never fell away.</said>
-  <lb n="14459"/> <said who="Mr M'Coy">―Is that so? asked <persName xml:id="mco">Mr M'Coy</persName>.</said>
-<lb n="14460"/> <said who="Mr Cunningham">―That's a fact, said <persName xml:id="mc">Mr Cunningham</persName>. That's history.</said>
-<lb n="14461"/> <said who="Jack Power">―Look at their church too, said <persName xml:id="jp">Mr Power</persName>. Look at the
+  <lb n="14459"/> <said who="Mr M'Coy">―Is that so? </said>asked <persName xml:id="mco">Mr M'Coy</persName>.
+  <lb n="14460"/> <said who="Mr Cunningham">―That's a fact, </said>said <persName xml:id="mc">Mr Cunningham</persName>. <said who="Mr Cunningham">That's history.</said>
+  <lb n="14461"/> <said who="Jack Power">―Look at their church too, </said>said <persName xml:id="jp">Mr Power</persName>. <said who="Jack Power">Look at the
 <lb n="14462"/> congregation they have.</said>
-<lb n="14463"/> <said who="Mr M'Coy">―The Jesuits cater for the upper classes, said <persName xml:id="mco">Mr M'Coy</persName>.</said>
-  <lb n="14464"/> <said who="Jack Power">―Of course, said <persName xml:id="jp">Mr Power</persName>.</said>
-  <lb n="14465"/> <said who="Tom Kernan">―Yes, said <persName xml:id="tk">Mr Kernan</persName>. That's why I have a feeling for them.
+  <lb n="14463"/> <said who="Mr M'Coy">―The Jesuits cater for the upper classes, </said>said <persName xml:id="mco">Mr M'Coy</persName>.
+  <lb n="14464"/> <said who="Jack Power">―Of course, </said>said <persName xml:id="jp">Mr Power</persName>.
+  <lb n="14465"/> <said who="Tom Kernan">―Yes, </said>said <persName xml:id="tk">Mr Kernan</persName>. <said who="Tom Kernan">That's why I have a feeling for them.
 <lb n="14466"/> It's some of those secular priests, ignorant, bumptious ......</said>
-<lb n="14467"/> <said who="Mr Cunningham">―They're all good men, said <persName xml:id="mc">Mr Cunningham</persName>, each in his own
+  <lb n="14467"/> <said who="Mr Cunningham">―They're all good men, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">each in his own
 <lb n="14468"/> way. The Irish priesthood is honoured all the world over.</said></said>
-  <lb n="14469"/> <said who="Jack Power">―O yes, said <persName xml:id="jp">Mr Power</persName>.
-<lb n="14470"/> <said who="Mr M'Coy">―Not like some of the other priesthoods on the continent, said
-  <lb n="14471"/> <persName xml:id="mco">Mr M'Coy</persName>, unworthy of the name.</said>
-<lb n="14472"/> <said who="Mr Kernan">―Perhaps you're right, said <persName xml:id="tk">Mr Kernan</persName> relenting.</said>
-<lb n="14473"/> <said who="Mr Cunningham">―Of course I'm right, said <persName xml:id="mc">Mr Cunningham</persName>. I haven't been in
+  <lb n="14469"/> <said who="Jack Power">―O yes, </said>said <persName xml:id="jp">Mr Power</persName>.
+<lb n="14470"/> <said who="Mr M'Coy">―Not like some of the other priesthoods on the continent, </said>said
+  <lb n="14471"/> <persName xml:id="mco">Mr M'Coy</persName>, <said who="Mr M'Coy">unworthy of the name.</said>
+  <lb n="14472"/> <said who="Mr Kernan">―Perhaps you're right, </said>said <persName xml:id="tk">Mr Kernan</persName> relenting.
+  <lb n="14473"/> <said who="Mr Cunningham">―Of course I'm right, </said>said <persName xml:id="mc">Mr Cunningham</persName>. <said who="Mr Cunningham">I haven't been in
 <lb n="14474"/> the world all this time and seen most sides of it without being a
 <lb n="14475"/> judge of character.</said></p>
 <lb n="14476"/> <p>The gentlemen drank again, one following another's ex=
@@ -480,13 +480,13 @@
 <lb n="14478"/> mind. He was impressed. He had a high opinion of <persName xml:id="mc">Mr Cun=
   <lb n="14479"/> ningham</persName> as a judge of character and as a reader of faces. He
 <lb n="14480"/> asked for particulars.
-<lb n="14481"/> <said who="Mr Cunningham">―O, it's just a retreat, you know, said <persName xml:id="mc">Mr Cunningham</persName>. <persName xml:id="fp">Fa=
+  <lb n="14481"/> <said who="Mr Cunningham">―O, it's just a retreat, you know, </said>said <persName xml:id="mc">Mr Cunningham</persName>. <said who="Mr Cunningham"><persName xml:id="fp">Fa=
   <lb n="14482"/> ther Purdon</persName> is giving it. It's for business men, you know.</said>
-<lb n="14483"/> <said who="Jack Power">―He won't be too hard on us, <persName xml:id="tk">Tom</persName>, said <persName xml:id="jp">Mr Power</persName> persua=
-<lb n="14484"/> sively.</said>
+<lb n="14483"/> <said who="Jack Power">―He won't be too hard on us, <persName xml:id="tk">Tom</persName>, </said>said <persName xml:id="jp">Mr Power</persName> persua=
+<lb n="14484"/> sively.
   <lb n="14485"/> <said who="Tom Kernan">―<persName xml:id="fp">Father Purdon</persName>? <persName xml:id="fp">Father Purdon</persName>? </said>said the invalid.
   <lb n="14486"/> <said who="Mr Cunningham">―O, you must know him, <persName xml:id="tk">Tom</persName>, </said>said <persName xml:id="mc">Mr Cunningham</persName> stoutly.
-<lb n="14487"/> Fine jolly fellow! He's a man of the world like ourselves.
+<lb n="14487"/> <said who="Mr Cunningham">Fine jolly fellow! He's a man of the world like ourselves.</said>
 <lb n="14488"/> <said who="Tom Kernan">―Ah ... yes. I think I know him. Rather red face; tall.</said>
 <lb n="14489"/> <said who="Mr Cunningham">―That's the man.</said>
   <lb n="14490"/> <said who="Tom Kernan">―And tell me, <persName xml:id="mc">Martin</persName> .... Is he a good preacher?</said>
@@ -494,43 +494,43 @@
 <lb n="14492"/> kind of a friendly talk, you know, in a commonsense way.</said></p>
   <lb n="14493"/> <p><persName xml:id="tk">Mr Kernan</persName> deliberated. <persName xml:id="mco">Mr M'Coy</persName> said:
   <lb n="14494"/> <said who="Mr M'Coy">―<persName xml:id="ftb">Father Tom Burke</persName>, that was the boy!</said>
-  <lb n="14495"/> <said who="Mr Cunningham">―O, <persName xml:id="ftb">Father Tom Burke</persName>, said <persName xml:id="mc">Mr Cunningham</persName>, that was a
+  <lb n="14495"/> <said who="Mr Cunningham">―O, <persName xml:id="ftb">Father Tom Burke</persName>, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">that was a
   <lb n="14496"/> born orator. Did you ever hear him, <persName xml:id="tk">Tom</persName>?</said>
-<lb n="14497"/> <said who="Tom Kernan">―Did I ever hear him! said the invalid, nettled. Rather! I heard
+    <lb n="14497"/> <said who="Tom Kernan">―Did I ever hear him! </said>said the invalid, nettled. <said who="Tom Kernan">Rather! I heard
 <lb n="14498"/> him ......</said>
-<lb n="14499"/> <said who="Mr Cunningham">―And yet they say he wasn't much of a theologian, said <persName xml:id="mc">Mr
-  <lb n="14500"/> Cunningham</persName>.</said>
-  <lb n="14501"/> <said who="Mr M'Coy">―Is that so? said <persName xml:id="mco">Mr M'Coy</persName>.</said>
+    <lb n="14499"/> <said who="Mr Cunningham">―And yet they say he wasn't much of a theologian, </said>said <persName xml:id="mc">Mr
+  <lb n="14500"/> Cunningham</persName>.
+    <lb n="14501"/> <said who="Mr M'Coy">―Is that so? </said>said <persName xml:id="mco">Mr M'Coy</persName>.
 <lb n="14502"/> <said who="Mr Cunningham">―O, of course, nothing wrong, you know. Only sometimes,
-<lb n="14503"/> they say, he didn't preach what was quite orthodox.
-<lb n="14504"/> <said who="Mr M'Coy">―Ah! .. he was a splendid man,</said> said <persName xml:id="mco">Mr M'Coy</persName>.</said>
-  <lb n="14505"/> <said who="Tom Kernan">―I heard him once, <persName xml:id="tk">Mr Kernan</persName> continued. I forget the subject
+    <lb n="14503"/> they say, he didn't preach what was quite orthodox.</said>
+<lb n="14504"/> <said who="Mr M'Coy">―Ah! .. he was a splendid man,</said> said <persName xml:id="mco">Mr M'Coy</persName>.
+    <lb n="14505"/> <said who="Tom Kernan">―I heard him once, </said><persName xml:id="tk">Mr Kernan</persName> continued. <said who="Tom Kernan">I forget the subject
   <lb n="14506"/> of his discourse now. <persName xml:id="cf">Crofton</persName> and I were in the back of the ....
-<lb n="14507"/> pit, you know ... the ...</said></said>
-  <lb n="14508"/> <said who="Mr Cunningham">―The body, said <persName xml:id="mc">Mr Cunningham</persName>.
+<lb n="14507"/> pit, you know ... the ...</said>
+    <lb n="14508"/> <said who="Mr Cunningham">―The body, </said>said <persName xml:id="mc">Mr Cunningham</persName>.
 <lb n="14509"/> <said who="Tom Kernan">―Yes, in the back near the door. I forget now what ...... O yes,
 <lb n="14510"/> it was on the Pope, the late Pope. I remember it well. Upon my
 <lb n="14511"/> word it was magnificent, the style of the oratory. And his voice!
 <lb n="14512"/> God! hadn't he a voice! <emph>The Prisoner of the Vatican</emph>, he called
   <lb n="14513"/> him. I remember <persName xml:id="cf">Crofton</persName> saying to me when we came out .....</said>
   <lb n="14514"/> <said who="Jack Power">―But he's an Orangeman, <persName xml:id="cf">Crofton</persName>, isn't he? </said>said <persName xml:id="jp">Mr Power</persName>.
-<lb n="14515"/> <said who="Tom Kernan">―'Course he is, said <persName xml:id="tk">Mr Kernan</persName>, and a damned decent Or=
+    <lb n="14515"/> <said who="Tom Kernan">―'Course he is, </said>said <persName xml:id="tk">Mr Kernan</persName>, <said who="Tom Kernan">and a damned decent Or=
 <lb n="14516"/> angeman too. We went into Butler's in Moore Street - faith, I
 <lb n="14517"/> was genuinely moved, tell you the God's truth - and I remem=
-<lb n="14518"/> ber well his very words. <emph>Kernan</emph>, he said, <emph>we worship at
-<lb n="14519"/> different altars</emph>, he said, <emph>but our belief is the same.</emph> Struck me as
+<lb n="14518"/> ber well his very words. <said who="Crofton" direct="false"><emph>Kernan</emph>, </said>he said, <said who="Crofton" direct="false"><emph>we worship at
+    <lb n="14519"/> different altars</emph>, </said>he said, <said who="Crofton" direct="false"><emph>but our belief is the same.</emph></said> Struck me as
 <lb n="14520"/> very well put.</said>
-<lb n="14521"/> <said who="Jack Power">―There's a good deal in that, said <persName xml:id="jp">Mr Power</persName>. There used
+    <lb n="14521"/> <said who="Jack Power">―There's a good deal in that, </said>said <persName xml:id="jp">Mr Power</persName>. <said who="Jack Power">There used
 <lb n="14522"/> always be crowds of Protestants in the chapel when <persName xml:id="ftb">Father
   <lb n="14523"/> Tom</persName> was preaching.</said>
-<lb n="14524"/> <said who="Mr M'Coy">―There's not much difference between us, said <persName xml:id="mcp">Mr M'Coy</persName>.
-<lb n="14525"/> We both believe in ........ </said></p>
+    <lb n="14524"/> <said who="Mr M'Coy">―There's not much difference between us, </said>said <persName xml:id="mcp">Mr M'Coy</persName>.
+<lb n="14525"/> <said who="Mr M'Coy">We both believe in ........ </said></p>
 <lb n="14526"/> <p>He hesitated for a moment.
 <lb n="14527"/> <said who="Mr M'Coy">― ... in the Redeemer. Only they don't believe in the Pope and
 <lb n="14528"/> in the mother of God.</said>
-<lb n="14529"/> <said who="Mr Cunningham">―>But, of course, said <persName xml:id="mc">Mr Cunningham</persName> quietly and effectively,
-<lb n="14530"/> our religion is <emph>the</emph> religion, the old, original faith.</said
-<lb n="14531"/> <said who="Tom Kernan">―Not a doubt of it, said <persName xml:id="tk">Mr Kernan</persName> warmly.</said></p>
+  <lb n="14529"/> <said who="Mr Cunningham">―>But, of course, </said>said <persName xml:id="mc">Mr Cunningham</persName> quietly and effectively,
+  <lb n="14530"/> <said who="Mr Cunningham">our religion is <emph>the</emph> religion, the old, original faith.</said>
+  <lb n="14531"/> <said who="Tom Kernan">―Not a doubt of it, </said>said <persName xml:id="tk">Mr Kernan</persName> warmly.</p>
   <lb n="14532"/> <p><persName xml:id="mk">Mrs Kernan</persName> came to the door of the bedroom and an=
 <lb n="14533"/> nounced:
 <lb n="14534"/> <said who="Mrs Kernan">―Here's a visitor for you!</said>
@@ -559,53 +559,53 @@
 <lb n="14557"/> small measures of whisky were poured out. This new influence
   <lb n="14558"/> enlivened the conversation. <persName xml:id="fg">Mr Fogarty</persName>, sitting on a small area
 <lb n="14559"/> of the chair, was specially interested.
-<lb n="14560"/> <said who="Mr Cunningham">―Pope Leo XIII, said <persName xml:id="mc">Mr Cunningham</persName>, was one of the lights
+    <lb n="14560"/> <said who="Mr Cunningham">―Pope Leo XIII, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">was one of the lights
 <lb n="14561"/> of the age. His great idea, you know, was the union of the
 <lb n="14562"/> Latin and Greek Churches. That was the aim of his life.</said>
 <lb n="14563"/> <said who="Jack Power">―I often heard he was one of the most intellectual men in
-  <lb n="14564"/> Europe, said <persName xml:id="jp">Mr Power</persName>. I mean apart from his being Pope.</said>
-  <lb n="14565"/> <said who="Mr Cunningham">―So he was, said <persName xml:id="mc">Mr Cunningham</persName>, if not <emph>the</emph> most so. His
+    <lb n="14564"/> Europe, </said>said <persName xml:id="jp">Mr Power</persName>. <said who="Jack Power">I mean apart from his being Pope.</said>
+    <lb n="14565"/> <said who="Mr Cunningham">―So he was, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">if not <emph>the</emph> most so. His
 <lb n="14566"/> motto, you know, as Pope was <emph>Lux upon Lux - Light upon
 <lb n="14567"/> Light.</emph></said>
-  <lb n="14568"/> <said who="Mr Fogarty">―No, no, said <persName xml:id="fg">Mr Fogarty</persName> eagerly, I think you're wrong there.
+    <lb n="14568"/> <said who="Mr Fogarty">―No, no, </said>said <persName xml:id="fg">Mr Fogarty</persName> eagerly, <said who="Mr Fogarty">I think you're wrong there.
 <lb n="14569"/> It was <emph>Lux in Tenebris</emph>, I think - <emph>Light in Darkness.</emph></said>
-  <lb n="14570"/> <said who="Mr M'Coy">―O yes, said <persName xml:id="mco">Mr M'Coy</persName>, <emph>Tenebrae.</emph></said>
-  <lb n="14571"/> <said who="Mr Cunningham">―Allow me, said <persName xml:id="mc">Mr Cunningham</persName> positively, it was <emph>Lux upon
+    <lb n="14570"/> <said who="Mr M'Coy">―O yes, </said>said <persName xml:id="mco">Mr M'Coy</persName>, <said who="Mr M'Coy"><emph>Tenebrae.</emph></said>
+    <lb n="14571"/> <said who="Mr Cunningham">―Allow me, </said>said <persName xml:id="mc">Mr Cunningham</persName> positively, <said who="Mr Cunningham">it was <emph>Lux upon
 <lb n="14572"/> Lux.</emph> And Pius IX, his predecessor's motto was <emph>Crux upon
 <lb n="14573"/> Crux</emph>, that is, <emph>Cross upon Cross</emph>, to show the difference be=
 <lb n="14574"/> tween their two pontificates.</said></p>
   <lb n="14575"/> <p>The inference was allowed. <persName xml:id="mc">Mr Cunningham</persName> continued:
 <lb n="14576"/> <said who="Mr Cunningham">―Pope Leo, you know, was a great scholar and a poet.</said>
-<lb n="14577"/> <said who="Tom Kernan">―He had a strong face, said <persName xml:id="tk">Mr Kernan</persName>.</said>
-  <lb n="14578"/> <said who="Mr Cunningham">―Yes, said <persName xml:id="mc">Mr Cunningham</persName>. He wrote Latin poetry.v
-  <lb n="14579"/> <said who="Mr Fogarty">―Is that so? said <persName xml:id="fg">Mr Fogarty</persName>.</said></p>
+    <lb n="14577"/> <said who="Tom Kernan">―He had a strong face, </said>said <persName xml:id="tk">Mr Kernan</persName>.
+    <lb n="14578"/> <said who="Mr Cunningham">―Yes, </said>said <persName xml:id="mc">Mr Cunningham</persName>. <said who="Mr Cunningham">He wrote Latin poetry.</said>
+    <lb n="14579"/> <said who="Mr Fogarty">―Is that so? </said>said <persName xml:id="fg">Mr Fogarty</persName>.</p>
   <lb n="14580"/> <p><persName xml:id="mco">Mr M'Coy</persName> tasted his whisky contentedly and shook his head
 <lb n="14581"/> with a double intention, saying:
 <lb n="14582"/> <said who="Mr M'Coy">―That's no joke, I can tell you.</said>
-  <lb n="14583"/> <said who="Jack Power">―We didn't learn that, <persName xml:id="tk">Tom</persName>, said <persName xml:id="jp">Mr Power</persName>, following <persName xml:id="mcp">Mr
-  <lb n="14584"/> M'Coy</persName>'s example, when we went to the penny-a-week school.</said>
+  <lb n="14583"/> <said who="Jack Power">―We didn't learn that, <persName xml:id="tk">Tom</persName>, </said>said <persName xml:id="jp">Mr Power</persName>, following <persName xml:id="mcp">Mr
+  <lb n="14584"/> M'Coy</persName>'s example, <said who="Jack Power">when we went to the penny-a-week school.</said>
 <lb n="14585"/> <said who="Tom Kernan">―There was many a good man went to the penny-a-week
-<lb n="14586"/> school with a sod of turf under his oxter, said <persName xml:id="tk">Mr Kernan</persName>
-<lb n="14587"/> sententiously. The old system was the best: plain honest edu=
+    <lb n="14586"/> school with a sod of turf under his oxter, </said>said <persName xml:id="tk">Mr Kernan</persName>
+<lb n="14587"/> sententiously. <said who="Tom Kernan">The old system was the best: plain honest edu=
 <lb n="14588"/> cation. None of your modern trumpery ......</said>
-  <lb n="14589"/> <said who="Jack Power">―Quite right, said <persName xml:id="jp">Mr Power</persName>.</said>
-<lb n="14590"/> <said who="Mr Fogarty">―No superfluities, said <persName xml:id="fg">Mr Fogarty</persName>.</said></p>
+    <lb n="14589"/> <said who="Jack Power">―Quite right, </said>said <persName xml:id="jp">Mr Power</persName>.
+    <lb n="14590"/> <said who="Mr Fogarty">―No superfluities, </said>said <persName xml:id="fg">Mr Fogarty</persName>.</p>
 <lb n="14591"/> <p>He enunciated the word and then drank gravely.
-<lb n="14592"/> <said who="Mr Cunningham">―I remember reading, said <persName xml:id="mc">Mr Cunningham</persName>, that one of Pope
+  <lb n="14592"/> <said who="Mr Cunningham">―I remember reading, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">that one of Pope
 <lb n="14593"/> Leo's poems was on the invention of the photograph - in Latin,
 <lb n="14594"/> of course.</said>
-<lb n="14595"/> <said who="Tom Kernan">―On the photograph! exclaimed <persName xml:id="tk">Mr Kernan</persName>.</said>
-  <lb n="14596"/> <said who="Mr Cunningham">―Yes, said <persName xml:id="mc">Mr Cunningham</persName>.</said></p>
+  <lb n="14595"/> <said who="Tom Kernan">―On the photograph! </said>exclaimed <persName xml:id="tk">Mr Kernan</persName>.
+  <lb n="14596"/> <said who="Mr Cunningham">―Yes, </said>said <persName xml:id="mc">Mr Cunningham</persName>.</p>
 <lb n="14597"/> <p>He also drank from his glass.
-  <lb n="14598"/> <said who="Mr M'Coy">―Well, you know, said <persName xml:id="mco">Mr M'Coy</persName>, isn't the photograph
+  <lb n="14598"/> <said who="Mr M'Coy">―Well, you know, </said>said <persName xml:id="mco">Mr M'Coy</persName>, <said who="Mr M'Coy">isn't the photograph
 <lb n="14599"/> wonderful when you come to think of it?</said>
-  <lb n="14600"/> <said who="Jack Power">―O, of course, said <persName xml:id="jp">Mr Power</persName>, great minds can see things ....</said>
-<lb n="14601"/> <said who="Mr Fogarty">―As the poet says: <emph>Great minds are very near to madness</emph>, said
-  <lb n="14602"/> <persName xml:id="fg">Mr Fogarty</persName>.</said></p>
+  <lb n="14600"/> <said who="Jack Power">―O, of course, </said>said <persName xml:id="jp">Mr Power</persName>, <said who="Jack Power">great minds can see things ....</said>
+<lb n="14601"/> <said who="Mr Fogarty">―As the poet says: <emph>Great minds are very near to madness</emph>, </said>said
+  <lb n="14602"/> <persName xml:id="fg">Mr Fogarty</persName>.</p>
   <lb n="14603"/> <p><persName xml:id="tk">Mr Kernan</persName> seemed to be troubled in mind. He made an
 <lb n="14604"/> effort to recall the Protestant theology on some thorny points
   <lb n="14605"/> and in the end addressed <persName xml:id="mc">Mr Cunningham</persName>.
-  <lb n="14606"/> <said who="Tom Kernan">―Tell me, <persName xml:id="mc">Martin</persName>, he said. Weren't some of the popes - of
+    <lb n="14606"/> <said who="Tom Kernan">―Tell me, <persName xml:id="mc">Martin</persName>, </said>he said. <said who="Tom Kernan">Weren't some of the popes - of
 <lb n="14607"/> course, not our present man or his predecessor, but some of the
 <lb n="14608"/> old popes - not exactly .... you know .... up to the knocker?</said></p>
   <lb n="14609"/> <p>There was a silence. <persName xml:id="mc">Mr Cunningham</persName> said:
@@ -614,9 +614,9 @@
 <lb n="14612"/> not the most ... out-and-out ruffian, not one of them ever
 <lb n="14613"/> preached <emph>ex cathedra</emph> a word of false doctrine. Now isn't that
 <lb n="14614"/> an astonishing thing?</said>
-  <lb n="14615"/> <said who="Tom Kernan">-That is, <?said>said <persName xml:id="tk">Mr Kernan</persName>.
-<lb n="14616"/> <said who="Mr Fogarty">―Yes, because when the Pope speaks <emph>ex cathedra</emph>, <persName xml:id="fg">Mr Fogarty</persName>
-<lb n="14617"/> explained, he is infallible.</said>
+  <lb n="14615"/> <said who="Tom Kernan">-That is, </said>said <persName xml:id="tk">Mr Kernan</persName>.
+<lb n="14616"/> <said who="Mr Fogarty">―Yes, because when the Pope speaks <emph>ex cathedra</emph>, </said><persName xml:id="fg">Mr Fogarty</persName>
+<lb n="14617"/> explained, <said who="Mr Fogarty">he is infallible.</said>
   <lb n="14618"/> <said who="Mr Cunningham">―Yes, </said>said <persName xml:id="mc">Mr Cunningham</persName>.
 <lb n="14619"/> <said who="Tom Kernan">―O, I know about the infallibility of the Pope. I remember I
 <lb n="14620"/> was younger then ... Or was it that?</said></p>
@@ -626,7 +626,7 @@
 <lb n="14624"/> measure. The others accepted under protest. The light music of
 <lb n="14625"/> whisky falling into glasses made an agreeable interlude.
 <lb n="14626"/> <said who="Mr M'Coy">―What's that you were saying, <persName xml:id="tk">Tom</persName>? </said>asked <persName xml:id="mco">Mr M'Coy</persName>.
-<lb n="14627"/> <said who="Mr Cunningham">―Papal infallibility, said <persName xml:id="mc">Mr Cunningham</persName>, that was the great=
+    <lb n="14627"/> <said who="Mr Cunningham">―Papal infallibility, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">that was the great=
 <lb n="14628"/> est scene in the whole history of the Church.</said>
   <lb n="14629"/> <said who="Jack Power">―How was that, <persName xml:id="mc">Martin</persName>? </said>asked <persName xml:id="jp">Mr Power</persName>.</p>
   <lb n="14630"/> <p><persName xml:id="mc">Mr Cunningham</persName> held up two thick fingers.
@@ -642,9 +642,9 @@
 <lb n="14640"/> <said who="Mr Cunningham?">―Well, this great German cardinal, whatever his name was,
   <lb n="14641"/> was one and the other was <persName xml:id="jm">John MacHale</persName>.</said>
   <lb n="14642"/> <said who="Tom Kernan">―What? cried <persName xml:id="tk">Mr Kernan</persName>. Is it John of Tuam?</said>
-<lb n="14643"/> <said who="Mr Fogarty">―Are you sure of that now? asked <persName xml:id="fg">Mr Fogarty</persName> dubiously. I
+    <lb n="14643"/> <said who="Mr Fogarty">―Are you sure of that now? </said>asked <persName xml:id="fg">Mr Fogarty</persName> dubiously. <said who="Mr Fogarty">I
 <lb n="14644"/> thought it was some Italian or American ...</said>
-<lb n="14645"/> <said who="Mr Cunningham">―John of Tuam, repeated <persName xml:id="mc">Mr Cunningham</persName>, was the man.</said></p>
+    <lb n="14645"/> <said who="Mr Cunningham">―John of Tuam, </said>repeated <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">was the man.</said></p>
 <lb n="14646"/> <p>He drank and the other gentlemen followed his lead. Then
 <lb n="14647"/> he resumed:
 <lb n="14648"/> <said who="Mr Cunningham">―There they were at it, all the cardinals and bishops and
@@ -654,8 +654,8 @@
   <lb n="14652"/> On the very moment <persName xml:id="jm">John MacHale</persName>, who had been arguing
 <lb n="14653"/> and arguing against it, stood up and shouted out with the voice
 <lb n="14654"/> of a lion: <emph>Credo!</emph></said>
-<lb n="14655"/> <said who="Mr Fogarty">―<emph>I believe!</emph> said <persName xml:id="fg">Mr Fogarty</persName>.</said>
-<lb n="14656"/> <said who="Mr Cunningham">―<emph>Credo!</emph> said <persName xml:id="mc">Mr Cunningham</persName>. That showed the faith he had.
+  <lb n="14655"/> <said who="Mr Fogarty">―<emph>I believe!</emph> </said>said <persName xml:id="fg">Mr Fogarty</persName>.
+  <lb n="14656"/> <said who="Mr Cunningham">―<emph>Credo!</emph> </said>said <persName xml:id="mc">Mr Cunningham</persName>. <said who="Mr Cunningham">That showed the faith he had.
 <lb n="14657"/> He submitted the moment the Pope spoke.</said>
   <lb n="14658"/> <said who="Mr M'Coy">―And what about <persName xml:id="dl">Dowling</persName>?</said> asked <persName xml:id="mco">Mr M'Coy</persName>.
 <lb n="14659"/> <said who="Mr Cunningham">―The German cardinal wouldn't submit. He left the Church.</said></p>
@@ -665,8 +665,8 @@
   <lb n="14663"/> When <persName xml:id="mk">Mrs Kernan</persName> came into the room drying her hands she
 <lb n="14664"/> came into a solemn company. She did not disturb the silence
 <lb n="14665"/> but leaned over the rail at the foot of the bed.
-  <lb n="14666"/> <said who="Tom Kernan">―I once saw <persName xml:id="jm">John MacHale</persName>, </said>said <persName xml:id="tk">Mr Kernan</persName>, and I'll never
-<lb n="14667"/> forget it as long as I live.</p>
+  <lb n="14666"/> <said who="Tom Kernan">―I once saw <persName xml:id="jm">John MacHale</persName>, </said>said <persName xml:id="tk">Mr Kernan</persName>, <said who="Tom Kernan">and I'll never
+    <lb n="14667"/> forget it as long as I live.</said></p>
 <lb n="14668"/> <p>He turned towards his wife to be confirmed.
 <lb n="14669"/> <said who="Tom Kernan">―I often told you that?</said></p>
   <lb n="14670"/> <p><persName xml:id="mk">Mrs Kernan</persName> nodded.
@@ -676,10 +676,10 @@
 <lb n="14674"/> der his bushy eyebrows.</said></p>
   <lb n="14675"/> <p><persName xml:id="tk">Mr Kernan</persName> knitted his brows and, lowering his head like an
 <lb n="14676"/> angry bull, glared at his wife.
-<lb n="14677"/> <said who="Tom Kernan">―God! he exclaimed, reassuming his natural face, I never saw
+    <lb n="14677"/> <said who="Tom Kernan">―God! </said>he exclaimed, reassuming his natural face, <said who="Tom Kernan">I never saw
 <lb n="14678"/> such an eye in a man's head. It was as much as to say: <emph>I have
 <lb n="14679"/> you properly taped, my lad.</emph> He had an eye like a hawk.</said>
-<lb n="14680"/> <said who="Jack Power">―None of the Grays was any good, said <persName xml:id="jp">Mr Power</persName>.</said></p>
+    <lb n="14680"/> <said who="Jack Power">―None of the Grays was any good, </said>said <persName xml:id="jp">Mr Power</persName>.</p>
   <lb n="14681"/> <p>There was a pause again. <persName xml:id="jp">Mr Power</persName> turned to <persName xml:id="mk">Mrs Kernan</persName><persName xml:id="tk">
 <lb n="14682"/> and said with abrupt joviality:
   <lb n="14683"/> <said who="Jack Power">―Well, <persName xml:id="mk">Mrs Kernan</persName>, we're going to make your man here a
@@ -687,39 +687,39 @@
 <lb n="14685"/> <p>He swept his arm round the company inclusively.
 <lb n="14686"/> <said who="Jack Power">―We're all going to make a retreat together and confess our
 <lb n="14687"/> sins and God knows we want it badly.</said>
-  <lb n="14688"/> <said who="Tom Kernan">―I don't mind, said <persName xml:id="tk">Mr Kernan</persName>, smiling a little nervously.</said></p>
+    <lb n="14688"/> <said who="Tom Kernan">―I don't mind, </said>said <persName xml:id="tk">Mr Kernan</persName>, smiling a little nervously.</p>
   <lb n="14689"/> <p><persName xml:id="mk">Mrs Kernan</persName> thought it would be wiser to conceal her satis=
 <lb n="14690"/> faction. So she said:
 <lb n="14691"/> <said who="Mrs Kernan">―I pity the poor priest that has to listen to your tale.</said></p>
   <lb n="14692"/> <p><persName xml:id="tk">Mr Kernan</persName>'s expression changed.
-<lb n="14693"/> <said who="Tom Kernan">―If he doesn't like it, he said bluntly, he can .... do the other
+    <lb n="14693"/> <said who="Tom Kernan">―If he doesn't like it, </said>he said bluntly, <said who="Tom Kernan">he can .... do the other
 <lb n="14694"/> thing. I'll just tell him my little tale of woe. I'm not such a bad
 <lb n="14695"/> fellow ..... </said></p>
   <lb n="14696"/> <p><persName xml:id="mc">Mr Cunningham</persName> intervened promptly.
-<lb n="14697"/> <said who="Mr Cunningham">―We'll all renounce the devil, he said, together, not forgetting
+    <lb n="14697"/> <said who="Mr Cunningham">―We'll all renounce the devil, </said>he said, <said who="Mr Cunningham">together, not forgetting
 <lb n="14698"/> his works and pomps.</said>
-<lb n="14699"/> <said who="Mr Fogarty">―Get behind me, Satan! said <persName xml:id="fg">Mr Fogarty</persName>, laughing and look=
-<lb n="14700"/> ing at the others.</said></p>
+    <lb n="14699"/> <said who="Mr Fogarty">―Get behind me, Satan! </said>said <persName xml:id="fg">Mr Fogarty</persName>, laughing and look=
+<lb n="14700"/> ing at the others.</p>
   <lb n="14701"/> <p><persName xml:id="jp">Mr Power</persName> said nothing. He felt completely outgeneralled.
 <lb n="14702"/> But a pleased expression flickered across his face.
-<lb n="14703"/> <said who="Mr Cunningham">―All we have to do, said <persName xml:id="mc">Mr Cunningham</persName>, is to stand up with
+    <lb n="14703"/> <said who="Mr Cunningham">―All we have to do, </said>said <persName xml:id="mc">Mr Cunningham</persName>, <said who="Mr Cunningham">is to stand up with
 <lb n="14704"/> lighted candles in our hands and renew our baptismal vows.</said>
-<lb n="14705"/> <said who="Mr M'Coy">―O, don't forget the candle, <persName xml:id="tk">Tom</persName>, said <persName xml:id="mco">Mr M'Coy</persName>, whatever
+<lb n="14705"/> <said who="Mr M'Coy">―O, don't forget the candle, <persName xml:id="tk">Tom</persName>, </said>said <persName xml:id="mco">Mr M'Coy</persName>, <said who="Mr M'Coy">whatever
 <lb n="14706"/> you do.</said>
-  <lb n="14707"/> <said who="Tom Kernan">―What? said <persName xml:id="tk">Mr Kernan</persName>. Must I have a candle?</said>
-  <lb n="14708"/> <said who="Mr Cunningham">―O yes, said <persName xml:id="mc">Mr Cunningham</persName>.</said>
-<lb n="14709"/> <said who="Tom Kernan">―No, damn it all, said <persName xml:id="tk">Mr Kernan</persName> sensibly, I draw the line
+    <lb n="14707"/> <said who="Tom Kernan">―What? </said>said <persName xml:id="tk">Mr Kernan</persName>. <said who="Tom Kernan">Must I have a candle?</said>
+    <lb n="14708"/> <said who="Mr Cunningham">―O yes, </said>said <persName xml:id="mc">Mr Cunningham</persName>.
+    <lb n="14709"/> <said who="Tom Kernan">―No, damn it all, </said>said <persName xml:id="tk">Mr Kernan</persName> sensibly, <said who="Tom Kernan">I draw the line
 <lb n="14710"/> there. I'll do the job right enough. I'll do the retreat business
 <lb n="14711"/> and confession and ... all that business. But ... no candles! No,
 <lb n="14712"/> damn it all, I bar the candles!</said></p>
 <lb n="14713"/> <p>He shook his head with farcical gravity.
-<lb n="14714"/> <said who="Tom Kernan">―Listen to that! said his wife.</said>
-<lb n="14715"/> <said who="Tom Kernan">―I bar the candles, said <persName xml:id="tk">Mr Kernan</persName>, conscious of having
+    <lb n="14714"/> <said who="Tom Kernan">―Listen to that! </said>said his wife.
+    <lb n="14715"/> <said who="Tom Kernan">―I bar the candles, </said>said <persName xml:id="tk">Mr Kernan</persName>, conscious of having
 <lb n="14716"/> created an effect on his audience and continuing to shake his
-<lb n="14717"/> head to and fro. I bar the magic lantern business.</said></p>
+<lb n="14717"/> head to and fro. <said who="Tom Kernan">I bar the magic lantern business.</said></p>
 <lb n="14718"/> <p>Everyone laughed heartily.
-<lb n="14719"/> <said who="Mrs Kernan">―There's a nice Catholic for you! said his wife.</said>
-  <lb n="14720"/> <said who="Tom Kernan">―No candles! repeated <persName xml:id="tk">Mr Kernan</persName> obdurately. That's off!</said></p>
+    <lb n="14719"/> <said who="Mrs Kernan">―There's a nice Catholic for you! </said>said his wife.
+    <lb n="14720"/> <said who="Tom Kernan">―No candles! </said>repeated <persName xml:id="tk">Mr Kernan</persName> obdurately. <said who="Tom Kernan">That's off!</said></p>
 <lb /> *  *  *
 <lb n="14721"/> <p>The transept of the Jesuit Church in Gardiner Street was
 <lb n="14722"/> almost full; and still at every moment gentlemen entered from
@@ -776,11 +776,11 @@
 <lb n="14773"/> than the children of light. Wherefore make unto yourselves
 <lb n="14774"/> friends out of the Mammon of iniquity so that when you die
 <lb n="14775"/> they may receive you into everlasting dwellings.</emph></said></p>
-  <lb n="14776"/> <p><persName xml:id="fp">Father Purdon</persName> developed the text with resonant assurance. It
-<lb n="14777"/> was one of the most difficult texts in all the scriptures, he said,
-<lb n="14778"/> to interpret properly. It was a text which might seem to the
+  <lb n="14776"/> <p><persName xml:id="fp">Father Purdon</persName> developed the text with resonant assurance. <said who="Father Purdon">It
+    <lb n="14777"/> was one of the most difficult texts in all the scriptures,</said> he said,<said who="Father Purdon">
+    <lb n="14778"/> to interpret properly.</siad> It was a text which might seem to the
 <lb n="14779"/> casual observer at variance with the lofty morality elsewhere
-<lb n="14780"/> preached by Jesus Christ. But, he told his hearers, the text had
+    <lb n="14780"/> preached by Jesus Christ. <said who="Father Purdon">But, </said>he told his hearers, <said who="Father Purdon">the text had
 <lb n="14781"/> seemed to him specially adapted for the guidance of those
 <lb n="14782"/> whose lot it was to lead the life of the world and who yet
 <lb n="14783"/> wished to lead that life not in the manner of worldlings. It was
@@ -792,26 +792,26 @@
 <lb n="14789"/> sentence He designed to give them a word of counsel, setting
 <lb n="14790"/> before them as exemplars in the religious life those very
 <lb n="14791"/> worshippers of Mammon who were of all men the least
-<lb n="14792"/> solicitous in matters religious.</p>
-<lb n="14793"/> <p>He told his hearers that he was there that evening for no
+    <lb n="14792"/> solicitous in matters religious.</said></p>
+<lb n="14793"/> <p>He told his hearers that <said who="Father Purdon" direct="false">he was there that evening for no
 <lb n="14794"/> terrifying, no extravagant purpose, but as a man of the world
 <lb n="14795"/> speaking to his fellow men. He came to speak to business men
-<lb n="14796"/> and he would speak to them in a businesslike way. If he might
-<lb n="14797"/> use the metaphor, he said, he was their spiritual accountant
+    <lb n="14796"/> and he would speak to them in a businesslike way.</said> <said who="Father Purdon">If he might
+    <lb n="14797"/> use the metaphor, </said>he said, <said who="Father Purdon">he was their spiritual accountant
 <lb n="14798"/> and he wished each and every one of his hearers to open his
 <lb n="14799"/> books, the books of his spiritual life, and see if they tallied
-<lb n="14800"/> accurately with conscience.</p>
-<lb n="14801"/> <p>Jesus Christ was not a hard taskmaster. He understood our
+    <lb n="14800"/> accurately with conscience.</said></p>
+<lb n="14801"/> <p><said who="Father Purdon">Jesus Christ was not a hard taskmaster. He understood our
 <lb n="14802"/> little failings, understood the weakness of our poor fallen
 <lb n="14803"/> nature, understood the temptations of this life. We might have
 <lb n="14804"/> had, we all had from time to time, our temptations: we might
-<lb n="14805"/> have, we all had, our failings. But one thing only, he
-<lb n="14806"/> said, he would ask of his hearers. And that was: to be straight and
+    <lb n="14805"/> have, we all had, our failings. But one thing only, </said>he
+<lb n="14806"/> said, <said who="Father Purdon">he would ask of his hearers. And that was: to be straight and
 <lb n="14807"/> manly with God. If their accounts tallied in every point to say:
 <lb n="14808"/> <said who="believers">―Well, I have verified my accounts. I find all well.</said></p>
 <lb n="14809"/> <p>But if, as might happen, there were some discrepancies, to
 <lb n="14810"/> admit the truth, to be frank and say like a man:
 <lb n="14811"/> <said who="believers">―Well, I have looked into my accounts. I find this wrong and
 <lb n="14812"/> this wrong. But, with God's grace, I will rectify this and this. I
-<lb n="14813"/> will set right my accounts.</said></p>
+    <lb n="14813"/> will set right my accounts.</said></said></p>
 </div> <!-- End of story -->
