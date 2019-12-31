@@ -20,7 +20,7 @@
 <lb n="11019"/> and a copy of the Maynooth catechism, sewn into the cloth
 <lb n="11020"/> cover of a notebook, stood at one end of the top shelf. Writing
 <lb n="11021"/> materials were always on the desk. In the desk lay a manuscript
-<lb n="11022"/> translation of Hauptmann's <emph>Michael Kramer</emph>, the stage direc=
+  <lb n="11022"/> translation of Hauptmann's <title type="book"><emph>Michael Kramer</emph></title>, the stage direc=
 <lb n="11023"/> tions of which were written in purple ink, and a little sheaf of
 <lb n="11024"/> papers held together by a brass pin. In these sheets a sentence
 <lb n="11025"/> was inscribed from time to time and, in an ironical moment,
@@ -124,12 +124,12 @@
 <lb n="11123"/> which was the product of a leisure not within their reach. No
 <lb n="11124"/> social revolution, he told her, would be likely to strike Dublin
 <lb n="11125"/> for some centuries.</p>
-<lb n="11126"/> <p>She asked him why did he not write out his thoughts. For
-<lb n="11127"/> what? he asked her with careful scorn. To compete with
+<lb n="11126"/> <p>She asked him <said who="Emily Sinico" direct="false">why did he not write out his thoughts.</said> <said who="James Duffy" direct="false">For
+  <lb n="11127"/> what?</said> he asked her with careful scorn. <said who="James Duffy" direct="false">To compete with
 <lb n="11128"/> phrase mongers, incapable of thinking consecutively for sixty
 <lb n="11129"/> seconds? To submit himself to the criticisms of an obtuse
 <lb n="11130"/> middle class which entrusted its morality to policemen and its
-<lb n="11131"/> fine arts to impresarios?</p>
+  <lb n="11131"/> fine arts to impresarios?</said></p>
 <lb n="11132"/> <p>He went often to her little cottage outside Dublin: often they
 <lb n="11133"/> spent their evenings alone. Little by little as their thoughts
 <lb n="11134"/> entangled they spoke of subjects less remote. Her companion=
@@ -143,8 +143,8 @@
 <lb n="11142"/> to an angelical stature; and as he attached the fervent nature of
 <lb n="11143"/> his companion more and more closely to him he heard the
 <lb n="11144"/> strange impersonal voice, which he recognised as his own,
-<lb n="11145"/> insisting on the soul's incurable loneliness. We cannot give
-<lb n="11146"/> ourselves, it said: we are our own. The end of these discourses
+<lb n="11145"/> insisting on the soul's incurable loneliness. <said who="James Duffy" aloud="false">We cannot give
+  <lb n="11146"/> ourselves, it said: we are our own.</said> The end of these discourses
 <lb n="11147"/> was that one night, during which she had shown every sign of
   <lb n="11148"/> unusual excitement, <persName xml:id="msi">Mrs Sinico</persName> caught up his hand passion=
 <lb n="11149"/> ately and pressed it to her cheek.</p>
@@ -155,8 +155,8 @@
 <lb n="11154"/> ruined confessional they met in a little cakeshop near the
 <lb n="11155"/> Parkgate. It was cold autumn weather but in spite of the cold
 <lb n="11156"/> they wandered up and down the roads of the Park for nearly
-<lb n="11157"/> three hours. They agreed to break off their intercourse: every
-<lb n="11158"/> bond, he said, is a bond to sorrow. When they came out of the
+<lb n="11157"/> three hours. They agreed to break off their intercourse: <said who="James Duffy" direct="false">every
+  <lb n="11158"/> bond, he said, is a bond to sorrow.</said> When they came out of the
 <lb n="11159"/> Park they walked in silence towards the tram but here she
 <lb n="11160"/> began to tremble so violently that, fearing another collapse on
 <lb n="11161"/> her part, he bade her goodbye quickly and left her. A few days
@@ -164,14 +164,14 @@
   <lb n="11163"/> <p>Four years passed. <persName xml:id="jd">Mr Duffy</persName> returned to his even way of life.
 <lb n="11164"/> His room still bore witness of the orderliness of his mind. Some
 <lb n="11165"/> new pieces of music encumbered the musicstand in the lower
-<lb n="11166"/> room and on his shelves stood two volumes by Nietzsche, <emph>Thus
-<lb n="11167"/> Spake Zarathustra</emph> and <emph>The Gay Science.</emph> He wrote seldom in
+<lb n="11166"/> room and on his shelves stood two volumes by Nietzsche, <title type="book"><emph>Thus
+  <lb n="11167"/> Spake Zarathustra</emph></title> and <title type="book"><emph>The Gay Science.</emph></title> He wrote seldom in
 <lb n="11168"/> the sheaf of papers which lay in his desk. One of his sentences,
 <lb n="11169"/> written two months after his last interview with <persName xml:id="msi">Mrs Sinico</persName>,
-<lb n="11170"/> read: Love between man and man is impossible because there
+<lb n="11170"/> read: <said who="James Duffy" aloud="false">Love between man and man is impossible because there
 <lb n="11171"/> must not be sexual intercourse and friendship between man
 <lb n="11172"/> and woman is impossible because there must be sexual inter=
-<lb n="11173"/> course. He kept away from concerts lest he should meet her.
+  <lb n="11173"/> course.</said> He kept away from concerts lest he should meet her.
 <lb n="11174"/> His father died; the junior partner of the bank retired. And still
 <lb n="11175"/> every morning he went into the city by tram and every evening
 <lb n="11176"/> walked home from the city after having dined moderately in
@@ -185,7 +185,7 @@
 <lb n="11184"/> down before him between his elbows and read the paragraph
 <lb n="11185"/> over and over again. The cabbage began to deposit a cold white
 <lb n="11186"/> grease on his plate. The girl came over to him to ask was his
-<lb n="11187"/> dinner not properly cooked. He said it was very good and ate a
+<lb n="11187"/> dinner not properly cooked. He said <said who="James Duffy" direct="false">it was very good</said> and ate a
 <lb n="11188"/> few mouthfuls of it with difficulty. Then he paid his bill and
 <lb n="11189"/> went out.</p>
 <lb n="11190"/> <p>He walked along quickly through the November twilight,
@@ -256,7 +256,7 @@
 <lb n="11255"/> accident.</p>
 <lb n="11256"/> <p>The jury returned a verdict in accordance with the medical
   <lb n="11257"/> evidence and exonerated <persName xml:id="jl">Lennon</persName> from all blame.</p>
-  <lb n="11258"/> <p>The Deputy <persName xml:id="co">Coroner</persName> said it was a most painful case and
+  <lb n="11258"/> <p>The Deputy <persName xml:id="co">Coroner</persName> said <said who="Coroner" direct="false">it was a most painful case</said> and
   <lb n="11259"/> expressed great sympathy with <persName xml:id="si">Captain Sinico</persName> and his daugh=
 <lb n="11260"/> ter. He urged on the railway company to take strong measures
 <lb n="11261"/> to prevent the possibility of similar accidents in the future. No
@@ -274,15 +274,15 @@
 <lb n="11272"/> had she degraded herself; she had degraded him. He saw the
 <lb n="11273"/> squalid tract of her vice, miserable and malodorous. His soul's
 <lb n="11274"/> companion! He thought of the hobbling wretches whom he had
-<lb n="11275"/> seen carrying cans and bottles to be filled by the barman. Just
+<lb n="11275"/> seen carrying cans and bottles to be filled by the barman. <said who="James Duffy" direct="false" aloud="false">Just
 <lb n="11276"/> God, what an end! Evidently she had been unfit to live, without
 <lb n="11277"/> any strength of purpose, an easy prey to habits, one of the
 <lb n="11278"/> wrecks on which civilisation has been reared. But that she
 <lb n="11279"/> could have sunk so low! Was it possible he had deceived him=
-<lb n="11280"/> self so utterly about her? He remembered her outburst of that
+  <lb n="11280"/> self so utterly about her?</said> He remembered her outburst of that
 <lb n="11281"/> night and interpreted it in a harsher sense than he had ever
 <lb n="11282"/> done. He had no difficulty now in approving of the course he
-<lb n="11283"/> had taken.</p>
+  <lb n="11283"/> had taken.</p>
 <lb n="11284"/> <p>As the light failed and his memory began to wander he
 <lb n="11285"/> thought her hand touched his. The shock which had first at=
 <lb n="11286"/> tacked his stomach was now attacking his nerves. He put on
@@ -320,8 +320,8 @@
 <lb n="11318"/> bleak alleys where they had walked four years before. She
 <lb n="11319"/> seemed to be near him in the darkness. At moments he seemed
 <lb n="11320"/> to feel her voice touch his ear, her hand touch his. He stood
-<lb n="11321"/> still to listen. Why had he withheld life from her? Why had he
-<lb n="11322"/> sentenced her to death? He felt his moral nature falling to
+<lb n="11321"/> still to listen. <said who="James Duffy" direct="false" aloud="false">Why had he withheld life from her? Why had he
+  <lb n="11322"/> sentenced her to death?</said> He felt his moral nature falling to
 <lb n="11323"/> pieces.</p>
 <lb n="11324"/> <p>When he gained the crest of the Magazine Hill he halted and
 <lb n="11325"/> looked along the river towards Dublin, the lights of which

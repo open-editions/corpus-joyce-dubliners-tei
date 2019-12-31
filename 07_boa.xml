@@ -41,7 +41,7 @@
 <lb n="07040"/> He was also handy with the mits and sang comic songs. On
 <lb n="07041"/> Sunday nights there would often be a reunion in <persName xml:id="my">Mrs Mooney</persName>'s
 <lb n="07042"/> front drawingroom. The musichall <emph>artistes</emph> would oblige; and
-<lb n="07043"/> Sheridan played waltzes and polkas and vamped accompani=
+  <lb n="07043"/> <persName xml:id="ms">Sheridan</persName> played waltzes and polkas and vamped accompani=
   <lb n="07044"/> ments. <persName xml:id="pm">Polly Mooney</persName>, the Madam's daughter, would also sing.
 <lb n="07045"/> She sang:</p>
 <lb n="07046"/> <p><emph>I'm a .... naughty girl.
@@ -151,18 +151,18 @@
 <lb n="07150"/> him: the priest had drawn out every ridiculous detail of the
 <lb n="07151"/> affair and in the end had so magnified his sin that he was
 <lb n="07152"/> almost thankful at being afforded a loophole of reparation.
-<lb n="07153"/> The harm was done. What could he do now but marry her or
+<lb n="07153"/> The harm was done. <said who="Mr Doran" direct="false" aloud="false">What could he do now but marry her or
 <lb n="07154"/> run away? He could not brazen it out: the affair would be sure
 <lb n="07155"/> to be talked of. His employer would be certain to hear of it.
 <lb n="07156"/> Dublin is such a small city - everyone knows everyone else's
-<lb n="07157"/> business. He felt his heart leap warmly in his throat as he heard
+  <lb n="07157"/> business.</said> He felt his heart leap warmly in his throat as he heard
   <lb n="07158"/> in his excited imagination old <persName xml:id="ml">Mr Leonard</persName> calling out in his
   <lb n="07159"/> rasping voice <emph>Send <persName xml:id="dr">Mr Doran</persName> here, please.</emph></p>
-<lb n="07160"/> <p>All his long years of service gone for nothing! All his
+<lb n="07160"/> <p><said who="Mr Doran" direct="false" aloud="false">All his long years of service gone for nothing! All his
 <lb n="07161"/> industry and diligence thrown away! As a young man he had
 <lb n="07162"/> sown his wild oats, of course; he had boasted of his freethink=
 <lb n="07163"/> ing and denied the existence of God to his companions in
-<lb n="07164"/> publichouses. But that was all past and done with .... nearly.
+  <lb n="07164"/> publichouses. But that was all past and done with .... nearly.</said>
 <lb n="07165"/> He still bought a copy of <emph>Reynolds's Newspaper</emph> every week
 <lb n="07166"/> but he attended to his religious duties and for nine tenths of the
 <lb n="07167"/> year lived a regular life. He had money enough to settle down
@@ -170,20 +170,20 @@
 <lb n="07169"/> First of all there was her disreputable father and then her
 <lb n="07170"/> mother's boarding house was beginning to get a certain fame.
 <lb n="07171"/> He had a notion that he was being had. He could imagine his
-<lb n="07172"/> friends talking of the affair and laughing. She <emph>was</emph> a little
+<lb n="07172"/> friends talking of the affair and laughing. <said who="Mr Doran" direct="false" aloud="false">She <emph>was</emph> a little
 <lb n="07173"/> vulgar; sometimes she said <emph>I seen</emph> and <emph>If I had've known.</emph> But
-<lb n="07174"/> what would grammar matter if he really loved her? He could
+  <lb n="07174"/> what would grammar matter if he really loved her?</said> He could
 <lb n="07175"/> not make up his mind whether to like her or despise her for
 <lb n="07176"/> what she had done. Of course, he had done it too. His instinct
 <lb n="07177"/> urged him to remain free, not to marry. Once you are married
 <lb n="07178"/> you are done for, it said.</p>
 <lb n="07179"/> <p>While he was sitting helplessly on the side of the bed in shirt
 <lb n="07180"/> and trousers she tapped lightly at his door and entered. She told
-<lb n="07181"/> him all, that she had made a clean breast of it to her mother
-<lb n="07182"/> and that her mother would speak with him that morning. She
+<lb n="07181"/> him all, that <said who="Polly Mooney" direct="false">she had made a clean breast of it to her mother</said>
+<lb n="07182"/> and that <said who="Polly Mooney" direct="false">her mother would speak with him that morning.</said> She
 <lb n="07183"/> cried and threw her arms round his neck, saying:
 <lb n="07184"/> <said who="Polly Mooney">―O Bob! Bob! What am I to do? what am I to do at all?</said></p>
-<lb n="07185"/> <p>She would put an end to herself, she said. He comforted her
+  <lb n="07185"/> <p><said who="Polly Mooney" direct="false">She would put an end to herself,</said> she said. He comforted her
 <lb n="07186"/> feebly, telling her not to cry, that it would be all right, never
 <lb n="07187"/> fear. He felt against his shirt the agitation of her bosom.</p>
 <lb n="07188"/> <p>It was not altogether his fault that it had happened. He
@@ -199,24 +199,24 @@
 <lb n="07198"/> steadied her candle a faint perfume arose.</p>
 <lb n="07199"/> <p>On nights when he came in very late it was she who warmed
 <lb n="07200"/> up his dinner. He scarcely knew what he was eating, feeling her
-<lb n="07201"/> beside him alone, at night, in the sleeping house. And her
+<lb n="07201"/> beside him alone, at night, in the sleeping house. <said who="Mr Doran" direct="false" aloud="false">And her
 <lb n="07202"/> thoughtfulness! If the night was anyway cold or wet or windy
 <lb n="07203"/> there was sure to be a little tumbler of punch ready for him.
-<lb n="07204"/> Perhaps they could be happy together ......</p>
+  <lb n="07204"/> Perhaps they could be happy together ......</said></p>
 <lb n="07205"/> <p>They used to go upstairs together on tiptoe, each with a
 <lb n="07206"/> candle, and on the third landing exchange reluctant good=
 <lb n="07207"/> nights. They used to kiss. He remembered well her eyes, the
 <lb n="07208"/> touch of her hand and his delirium ......</p>
 <lb n="07209"/> <p>But delirium passes. He echoed her phrase, applying it to
-<lb n="07210"/> himself: <emph>What am I to do?</emph> The instinct of the celibate warned
+  <lb n="07210"/> himself: <said who="Mr Doran" aloud="false"><emph>What am I to do?</emph></said> The instinct of the celibate warned
 <lb n="07211"/> him to hold back. But the sin was there: even his sense of
 <lb n="07212"/> honour told him that reparation must be made for such a sin.</p>
 <lb n="07213"/> <p>While he was sitting with her on the side of the bed <persName xml:id="ma">Mary</persName>
-<lb n="07214"/> came to the door and said that the missus wanted to see him in
-<lb n="07215"/> the parlour. He stood up to put on his coat and waistcoat,
+<lb n="07214"/> came to the door and said that <said who="Mary" direct="false">the missus wanted to see him in
+  <lb n="07215"/> the parlour.</said> He stood up to put on his coat and waistcoat,
 <lb n="07216"/> more helpless than ever. When he was dressed he went over to
 <lb n="07217"/> her to comfort her. It would be all right, never fear. He left her
-<lb n="07218"/> crying on the bed and moaning softly: <emph>O my God!</emph></p>
+<lb n="07218"/> crying on the bed and moaning softly: <said who="Polly Mooney" direct="false"><emph>O my God!</emph></said></p>
 <lb n="07219"/> <p>Going down the stairs his glasses became so dimmed with
 <lb n="07220"/> moisture that he had to take them off and polish them. He
 <lb n="07221"/> longed to ascend through the roof and fly away to another

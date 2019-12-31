@@ -119,13 +119,13 @@
 <lb n="13118"/> <said who="Devlin Kearney">―Are you ready, dear?</said></p>
 <lb n="13119"/> <p>When she had an opportunity she called <persName xml:id="ho">Mr Holohan</persName> aside
   <lb n="13120"/> and asked him to tell her what it meant. <persName xml:id="ho">Mr Holohan</persName> did not
-<lb n="13121"/> know what it meant. He said that the committee had made a
-<lb n="13122"/> mistake in arranging for four concerts: four was too many.
-<lb n="13123"/> <said who="Devlin Kearney">―And the <emph>artistes!</emph></said> said <persName xml:id="ke">Mrs Kearney</persName>. Of course they are doing
-<lb n="13124"/> their best but really they are no good.</p>
-  <lb n="13125"/> <p><persName xml:id="ho">Mr Holohan</persName> admitted that the <emph>artistes</emph> were no good but the
-<lb n="13126"/> committee, he said, had decided to let the first three concerts go
-<lb n="13127"/> as they pleased and reserve all the talent for Saturday night.
+<lb n="13121"/> know what it meant. He said that <said who="Mr Holohan" direct="false">the committee had made a
+  <lb n="13122"/> mistake in arranging for four concerts: four was too many.</said>
+<lb n="13123"/> <said who="Devlin Kearney">―And the <emph>artistes!</emph></said> said <persName xml:id="ke">Mrs Kearney</persName>. <said who="Devlin Kearney">Of course they are doing
+  <lb n="13124"/> their best but really they are no good.</said></p>
+  <lb n="13125"/> <p><persName xml:id="ho">Mr Holohan</persName> admitted that <said who="Mr Holohan" direct="false">the <emph>artistes</emph> were no good but the
+  <lb n="13126"/> committee,</said> he said, <said who="Mr Holohan" direct="false">had decided to let the first three concerts go
+  <lb n="13127"/> as they pleased and reserve all the talent for Saturday night.</said>
   <lb n="13128"/> <persName xml:id="ke">Mrs Kearney</persName> said nothing but, as the mediocre items followed
 <lb n="13129"/> one another on the platform and the few people in the hall
 <lb n="13130"/> grew fewer and fewer, she began to regret that she had put
@@ -147,19 +147,19 @@
 <lb n="13146"/> and earth to secure a bumper house on Saturday night. When
   <lb n="13147"/> she heard this she sought out <persName xml:id="ho">Mr Holohan</persName>. She buttonholed
 <lb n="13148"/> him as he was limping out quickly with a glass of lemonade for
-<lb n="13149"/> a young lady and asked him was it true. Yes, it was true.
-<lb n="13150"/> <said who="Devlin Kearney">―But, of course, that doesn't alter the contract, she said. The
+<lb n="13149"/> a young lady and asked him was it true. <said who="Mr Holohan" direct="false">Yes, it was true.</said>
+  <lb n="13150"/> <said who="Devlin Kearney">―But, of course, that doesn't alter the contract, </said>she said. <said who="Devlin Kearney">The
 <lb n="13151"/> contract was for four concerts. ...</said></p>
   <lb n="13152"/> <p><persName xml:id="ho">Mr Holohan</persName> seemed to be in a hurry: he advised her to
   <lb n="13153"/> speak to <persName xml:id="fz">Mr Fitzpatrick</persName>. <persName xml:id="ke">Mrs Kearney</persName> was now beginning to be
   <lb n="13154"/> alarmed. She called <persName xml:id="fz">Mr Fitzpatrick</persName> away from his screen and
-<lb n="13155"/> told him that her daughter had signed for four concerts and
+<lb n="13155"/> told him that <said who="Devlin Kearney" direct="false">her daughter had signed for four concerts and
 <lb n="13156"/> that, of course, according to the terms of the contract she
 <lb n="13157"/> should receive the sum originally stipulated for whether the
-<lb n="13158"/> Society gave the four concerts or not. <persName xml:id="fz">Mr Fitzpatrick</persName>, who did
+  <lb n="13158"/> Society gave the four concerts or not.</said> <persName xml:id="fz">Mr Fitzpatrick</persName>, who did
 <lb n="13159"/> not catch the point at issue very quickly, seemed unable to
-<lb n="13160"/> resolve the difficulty and said that he would bring the matter
-  <lb n="13161"/> before the committee. <persName xml:id="ke">Mrs Kearney</persName>'s anger began to flutter in
+<lb n="13160"/> resolve the difficulty and said that <said who="Mr Fitzpatrick" direct="false">he would bring the matter
+  <lb n="13161"/> before the committee.</said> <persName xml:id="ke">Mrs Kearney</persName>'s anger began to flutter in
 <lb n="13162"/> her cheek and she had all she could do to keep from asking:
 <lb n="13163"/> <said who="Devlin Kearney" aloud="false">―And who is the <emph>cometty</emph>, pray?</said></p>
 <lb n="13164"/> <p>But she knew that it would not be ladylike to do that: so she
@@ -170,8 +170,8 @@
 <lb n="13169"/> loving public of the treat which was in store for it on the
   <lb n="13170"/> following evening. <persName xml:id="ke">Mrs Kearney</persName> was somewhat reassured but
 <lb n="13171"/> she thought well to tell her husband part of her suspicions. He
-<lb n="13172"/> listened carefully and said that perhaps it would be better if he
-<lb n="13173"/> went with her on Saturday night. She agreed. She respected her
+<lb n="13172"/> listened carefully and said that <said who="Mr Kearney" direct="false">perhaps it would be better if he
+  <lb n="13173"/> went with her on Saturday night.</said> She agreed. She respected her
 <lb n="13174"/> husband in the same way as she respected the General Post
 <lb n="13175"/> Office, as something large, secure and fixed; and though she
 <lb n="13176"/> knew the small number of his talents she appreciated his
@@ -187,8 +187,8 @@
 <lb n="13186"/> stewards was any member of the committee in the hall and,
 <lb n="13187"/> after a great deal of trouble, a steward brought out a little
   <lb n="13188"/> woman named <persName xml:id="be">Miss Beirne</persName> to whom <persName xml:id="ke">Mrs Kearney</persName> explained
-<lb n="13189"/> that she wanted to see one of the secretaries. <persName xml:id="be">Miss Beirne</persName>
-<lb n="13190"/> expected them any minute and asked could she do anything.
+<lb n="13189"/> that <said who="Devlin Kearney" direct="false">she wanted to see one of the secretaries.</said> <persName xml:id="be">Miss Beirne</persName>
+<lb n="13190"/> expected them any minute and asked <said who="Miss Beirne" direct="false">could she do anything.</said>
   <lb n="13191"/> <persName xml:id="ke">Mrs Kearney</persName> looked searchingly at the oldish face which was
 <lb n="13192"/> screwed into an expression of trustfulness and enthusiasm and
 <lb n="13193"/> answered:
@@ -238,12 +238,12 @@
 <lb n="13237"/> followed with keen eyes the faded blue dress which was
 <lb n="13238"/> stretched upon a meagre body. Someone said that she was
   <lb n="13239"/> <persName xml:id="mg">Madam Glynn</persName>, the soprano.
-<lb n="13240"/> <said who="Kathleen Kearney">―I wonder where did they dig her up, said <persName xml:id="ka">Kathleen</persName> to <persName xml:id="hy">Miss
-  <lb n="13241"/> Healy</persName>. I'm sure I never heard of her.</said></p>
+  <lb n="13240"/> <said who="Kathleen Kearney">―I wonder where did they dig her up, </said>said <persName xml:id="ka">Kathleen</persName> to <persName xml:id="hy">Miss
+  <lb n="13241"/> Healy</persName>. <said who="Kathleen Kearney">I'm sure I never heard of her.</said></p>
   <lb n="13242"/> <p><persName xml:id="hy">Miss Healy</persName> had to smile. <persName xml:id="ho">Mr Holohan</persName> limped into the dress=
 <lb n="13243"/> ingroom at that moment and the two young ladies asked him
-  <lb n="13244"/> who was the unknown woman. <persName xml:id="ho">Mr Holohan</persName> said that she was
-  <lb n="13245"/> <persName xml:id="mg">Madam Glynn</persName> from London. <persName xml:id="mg">Madam Glynn</persName> took her stand in
+  <lb n="13244"/> who was the unknown woman. <persName xml:id="ho">Mr Holohan</persName> said that <said who="Mr Holohan" direct="false">she was
+  <lb n="13245"/> <persName xml:id="mg">Madam Glynn</persName> from London.</said> <persName xml:id="mg">Madam Glynn</persName> took her stand in
 <lb n="13246"/> a corner of the room, holding a roll of music stiffly before her
 <lb n="13247"/> and from time to time changing the direction of her startled
 <lb n="13248"/> gaze. The shadow took her faded dress into shelter but fell
@@ -259,19 +259,19 @@
 <lb n="13258"/> she excused herself and went out after him.
   <lb n="13259"/> <said who="Devlin Kearney">―<persName xml:id="ho">Mr Holohan</persName>, I want to speak to you for a moment, </said> she said.</p>
 <lb n="13260"/> <p>They went down to a discreet part of the corridor. <persName xml:id="ke">Mrs
-  <lb n="13261"/> Kearney</persName> asked him when was her daughter going to be paid.
-  <lb n="13262"/> <persName xml:id="ho">Mr Holohan</persName> said that <persName xml:id="fz">Mr Fitzpatrick</persName> had charge of that. <persName xml:id="ke">Mrs
-  <lb n="13263"/> Kearney</persName> said that she didn't know anything about <persName xml:id="fz">Mr Fitzpat=
+  <lb n="13261"/> Kearney</persName> asked him <said who="Devlin Kearney" direct="false">when was her daughter going to be paid.</said>
+  <lb n="13262"/> <persName xml:id="ho">Mr Holohan</persName> said that <said who="Mr Holohan" direct="false"><persName xml:id="fz">Mr Fitzpatrick</persName> had charge of that.</said> <persName xml:id="ke">Mrs
+  <lb n="13263"/> Kearney</persName> said that <said who="Devlin Kearney" direct="false">she didn't know anything about <persName xml:id="fz">Mr Fitzpat=
   <lb n="13264"/> rick</persName>. Her daughter had signed a contract for eight guineas and
-  <lb n="13265"/> she would have to be paid. <persName xml:id="ho">Mr Holohan</persName> said that it wasn't his
-<lb n="13266"/> business.
-<lb n="13267"/> <said who="Devlin Kearney">―Why isn't it your business? asked <persName xml:id="ke">Mrs Kearney</persName>. Didn't you
+  <lb n="13265"/> she would have to be paid.</said> <persName xml:id="ho">Mr Holohan</persName> said that <said who="Mr Holohan" direct="false">it wasn't his
+  <lb n="13266"/> business.</said>
+  <lb n="13267"/> <said who="Devlin Kearney">―Why isn't it your business?</said> asked <persName xml:id="ke">Mrs Kearney</persName>. <said who="Devlin Kearney">Didn't you
 <lb n="13268"/> yourself bring her the contract? Anyway, if it's not your
 <lb n="13269"/> business it's my business and I mean to see to it.</said>
 <lb n="13270"/> <said who="Mr Holohan">―You'd better speak to <persName xml:id="ke">Mr Fitzpatrick</persName>,</said> said <persName xml:id="ho">Mr Holohan</persName>
 <lb n="13271"/> distantly.
-<lb n="13272"/> <said who="Devlin Kearney">―I don't know anything about <persName xml:id="fz">Mr Fitzpatrick</persName>, repeated <persName xml:id="ke">Mrs
-  <lb n="13273"/> Kearney</persName>. I have my contract and I intend to see that it is carried
+<lb n="13272"/> <said who="Devlin Kearney">―I don't know anything about <persName xml:id="fz">Mr Fitzpatrick</persName>, </said>repeated <persName xml:id="ke">Mrs
+  <lb n="13273"/> Kearney</persName>. <said who="Devlin Kearney">I have my contract and I intend to see that it is carried
 <lb n="13274"/> out.</said></p>
 <lb n="13275"/> <p>When she came back to the dressingroom her cheeks were
 <lb n="13276"/> slightly suffused. The room was lively. Two men in outdoor
@@ -280,8 +280,8 @@
   <lb n="13279"/> <emph>Freeman</emph> man and <persName xml:id="mb">Mr O'Madden Burke</persName>. The <emph>Freeman</emph> man
 <lb n="13280"/> had come in to say that he could not wait for the concert as he
 <lb n="13281"/> had to report the lecture which an American priest was giving
-<lb n="13282"/> in the Mansion House. He said they were to leave the report
-<lb n="13283"/> for him at the <emph>Freeman</emph> office and he would see that it went in.
+<lb n="13282"/> in the Mansion House. He said <said who="Freeman" direct="false">they were to leave the report
+  <lb n="13283"/> for him at the <emph>Freeman</emph> office and he would see that it went in.</said>
 <lb n="13284"/> He was a greyhaired man with a plausible voice and careful
 <lb n="13285"/> manners. He held an extinguished cigar in his hand and the
 <lb n="13286"/> aroma of cigar smoke floated near him. He had not intended to
@@ -296,12 +296,12 @@
 <lb n="13295"/> that the laughter and fragrance and wilful glances were his
 <lb n="13296"/> tribute. When he could stay no longer he took leave of her
 <lb n="13297"/> regretfully.
-  <lb n="13298"/> <said who="Mr Hendrick">―<persName xml:id="mb">O'Madden Burke</persName> will write the notice, he explained to <persName xml:id="ho">Mr
-  <lb n="13299"/> Holohan</persName>, and I'll see it in.</said>
-<lb n="13300"/> <said who="Mr Holohan">―Thank you very much, <persName xml:id="hd">Mr Hendrick</persName>, said <persName xml:id="ho">Mr Holohan</persName>.
-<lb n="13301"/> You'll see it in, I know. Now, won't you have a little something
+  <lb n="13298"/> <said who="Mr Hendrick">―<persName xml:id="mb">O'Madden Burke</persName> will write the notice,</said> he explained to <persName xml:id="ho">Mr
+  <lb n="13299"/> Holohan</persName>, <said who="Mr Hendrick">and I'll see it in.</said>
+<lb n="13300"/> <said who="Mr Holohan">―Thank you very much, <persName xml:id="hd">Mr Hendrick</persName>, </said>said <persName xml:id="ho">Mr Holohan</persName>.
+<lb n="13301"/> <said who="Mr Holohan">You'll see it in, I know. Now, won't you have a little something
 <lb n="13302"/> before you go?</said>
-  <lb n="13303"/> <said who="Mr Hendrick">―I don't mind, said <persName xml:id="hd">Mr Hendrick</persName>.</said></p>
+  <lb n="13303"/> <said who="Mr Hendrick">―I don't mind, </said>said <persName xml:id="hd">Mr Hendrick</persName>.</p>
 <lb n="13304"/> <p>The two men went along some tortuous passages and up a
 <lb n="13305"/> dark staircase and came to a secluded room where one of the
 <lb n="13306"/> stewards was uncorking bottles for a few gentlemen. One of
@@ -355,7 +355,7 @@
 <lb n="13354"/> said she would get the other half at the interval. <persName xml:id="ke">Mrs Kearney</persName>
 <lb n="13355"/> said:
 <lb n="13356"/> <said who="Devlin Kearney">―This is four shillings short.</said></p>
-  <lb n="13357"/> <p>But <persName xml:id="ka">Kathleen</persName> gathered in her skirt and said <emph>Now, <persName xml:id="bl">Mr Bell</persName></emph>, to
+  <lb n="13357"/> <p>But <persName xml:id="ka">Kathleen</persName> gathered in her skirt and said <said who="Kathleen Kearney"><emph>Now, <persName xml:id="bl">Mr Bell</persName></emph>,</said> to
 <lb n="13358"/> the first item who was shaking like an aspen. The singer and
 <lb n="13359"/> the accompanist went out together. The noise in the hall died
 <lb n="13360"/> away. There was a pause of a few seconds: and then the piano
@@ -376,20 +376,20 @@
 <lb n="13375"/> <p>All this time the dressingroom was a hive of excitement. In
   <lb n="13376"/> one corner were <persName xml:id="ho">Mr Holohan</persName>, <persName xml:id="fz">Mr Fitzpatrick</persName>, <persName xml:id="be">Miss Beirne</persName>, two
 <lb n="13377"/> of the stewards, the baritone, the bass and <persName xml:id="mb">Mr O'Madden
-  <lb n="13378"/> Burke</persName>. <persName xml:id="mb">Mr O'Madden Burke</persName> said it was the most scandalous
+  <lb n="13378"/> Burke</persName>. <persName xml:id="mb">Mr O'Madden Burke</persName> said <said who="Mr O'Madden Burke" direct="false">it was the most scandalous
 <lb n="13379"/> exhibition he had ever witnessed. <persName xml:id="ka">Miss Kathleen Kearney</persName>'s
-<lb n="13380"/> musical career was ended in Dublin after that, he said. The
+  <lb n="13380"/> musical career was ended in Dublin after that,</said> he said. The
   <lb n="13381"/> baritone was asked what did he think of <persName xml:id="ke">Mrs Kearney</persName>'s
 <lb n="13382"/> conduct. He did not like to say anything. He had been paid his
 <lb n="13383"/> money and wished to be at peace with men. However, he said
-  <lb n="13384"/> that <persName xml:id="ke">Mrs Kearney</persName> might have taken the <emph>artistes</emph> into consider=
-<lb n="13385"/> ation. The stewards and the secretaries debated hotly as to
+  <lb n="13384"/> that <said who="baritone" direct="false"><persName xml:id="ke">Mrs Kearney</persName> might have taken the <emph>artistes</emph> into consider=
+  <lb n="13385"/> ation.</said> The stewards and the secretaries debated hotly as to
 <lb n="13386"/> what should be done when the interval came.
-  <lb n="13387"/> <said who="Mr O'Madden Burke">―I agree with <persName xml:id="be">Miss Beirne</persName>, said <persName xml:id="mb">Mr O'Madden Burke</persName>. Pay her
+  <lb n="13387"/> <said who="Mr O'Madden Burke">―I agree with <persName xml:id="be">Miss Beirne</persName>, </said>said <persName xml:id="mb">Mr O'Madden Burke</persName>. <said who="Mr O'Madden Burke">Pay her
 <lb n="13388"/> nothing.</said></p>
   <lb n="13389"/> <p>In another corner of the room were <persName xml:id="ke">Mrs Kearney</persName> and her
   <lb n="13390"/> husband, <persName xml:id="bl">Mr Bell</persName>, <persName xml:id="hy">Miss Healy</persName> and the young lady who had
-  <lb n="13391"/> recited the patriotic piece. <persName xml:id="ke">Mrs Kearney</persName> said that the committee
+  <lb n="13391"/> recited the patriotic piece. <persName xml:id="ke">Mrs Kearney</persName> said that <said who="Devlin Kearney" direct="false">the committee
 <lb n="13392"/> had treated her scandalously. She had spared neither trouble
 <lb n="13393"/> nor expense and this was how she was repaid. They thought
 <lb n="13394"/> they had only a girl to deal with and that, therefore, they could
@@ -398,7 +398,7 @@
 <lb n="13397"/> if she had been a man. But she would see that her daughter got
 <lb n="13398"/> her rights: she wouldn't be fooled. If they didn't pay her to the
 <lb n="13399"/> last farthing she would make Dublin ring. Of course she was
-<lb n="13400"/> sorry for the sake of the <emph>artistes.</emph> But what else could she do?
+  <lb n="13400"/> sorry for the sake of the <emph>artistes.</emph> But what else could she do?</said>
 <lb n="13401"/> She appealed to the second tenor who said he thought she had
 <lb n="13402"/> not been well treated. Then she appealed to <persName xml:id="hy">Miss Healy</persName>. <persName xml:id="hy">Miss
   <lb n="13403"/> Healy</persName> wanted to join the other group but she did not like to do
@@ -410,12 +410,12 @@
 <lb n="13409"/> following Tuesday and that, in case her daughter did not play
 <lb n="13410"/> for the second part, the committee would consider the contract
 <lb n="13411"/> broken and would pay nothing.
-<lb n="13412"/> <said who="Devlin Kearney">―I haven't seen any committee, said <persName xml:id="ke">Mrs Kearney</persName> angrily. My
+  <lb n="13412"/> <said who="Devlin Kearney">―I haven't seen any committee, </said>said <persName xml:id="ke">Mrs Kearney</persName> angrily. <said who="Devlin Kearney">My
 <lb n="13413"/> daughter has her contract. She will get four pounds eight into
 <lb n="13414"/> her hand or a foot she won't put on that platform.</said>
-<lb n="13415"/> <said who="Mr Holohan">―I'm surprised at you, <persName xml:id="ke">Mrs Kearney</persName>, said <persName xml:id="ho">Mr Holohan</persName>. I
+<lb n="13415"/> <said who="Mr Holohan">―I'm surprised at you, <persName xml:id="ke">Mrs Kearney</persName>, </said>said <persName xml:id="ho">Mr Holohan</persName>. <said who="Mr Holohan">I
 <lb n="13416"/> never thought you would treat us this way.</said>
-<lb n="13417"/> <said who="Devlin Kearney">―And what way did you treat me? asked <persName xml:id="ke">Mrs Kearney</persName>.</said></p>
+  <lb n="13417"/> <said who="Devlin Kearney">―And what way did you treat me? </said>asked <persName xml:id="ke">Mrs Kearney</persName>.</p>
 <lb n="13418"/> <p>Her face was inundated with an angry colour and she looked
 <lb n="13419"/> as if she would attack someone with her hands.
 <lb n="13420"/> <said who="Devlin Kearney">―I'm asking for my rights, </said>she said.
@@ -425,8 +425,8 @@
 <lb n="13424"/> <p>She tossed her head and assumed a haughty voice:
 <lb n="13425"/> <said who="Devlin Kearney">―You must speak to the secretary. It's not my business. I'm a
 <lb n="13426"/> great fellow fol-the-diddle-I-do.</said>
-<lb n="13427"/> <said who="Mr Holohan">―I thought you were a lady, said <persName xml:id="ho">Mr Holohan</persName>, walking away
-<lb n="13428"/> from her abruptly.</said></p>
+  <lb n="13427"/> <said who="Mr Holohan">―I thought you were a lady, </said>said <persName xml:id="ho">Mr Holohan</persName>, walking away
+<lb n="13428"/> from her abruptly.</p>
   <lb n="13429"/> <p>After that <persName xml:id="ke">Mrs Kearney</persName>'s conduct was condemned on all
 <lb n="13430"/> hands: everyone approved of what the committee had done.
 <lb n="13431"/> She stood at the door, haggard with rage, arguing with her
@@ -444,10 +444,10 @@
 <lb n="13443"/> her daughter and followed him. As she passed through the
   <lb n="13444"/> doorway she stopped and glared into <persName xml:id="ho">Mr Holohan</persName>'s face:
 <lb n="13445"/> <said who="Devlin Kearney">―I'm not done with you yet, </said>she said.
-<lb n="13446"/> <said who="Mr Holohan">―But I'm done with you, said <persName xml:id="ho">Mr Holohan</persName>.</said></p>
+  <lb n="13446"/> <said who="Mr Holohan">―But I'm done with you, </said>said <persName xml:id="ho">Mr Holohan</persName>.</p>
   <lb n="13447"/> <p><persName xml:id="ka">Kathleen</persName> followed her mother meekly. <persName xml:id="ho">Mr Holohan</persName> began
 <lb n="13448"/> to pace up and down the room in order to cool himself for he
 <lb n="13449"/> felt his skin on fire:
-<lb n="13450"/> <said who="Mr Holohan">―That's a nice lady! he said. O, she's a nice lady!</said>
-<lb n="13451"/> <said who="Mr O'Madden Burke">―You did the proper thing, <persName xml:id="ho">Holohan</persName>, said <persName xml:id="mb">Mr O'Madden
-  <lb n="13452"/> Burke</persName>, poised upon his umbrella in approval.</said></p></div> <!-- End of story -->
+  <lb n="13450"/> <said who="Mr Holohan">―That's a nice lady! </said>he said. <said who="Mr Holohan">O, she's a nice lady!</said>
+<lb n="13451"/> <said who="Mr O'Madden Burke">―You did the proper thing, <persName xml:id="ho">Holohan</persName>, </said>said <persName xml:id="mb">Mr O'Madden
+  <lb n="13452"/> Burke</persName>, poised upon his umbrella in approval.</p></div> <!-- End of story -->
