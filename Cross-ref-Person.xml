@@ -2,13 +2,15 @@
     role="assistant secretary of the Eire Abu society" 
     sex="M"  
     age="adult"
-    xml:id="hh"> 
+    xml:id="hh"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
 
     <persName>Hoppy Holohan</persName>
     <link xml:id="holohan" target="#ulysses#lb070642"/>
     <note target="holohan">Holohan is mentioned in the "Aeolus" episode of Ulysses</note>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Holohan is also mentioned in the "Circe" episode of Ulysses</link>    
     <link xml:id="holohan" target="#dubliners#lb06311"/>
     <note target="holohan">Holohan appears as an offstage character in "Two gallants" in Dubliners</note>
-    <link xml:id="holohan" target="ulysses#lb151726"/>
-    <note target="holohan">Holohan is mentioned in the "Circe" episode of Ulysses</note>
+
+    
 </person>
