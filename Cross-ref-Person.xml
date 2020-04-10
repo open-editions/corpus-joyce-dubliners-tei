@@ -6,5 +6,9 @@
 
     <persName>Hoppy Holohan</persName>
     <link xml:id="holohan" target="#ulysses#lb070642"/>
-    <note target="holohan">Holohan is mentioned in the "Aeolus" episode of Ulysses</note> 
+    <note target="holohan">Holohan is mentioned in the "Aeolus" episode of Ulysses</note>
+    <link xml:id="holohan" target="#dubliners#lb06311"/>
+    <note target="holohan">Holohan appears as an offstage character in "Two gallants" in Dubliners</note>
+    <link xml:id="holohan" target="ulysses#lb151726"/>
+    <note target="holohan">Holohan is mentioned in the "Circe" episode of Ulysses</note>
 </person>
