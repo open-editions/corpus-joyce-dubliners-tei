@@ -1,0 +1,10 @@
+<person 
+    role="assistant secretary of the Eire Abu society" 
+    sex="M"  
+    age="adult"
+    xml:id="hh"> 
+
+    <persName>Hoppy Holohan</persName>
+    <link xml:id="holohan" target="#ulysses#lb070642"/>
+    <note target="holohan">Holohan is mentioned in the "Aeolus" episode of Ulysses</note> 
+</person>
