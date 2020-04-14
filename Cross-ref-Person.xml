@@ -1,4 +1,17 @@
 <person 
+    role="member of a unit of the Royal Irish Constabulary based in Dulin Castle" 
+    sex="M"  
+    age="adult"
+    xml:id="jp"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Jack Power</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u06_hades.xml">Jack Power appears as a character in the "Hades" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Jack Power appears as a character in the "Circe" episode of Ulysses</link>    
+    <link xml:id = "jack power" target = "#ulysses#lb100699"/>
+    <note target = "jack power"> Jack Power is mentioned in the "Wandering Rocks" episode of Ulysses</note>    
+</person>
+<person 
     role="assistant secretary of the Eire Abu society" 
     sex="M"  
     age="adult"
@@ -10,7 +23,5 @@
     <note target="holohan">Holohan is mentioned in the "Aeolus" episode of Ulysses</note>
     <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Holohan is also mentioned in the "Circe" episode of Ulysses</link>    
     <link xml:id="holohan" target="#dubliners#lb06311"/>
-    <note target="holohan">Holohan appears as an offstage character in "Two gallants" in Dubliners</note>
-
-    
+    <note target="holohan">Holohan appears as an offstage character in "Two gallants" in Dubliners</note>    
 </person>
