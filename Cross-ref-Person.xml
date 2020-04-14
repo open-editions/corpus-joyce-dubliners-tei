@@ -1,4 +1,16 @@
 <person 
+    role="son of Mrs.Mooney,proprietress of the boardinghouse" 
+    sex="M"  
+    age="adult"
+    xml:id="jm"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Jack Mooney</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Jack Mooney appears as a character in the "Cyclops" episode of Ulysses</link>    
+    <link xml:id = "jack mooney" target = "#ulysses#lb100984"/>
+    <note target = "jack mooney"> Jack Mooney is mentioned in the "Wandering Rocks" episode of Ulysses</note>    
+</person>
+<person 
     role="member of a unit of the Royal Irish Constabulary based in Dulin Castle" 
     sex="M"  
     age="adult"
@@ -7,7 +19,7 @@
 
     <persName>Jack Power</persName>
     <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u06_hades.xml">Jack Power appears as a character in the "Hades" episode of Ulysses</link> 
-    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Jack Power appears as a character in the "Circe" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Jack Power appears as a character in the "Cyclops" episode of Ulysses</link>    
     <link xml:id = "jack power" target = "#ulysses#lb100699"/>
     <note target = "jack power"> Jack Power is mentioned in the "Wandering Rocks" episode of Ulysses</note>    
 </person>
