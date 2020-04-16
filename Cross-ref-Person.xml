@@ -1,4 +1,15 @@
 <person 
+    role="the hanger-on who is Corley's companion" 
+    sex="M"  
+    age="adult"
+    xml:id="len"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Lenehan</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">Lenehan appears as a character in the "Wandering Rocks" episode of Ulysses</link>    
+    
+</person>
+<person 
     role="son of Mrs.Mooney,proprietress of the boardinghouse" 
     sex="M"  
     age="adult"
