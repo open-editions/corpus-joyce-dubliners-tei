@@ -7,7 +7,15 @@
 
     <persName>Lenehan</persName>
     <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">Lenehan appears as a character in the "Wandering Rocks" episode of Ulysses</link>    
-    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u11_sirens.xml">Lenehan appears as a character in the "Sirens" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Lenehan appears as a character in the "Cyclops" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u14_oxen.xml">Lenehan appears as a character in the "Oxen" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Lenehan appears as a character in the "Circe" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u16_eumaeus.xml">Lenehan appears as a character in the "Eumaeus" episode of Ulysses</link>    
+    <link xml:id = "lenehan" target = "#ulysses#lb172137"/>
+    <note target = "lenehan"> Lenehan is mentioned in the "Ithaca" episode of Ulysses</note>
+    <link xml:id = "lenehan" target = "#ulysses#lb180426"/>
+    <note target = "lenehan"> Lenehan is mentioned in the "Penelope" episode of Ulysses</note>     
 </person>
 <person 
     role="son of Mrs.Mooney,proprietress of the boardinghouse" 
