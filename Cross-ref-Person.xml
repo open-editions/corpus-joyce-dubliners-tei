@@ -1,4 +1,16 @@
 <person 
+    role="a roomer at Mrs.Mooney's boarding house, forced to marry Polly Mooney" 
+    sex="M"  
+    age="adult"
+    xml:id="bd"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Bob Doran</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Bob Doran is sighted in Lestrygonians episode</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Bob Doran is on stage in the "Cyclops" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Bob Doran appears briefly in the "Circe" episode of Ulysses</link>   
+</person>
+<person 
     role="the hanger-on who is Corley's companion" 
     sex="M"  
     age="adult"
