@@ -1,12 +1,22 @@
 <person 
-    role="" 
+    role="one of Farrington's counterparts" 
+    sex="M"  
+    age="adult"
+    xml:id="nf"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Nosey Flynn</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Nosey Flynn appears as a character in the "Lestrygonians" episode of Ulysses</link> 
+</person>
+<person 
+    role="one of Farrington's counterparts" 
     sex="M"  
     age="adult"
     xml:id="pl"
     xmlns:xlink="http://www.w3.org/1999/xlink"> 
 
     <persName>Paddy Leonard</persName>
-    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Paddy Leonard is on stage towards the end of Lestrygonians episode</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Paddy Leonard is on stage towards the end of "Lestrygonians" episode of Ulysses</link> 
     <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Paddy Leonard appears briefly in the "Circe" episode of Ulysses</link>   
 </person>
 <person 
