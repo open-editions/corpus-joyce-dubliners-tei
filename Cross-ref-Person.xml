@@ -1,4 +1,16 @@
 <person 
+    role="a teataster and salesman" 
+    sex="M"  
+    age="adult"
+    xml:id="tk"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Tom Kernan</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u06_hades.xml">Tom Kernan appears as one of the more important minor characters in the "Hades" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">Tom Kernan appears as one of the more important minor characters in the "Wandering Rocks" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u11_sirens.xml">Tom Kernan appears as one of the more important minor characters in the "Sirens" episode of Ulysses</link>     
+</person>
+<person 
     role="one of Farrington's counterparts" 
     sex="M"  
     age="adult"
