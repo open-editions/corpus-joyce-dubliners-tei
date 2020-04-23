@@ -1,3 +1,25 @@
+
+<person 
+    role="a political canvasser" 
+    sex="M"  
+    age="adult"
+    xml:id="bl"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Bantam Lyons</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u05_lotus-eaters.xml">Bantam Lyons appears as a character in the "Lotus Eaters" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Bantam Lyons appears as a character in the "Lestrygonians" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Bantam Lyons appears as a character in the "Cyclops" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u14_oxen.xml">Bantam Lyons appears as a character in the "Oxen" episode of Ulysses</link>    
+    <link xml:id = "bantam lyons" target = "#ulysses#lb100517"/>
+    <note target = "bantam lyons"> Bantam Lyons is mentioned in the "Wandering Rocks" episode of Ulysses</note>
+    <link xml:id = "bantam lyons" target = "#ulysses#lb151839"/>
+    <note target = "bantam lyons"> Bantam Lyons is mentioned in the "Circe" episode of Ulysses</note> 
+    <link xml:id = "bantam lyons" target = "#ulysses#lb161287"/>
+    <note target = "bantam lyons"> Bantam Lyons is mentioned in the "Eumaeus" episode of Ulysses</note>
+    <link xml:id = "bantam lyons" target = "#ulysses#lb170334"/>
+    <note target = "bantam lyons"> Bantam Lyons is mentioned in the "Ithaca" episode of Ulysses</note>
+</person>
 <person 
     role="a teataster and salesman" 
     sex="M"  
