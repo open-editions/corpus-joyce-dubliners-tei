@@ -1,4 +1,13 @@
+<person 
+    role="an Orangeman, Protestant, Conservative, and pro-British" 
+    sex="M"  
+    age="adult"
+    xml:id="cr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
 
+    <persName>Crofton</persName>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Crofton appears as a character in the "Cyclops" episode of Ulysses</link>    
+</person>
 <person 
     role="a political canvasser" 
     sex="M"  
