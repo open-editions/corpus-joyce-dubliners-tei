@@ -1,3 +1,17 @@
+
+
+<person 
+    role="clerk" 
+    sex="M"  
+    age="adult"
+    xml:id="cpm"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>C. P. M'Coy</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u05_lotus-eaters.xml">C. P. M'Coy appears as a character in the "Lotus Eaters" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">C. P. M'Coy appears as a character in the "Wandering Rocks" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">C. P. M'Coy appears as a character in the "Circe" episode of Ulysses</link>    
+</person>
 <person
     role = "subsheriff"
     sex="M"  
