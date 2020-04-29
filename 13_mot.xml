@@ -277,7 +277,7 @@
 <lb n="13276"/> slightly suffused. The room was lively. Two men in outdoor
 <lb n="13277"/> dress had taken possession of the fireplace and were chatting
   <lb n="13278"/> familiarly with <persName xml:id="hy">Miss Healy</persName> and the baritone. They were the
-  <lb n="13279"/> <emph>Freeman</emph> man and <persName xml:id="mb">Mr O'Madden Burke</persName>. The <emph>Freeman</emph> man
+  <lb n="13279"/> <emph>Freeman</emph> man and <persName xml:id="omb">Mr O'Madden Burke</persName>. The <emph>Freeman</emph> man
 <lb n="13280"/> had come in to say that he could not wait for the concert as he
 <lb n="13281"/> had to report the lecture which an American priest was giving
 <lb n="13282"/> in the Mansion House. He said <said who="Freeman" direct="false">they were to leave the report
@@ -296,7 +296,7 @@
 <lb n="13295"/> that the laughter and fragrance and wilful glances were his
 <lb n="13296"/> tribute. When he could stay no longer he took leave of her
 <lb n="13297"/> regretfully.
-  <lb n="13298"/> <said who="Mr Hendrick">―<persName xml:id="mb">O'Madden Burke</persName> will write the notice,</said> he explained to <persName xml:id="hh">Mr
+  <lb n="13298"/> <said who="Mr Hendrick">―<persName xml:id="omb">O'Madden Burke</persName> will write the notice,</said> he explained to <persName xml:id="hh">Mr
   <lb n="13299"/> Holohan</persName>, <said who="Mr Hendrick">and I'll see it in.</said>
 <lb n="13300"/> <said who="Mr Holohan">―Thank you very much, <persName xml:id="hd">Mr Hendrick</persName>, </said>said <persName xml:id="hh">Mr Holohan</persName>.
 <lb n="13301"/> <said who="Mr Holohan">You'll see it in, I know. Now, won't you have a little something
@@ -305,7 +305,7 @@
 <lb n="13304"/> <p>The two men went along some tortuous passages and up a
 <lb n="13305"/> dark staircase and came to a secluded room where one of the
 <lb n="13306"/> stewards was uncorking bottles for a few gentlemen. One of
-  <lb n="13307"/> these gentlemen was <persName xml:id="mb">Mr O'Madden Burke</persName> who had found out
+  <lb n="13307"/> these gentlemen was <persName xml:id="omb">Mr O'Madden Burke</persName> who had found out
 <lb n="13308"/> the room by instinct. He was a suave elderly man who bal=
 <lb n="13309"/> anced his imposing body, when at rest, upon a large silk um=
 <lb n="13310"/> brella. His magniloquent western name was the moral umbrella
@@ -324,7 +324,7 @@
   <lb n="13323"/> Healy</persName> stood together, waiting tranquilly, but <persName xml:id="bl">Mr Bell</persName>'s nerves
 <lb n="13324"/> were greatly agitated because he was afraid the audience would
 <lb n="13325"/> think that he had come late.</p>
-  <lb n="13326"/> <p><persName xml:id="hh">Mr Holohan</persName> and <persName xml:id="mb">Mr O'Madden Burke</persName> came into the room.
+  <lb n="13326"/> <p><persName xml:id="hh">Mr Holohan</persName> and <persName xml:id="omb">Mr O'Madden Burke</persName> came into the room.
   <lb n="13327"/> In a moment <persName xml:id="hh">Mr Holohan</persName> perceived the hush. He went over to
   <lb n="13328"/> <persName xml:id="ke">Mrs Kearney</persName> and spoke with her earnestly. While they were
 <lb n="13329"/> speaking the noise in the hall grew louder. <persName xml:id="hh">Mr Holohan</persName> became
@@ -375,8 +375,8 @@
 <lb n="13374"/> interval, content.</p>
 <lb n="13375"/> <p>All this time the dressingroom was a hive of excitement. In
   <lb n="13376"/> one corner were <persName xml:id="hh">Mr Holohan</persName>, <persName xml:id="fz">Mr Fitzpatrick</persName>, <persName xml:id="be">Miss Beirne</persName>, two
-<lb n="13377"/> of the stewards, the baritone, the bass and <persName xml:id="mb">Mr O'Madden
-  <lb n="13378"/> Burke</persName>. <persName xml:id="mb">Mr O'Madden Burke</persName> said <said who="Mr O'Madden Burke" direct="false">it was the most scandalous
+<lb n="13377"/> of the stewards, the baritone, the bass and <persName xml:id="omb">Mr O'Madden
+  <lb n="13378"/> Burke</persName>. <persName xml:id="omb">Mr O'Madden Burke</persName> said <said who="Mr O'Madden Burke" direct="false">it was the most scandalous
 <lb n="13379"/> exhibition he had ever witnessed. <persName xml:id="ka">Miss Kathleen Kearney</persName>'s
   <lb n="13380"/> musical career was ended in Dublin after that,</said> he said. The
   <lb n="13381"/> baritone was asked what did he think of <persName xml:id="ke">Mrs Kearney</persName>'s
@@ -449,5 +449,5 @@
 <lb n="13448"/> to pace up and down the room in order to cool himself for he
 <lb n="13449"/> felt his skin on fire:
   <lb n="13450"/> <said who="Mr Holohan">―That's a nice lady! </said>he said. <said who="Mr Holohan">O, she's a nice lady!</said>
-<lb n="13451"/> <said who="Mr O'Madden Burke">―You did the proper thing, <persName xml:id="hh">Holohan</persName>, </said>said <persName xml:id="mb">Mr O'Madden
+<lb n="13451"/> <said who="Mr O'Madden Burke">―You did the proper thing, <persName xml:id="hh">Holohan</persName>, </said>said <persName xml:id="omb">Mr O'Madden
   <lb n="13452"/> Burke</persName>, poised upon his umbrella in approval.</p></div> <!-- End of story -->
