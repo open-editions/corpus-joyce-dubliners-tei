@@ -1,3 +1,15 @@
+<person
+    role = "subsheriff"
+    sex="M"  
+    age="adult"
+    xml:id="jf"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>John Fanning</persName>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">John Fanning appears as a character in the "Wandering Rocks" episode of Ulysses</link>
+    <link xml:id = "john fanning" target = "#ulysses#lb151175"/>
+    <note target = "john fanning"> John Fanning is mentioned in the "Circe" episode of Ulysses</note>
+</person>
 <person 
     sex="M"  
     age="adult"
