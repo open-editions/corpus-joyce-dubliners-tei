@@ -1,0 +1,169 @@
+
+
+<person 
+    role="clerk" 
+    sex="M"  
+    age="adult"
+    xml:id="cpm"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>C. P. M'Coy</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u05_lotus-eaters.xml">C. P. M'Coy appears as a character in the "Lotus Eaters" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">C. P. M'Coy appears as a character in the "Wandering Rocks" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">C. P. M'Coy appears as a character in the "Circe" episode of Ulysses</link>    
+</person>
+<person
+    role = "subsheriff"
+    sex="M"  
+    age="adult"
+    xml:id="jf"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>John Fanning</persName>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">John Fanning appears as a character in the "Wandering Rocks" episode of Ulysses</link>
+    <link xml:id = "john fanning" target = "#ulysses#lb151175"/>
+    <note target = "john fanning"> John Fanning is mentioned in the "Circe" episode of Ulysses</note>
+</person>
+<person 
+    sex="M"  
+    age="adult"
+    xml:id="omb"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>O'Madden Burke</persName>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">O'Madden Burke appears as a character in the "Cyclops" episode of Ulysses</link>    
+</person>
+<person 
+    role="an Orangeman, Protestant, Conservative, and pro-British" 
+    sex="M"  
+    age="adult"
+    xml:id="cr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Crofton</persName>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Crofton appears as a character in the "Cyclops" episode of Ulysses</link>    
+</person>
+<person 
+    role="a political canvasser" 
+    sex="M"  
+    age="adult"
+    xml:id="bl"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Bantam Lyons</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u05_lotus-eaters.xml">Bantam Lyons appears as a character in the "Lotus Eaters" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Bantam Lyons appears as a character in the "Lestrygonians" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Bantam Lyons appears as a character in the "Cyclops" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u14_oxen.xml">Bantam Lyons appears as a character in the "Oxen" episode of Ulysses</link>    
+    <link xml:id = "bantam lyons" target = "#ulysses#lb100517"/>
+    <note target = "bantam lyons"> Bantam Lyons is mentioned in the "Wandering Rocks" episode of Ulysses</note>
+    <link xml:id = "bantam lyons" target = "#ulysses#lb151839"/>
+    <note target = "bantam lyons"> Bantam Lyons is mentioned in the "Circe" episode of Ulysses</note> 
+    <link xml:id = "bantam lyons" target = "#ulysses#lb161287"/>
+    <note target = "bantam lyons"> Bantam Lyons is mentioned in the "Eumaeus" episode of Ulysses</note>
+    <link xml:id = "bantam lyons" target = "#ulysses#lb170334"/>
+    <note target = "bantam lyons"> Bantam Lyons is mentioned in the "Ithaca" episode of Ulysses</note>
+</person>
+<person 
+    role="a teataster and salesman" 
+    sex="M"  
+    age="adult"
+    xml:id="tk"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Tom Kernan</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u06_hades.xml">Tom Kernan appears as one of the more important minor characters in the "Hades" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">Tom Kernan appears as one of the more important minor characters in the "Wandering Rocks" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u11_sirens.xml">Tom Kernan appears as one of the more important minor characters in the "Sirens" episode of Ulysses</link>     
+</person>
+<person 
+    role="one of Farrington's counterparts" 
+    sex="M"  
+    age="adult"
+    xml:id="nf"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Nosey Flynn</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Nosey Flynn appears as a character in the "Lestrygonians" episode of Ulysses</link> 
+</person>
+<person 
+    role="one of Farrington's counterparts" 
+    sex="M"  
+    age="adult"
+    xml:id="pl"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Paddy Leonard</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Paddy Leonard is on stage towards the end of "Lestrygonians" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Paddy Leonard appears briefly in the "Circe" episode of Ulysses</link>   
+</person>
+<person 
+    role="a roomer at Mrs.Mooney's boarding house, forced to marry Polly Mooney" 
+    sex="M"  
+    age="adult"
+    xml:id="bd"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Bob Doran</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u08_lestrygonians.xml">Bob Doran is sighted in Lestrygonians episode</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Bob Doran is on stage in the "Cyclops" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Bob Doran appears briefly in the "Circe" episode of Ulysses</link>   
+</person>
+<person 
+    role="the hanger-on who is Corley's companion" 
+    sex="M"  
+    age="adult"
+    xml:id="len"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Lenehan</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u10_wandering_rocks.xml">Lenehan appears as a character in the "Wandering Rocks" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u11_sirens.xml">Lenehan appears as a character in the "Sirens" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Lenehan appears as a character in the "Cyclops" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u14_oxen.xml">Lenehan appears as a character in the "Oxen" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Lenehan appears as a character in the "Circe" episode of Ulysses</link>    
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u16_eumaeus.xml">Lenehan appears as a character in the "Eumaeus" episode of Ulysses</link>    
+    <link xml:id = "lenehan" target = "#ulysses#lb172137"/>
+    <note target = "lenehan"> Lenehan is mentioned in the "Ithaca" episode of Ulysses</note>
+    <link xml:id = "lenehan" target = "#ulysses#lb180426"/>
+    <note target = "lenehan"> Lenehan is mentioned in the "Penelope" episode of Ulysses</note>     
+</person>
+<person 
+    role="son of Mrs.Mooney,proprietress of the boardinghouse" 
+    sex="M"  
+    age="adult"
+    xml:id="jm"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Jack Mooney</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Jack Mooney appears as a character in the "Cyclops" episode of Ulysses</link>    
+    <link xml:id = "jack mooney" target = "#ulysses#lb100984"/>
+    <note target = "jack mooney"> Jack Mooney is mentioned in the "Wandering Rocks" episode of Ulysses</note>    
+</person>
+<person 
+    role="member of a unit of the Royal Irish Constabulary based in Dulin Castle" 
+    sex="M"  
+    age="adult"
+    xml:id="jp"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Jack Power</persName>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u06_hades.xml">Jack Power appears as a character in the "Hades" episode of Ulysses</link> 
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u12_cyclops.xml">Jack Power appears as a character in the "Cyclops" episode of Ulysses</link>    
+    <link xml:id = "jack power" target = "#ulysses#lb100699"/>
+    <note target = "jack power"> Jack Power is mentioned in the "Wandering Rocks" episode of Ulysses</note>    
+</person>
+<person 
+    role="assistant secretary of the Eire Abu society" 
+    sex="M"  
+    age="adult"
+    xml:id="hh"
+    xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+    <persName>Hoppy Holohan</persName>
+    <link xml:id="holohan" target="#ulysses#lb070642"/>
+    <note target="holohan">Holohan is mentioned in the "Aeolus" episode of Ulysses</note>
+    <link xlink:type="simple" xlink:href="https://github.com/open-editions/corpus-joyce-ulysses-tei/blob/master/u15_circe.xml">Holohan is also mentioned in the "Circe" episode of Ulysses</link>    
+    <link xml:id="holohan" target="#dubliners#lb06311"/>
+    <note target="holohan">Holohan appears as an offstage character in "Two gallants" in Dubliners</note>    
+</person>

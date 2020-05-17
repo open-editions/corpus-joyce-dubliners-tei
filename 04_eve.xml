@@ -33,7 +33,7 @@
 <lb n="04032"/> Blessed Margaret Mary Alacoque. He had been a school friend
 <lb n="04033"/> of her father's. Whenever he showed the photograph to a
 <lb n="04034"/> visitor her father used to pass it with a casual word:
-<lb n="04035"/> <said who="">―</said>He is in <place> <location> <geo> -37.813187 144.962982 </geo> </location> <placeName> Melbourne </placeName> </place> now.</p>
+<lb n="04035"/> <said who="Eveline's father">―</said>He is in <place> <location> <geo> -37.813187 144.962982 </geo> </location> <placeName> Melbourne </placeName> </place> now.</said></p>
 <lb n="04036"/> <p>She had consented to go away, to leave her home. Was that
 <lb n="04037"/> wise? She tried to weigh each side of the question. In her home
 <lb n="04038"/> anyway she had shelter and food; she had those whom she had
@@ -44,8 +44,8 @@
   <lb n="04043"/> filled up by advertisement. <persName xml:id="msg">Miss Gavan</persName> would be glad. She had
 <lb n="04044"/> always had an edge on her, especially whenever there were
 <lb n="04045"/> people listening.
-  <lb n="04046"/> <said who="">―</said><persName xml:id="msh">Miss Hill</persName>, don't you see these ladies are waiting?
-  <lb n="04047"/> <said who="">―</said>Look lively, <persName xml:id="msh">Miss Hill</persName>, please.</p>
+  <lb n="04046"/> <said who="Miss Gavan">―<persName xml:id="msh">Miss Hill</persName>, don't you see these ladies are waiting?</said>
+  <lb n="04047"/> <said who="Miss Gavan">―Look lively, <persName xml:id="msh">Miss Hill</persName>, please.</said></p>
 <lb n="04048"/> <p>She would not cry many tears at leaving the stores.</p>
 <lb n="04049"/> <p>But in her new home, in a distant unknown country, it
 <lb n="04050"/> would not be like that. Then she would be married- she,
@@ -99,11 +99,11 @@
 <lb n="04098"/> He told her the names of the ships he had been on and the
 <lb n="04099"/> names of the different services. He had sailed through the
 <lb n="04100"/> <place> <location> <geo> -53.748711 -70.488281 </geo> </location> <placeName> Straits of Magellan </placeName> </place> and he told her stories of the terrible
-<lb n="04101"/> <place> <location> <geo> -52.038979 -72.290039 </geo> </location> <placeName> Patagonia </placeName> </place>ns. He had fallen on his feet in <place> <location> <geo> -34.608418 -58.373161 </geo> </location> <placeName> Buenos Ayres </placeName> </place>, he said,
-<lb n="04102"/> and had come over to the old country just for a holiday. Of
+<lb n="04101"/> <place> <location> <geo> -52.038979 -72.290039 </geo> </location> <placeName> Patagonia </placeName> </place>ns. <said who="Frank" direct="false"> He had fallen on his feet in <place> <location> <geo> -34.608418 -58.373161 </geo> </location> <placeName> Buenos Ayres </placeName> </place>,</said> he said,<said who="Frank" direct="false">
+    <lb n="04102"/> and had come over to the old country just for a holiday.</said> Of
 <lb n="04103"/> course, her father had found out the affair and had forbidden
 <lb n="04104"/> her to have anything to say to him:
-<lb n="04105"/> <said who="">―</said>I know these sailor chaps, he said.</p>
+<lb n="04105"/> <said who="Eveline's father">―I know these sailor chaps, </said>he said.</p>
   <lb n="04106"/> <p>One day he had quarrelled with <persName xml:id="fr">Frank</persName> and after that she had
 <lb n="04107"/> to meet her lover secretly.</p>
 <lb n="04108"/> <p>The evening deepened in the avenue. The white of two let=
@@ -127,13 +127,13 @@
 <lb n="04126"/> hall and outside she heard a melancholy air of Italy. The organ
 <lb n="04127"/> player had been ordered to go away and given sixpence. She
 <lb n="04128"/> remembered her father strutting back into the sickroom saying:
-<lb n="04129"/> <said who="">―</said>Damned Italians! coming over here!</p>
+<lb n="04129"/> <said who="Eveline's Father">―Damned Italians! coming over here!</said></p>
 <lb n="04130"/> <p>As she mused the pitiful vision of her mother's life laid its
 <lb n="04131"/> spell on the very quick of her being - that life of commonplace
 <lb n="04132"/> sacrifices closing in final craziness. She trembled as she heard
 <lb n="04133"/> again her mother's voice saying constantly with foolish insis=
 <lb n="04134"/> tence:
-<lb n="04135"/> <said who="">―</said>Derevaun Seraun! Derevaun Seraun!</p>
+<lb n="04135"/> <said who="Eveline's mother">―Derevaun Seraun! Derevaun Seraun!</said></p>
 <lb n="04136"/> <p>She stood up in a sudden impulse of terror. Escape! She must
   <lb n="04137"/> escape! <persName xml:id="fr">Frank</persName> would save her. He would give her life, perhaps
 <lb n="04138"/> love too. But she wanted to live. Why should she be unhappy?
@@ -156,14 +156,14 @@
 <lb n="04154"/> in her body and she kept moving her lips in silent fervent
 <lb n="04155"/> prayer.</p>
 <lb n="04156"/> <p>A bell clanged upon her heart. She felt him seize her hand:
-<lb n="04157"/> <said who="">―</said>Come!</p>
+<lb n="04157"/> <said who="Frank">―Come!</said></p>
 <lb n="04158"/> <p>All the seas of the world tumbled about her heart. He was
 <lb n="04159"/> drawing her into them: he would drown her. She gripped with
 <lb n="04160"/> both hands at the iron railing.
-<lb n="04161"/> <said who="">―</said>Come!</p>
-<lb n="04162"/> <p>No! No! No! It was impossible. Her hands clutched the iron
+<lb n="04161"/> <said who="Frank">―Come!</said></p>
+  <lb n="04162"/> <p><said who="Eveline" aloud="false">No! No! No! It was impossible.</said> Her hands clutched the iron
 <lb n="04163"/> in frenzy. Amid the seas she sent a cry of anguish.
-  <lb n="04164"/> <said who="">―</said><persName xml:id="ev">Eveline</persName>! <persName xml:id="ev">Evvy</persName>!</p>
+  <lb n="04164"/> <said who="Frank">―<persName xml:id="ev">Eveline</persName>! <persName xml:id="ev">Evvy</persName>!</said></p>
 <lb n="04165"/> <p>He rushed beyond the barrier and called to her to follow. He
 <lb n="04166"/> was shouted at to go on but he still called to her. She set her
 <lb n="04167"/> white face to him, passive, like a helpless animal. Her eyes gave

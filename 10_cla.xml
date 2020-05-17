@@ -1,8 +1,8 @@
 <div n="10" type="story"><lb n="10000"/> <head rend="italics">Clay</head>
 <lb n="10001"/> <p>The matron had given her leave to go out as soon as the
   <lb n="10002"/> women's tea was over and <persName xml:id="mar">Maria</persName> looked forward to her
-<lb n="10003"/> evening out. The kitchen was spick and span: the cook said you
-<lb n="10004"/> could see yourself in the big copper boilers. The fire was nice
+<lb n="10003"/> evening out. The kitchen was spick and span: the cook said <said who="cook" direct="false">you
+  <lb n="10004"/> could see yourself in the big copper boilers.</said> The fire was nice
 <lb n="10005"/> and bright and on one of the sidetables were four very big
 <lb n="10006"/> barmbracks. These barmbracks seemed uncut but, if you went
 <lb n="10007"/> closer, you would see that they had been cut into long thick
@@ -14,7 +14,7 @@
 <lb n="10013"/> She was always sent for when the women quarrelled over their
 <lb n="10014"/> tubs and always succeeded in making peace. One day the
 <lb n="10015"/> matron had said to her:
-  <lb n="10016"/> <said who="">―</said><persName xml:id="mar">Maria</persName>, you are a veritable peacemaker!</p>
+  <lb n="10016"/> <said who="matron">―<persName xml:id="mar">Maria</persName>, you are a veritable peacemaker!</said></p>
 <lb n="10017"/> <p>And the submatron and two of the board ladies had heard
   <lb n="10018"/> the compliment. And <persName xml:id="gm">Ginger Mooney</persName> was always saying what
 <lb n="10019"/> she wouldn't do to the dummy who had charge of the irons if it
@@ -29,15 +29,15 @@
   <lb n="10028"/> her five years before when he and <persName xml:id="ad">Alphy</persName> had gone to <place> <location> <geo> 54.591957 -5.910645 </geo> </location> <placeName> Belfast </placeName> </place> on
 <lb n="10029"/> a Whit Monday trip. In the purse were two half crowns and
 <lb n="10030"/> some coppers. She would have five shillings clear after paying
-<lb n="10031"/> tram fare. What a nice evening they would have, all the
-  <lb n="10032"/> children singing! Only she hoped that <persName xml:id="jd">Joe</persName> wouldn't come in
+<lb n="10031"/> tram fare. <said who="Maria" aloud="false">What a nice evening they would have, all the
+  <lb n="10032"/> children singing!</said> Only she hoped that <persName xml:id="jd">Joe</persName> wouldn't come in
 <lb n="10033"/> drunk. He was so different when he took any drink.</p>
 <lb n="10034"/> <p>Often he had wanted her to go and live with them; but she
   <lb n="10035"/> would have felt herself in the way (though <persName xml:id="jd">Joe</persName>'s wife was ever
 <lb n="10036"/> so nice with her) and she had become accustomed to the life of
   <lb n="10037"/> the laundry. <persName xml:id="jd">Joe</persName> was a good fellow. She had nursed him and
   <lb n="10038"/> <persName xml:id="ad">Alphy</persName> too; and <persName xml:id="jd">Joe</persName> used often to say:
-  <lb n="10039"/> <said who="">―</said>Mamma is mamma but <persName xml:id="mar">Maria</persName> is my proper mother.</p>
+  <lb n="10039"/> <said who="Joe Donnelly">―Mamma is mamma but <persName xml:id="mar">Maria</persName> is my proper mother.</said></p>
 <lb n="10040"/> <p>After the breakup at home the boys had got her that position
 <lb n="10041"/> in the <emph>Dublin by Lamplight</emph> laundry and she liked it. She used
 <lb n="10042"/> to have such a bad opinion of protestants but now she thought
@@ -49,7 +49,7 @@
 <lb n="10048"/> There was one thing she didn't like and that was the tracts on
 <lb n="10049"/> the walls; but the matron was such a nice person to deal with,
 <lb n="10050"/> so genteel.</p>
-<lb n="10051"/> <p>When the cook told her everything was ready she went into
+  <lb n="10051"/> <p>When the cook told her <said who="cook">everything was ready</said> she went into
 <lb n="10052"/> the women's room and began to pull the big bell. In a few
 <lb n="10053"/> minutes the women began to come in by twos and threes,
 <lb n="10054"/> wiping their steaming hands in their petticoats and pulling
@@ -59,7 +59,7 @@
   <lb n="10058"/> sugar in huge tin cans. <persName xml:id="mar">Maria</persName> superintended the distribution of
 <lb n="10059"/> the barmbrack and saw that every woman got her four slices.
 <lb n="10060"/> There was a great deal of laughing and joking during the meal.
-  <lb n="10061"/> <persName xml:id="lf">Lizzie Fleming</persName> said <persName xml:id="mar">Maria</persName> was sure to get the ring and, though
+  <lb n="10061"/> <persName xml:id="lf">Lizzie Fleming</persName> said <said who="Lizzie Fleming" direct="false"><persName xml:id="mar">Maria</persName> was sure to get the ring</said> and, though
   <lb n="10062"/> <persName xml:id="lf">Fleming</persName> had said that for so many Hallow Eves, <persName xml:id="mar">Maria</persName> had to
 <lb n="10063"/> laugh and say she didn't want any ring or man either; and
 <lb n="10064"/> when she laughed her greygreen eyes sparkled with disap=
@@ -113,8 +113,8 @@
 <lb n="10112"/> blush and smile at the young lady but the young lady took it all
 <lb n="10113"/> very seriously and finally cut a thick slice of plumcake, par=
 <lb n="10114"/> celled it up and said:
-<lb n="10115"/> <said who="">―</said>Two and four, please.</p>
-<lb n="10116"/> <p>She thought she would have to stand in the <place> <location> <geo> 53.362385 -6.262808 </geo> </location> <placeName> Drumcondra </placeName> </place>
+<lb n="10115"/> <said who="young lady">―Two and four, please.</said></p>
+    <lb n="10116"/> <p>She thought she would have to stand in the <place> <location> <geo> 53.362385 -6.262808 </geo> </location> <placeName> Drumcondra </placeName> </place>
 <lb n="10117"/> tram because none of the young men seemed to notice her but
 <lb n="10118"/> an elderly gentleman made room for her. He was a stout
 <lb n="10119"/> gentleman and he wore a brown hard hat; he had a square red
@@ -123,9 +123,9 @@
 <lb n="10122"/> polite he was than the young men who simply stared straight
 <lb n="10123"/> before them. The gentleman began to chat with her about
 <lb n="10124"/> Hallow Eve and the rainy weather. He supposed the bag was
-<lb n="10125"/> full of good things for the little ones and said it was only right
+<lb n="10125"/> full of good things for the little ones and said <said who="gentleman" direct="false">it was only right
 <lb n="10126"/> that the youngsters should enjoy themselves while they were
-  <lb n="10127"/> young. <persName xml:id="mar">Maria</persName> agreed with him and favoured him with demure
+  <lb n="10127"/> young.</said> <persName xml:id="mar">Maria</persName> agreed with him and favoured him with demure
 <lb n="10128"/> nods and hems. He was very nice with her and when she was
 <lb n="10129"/> getting out at the Canal Bridge she thanked him and bowed
 <lb n="10130"/> and he bowed to her and raised his hat and smiled agreeably;
@@ -137,33 +137,33 @@
 <lb n="10136"/> the children had their Sunday dresses on. There were two big
 <lb n="10137"/> girls in from next door and games were going on. <persName xml:id="mar">Maria</persName> gave
   <lb n="10138"/> the bag of cakes to the eldest boy, <persName xml:id="ad">Alphy</persName>, to divide and <persName xml:id="msd">Mrs
-  <lb n="10139"/> Donnelly</persName> said it was too good of her to bring such a big bag of
-<lb n="10140"/> cakes and made all the children say:
-  <lb n="10141"/> <said who="">―</said>Thanks, <persName xml:id="mar">Maria</persName>.</p>
-  <lb n="10142"/> <p>But <persName xml:id="mar">Maria</persName> said she had brought something special for papa
-<lb n="10143"/> and mamma, something they would be sure to like, and she
+  <lb n="10139"/> Donnelly</persName> said <said who="Mrs Donnelly" direct="false">it was too good of her to bring such a big bag of
+  <lb n="10140"/> cakes</said> and made all the children say:
+  <lb n="10141"/> <said who="Donnelly children">―Thanks, <persName xml:id="mar">Maria</persName>.</said></p>
+  <lb n="10142"/> <p>But <persName xml:id="mar">Maria</persName> said <said who="Maria" direct="false">she had brought something special for papa
+  <lb n="10143"/> and mamma, something they would be sure to like,</said> and she
 <lb n="10144"/> began to look for her plumcake. She tried in Downes's bag and
 <lb n="10145"/> then in the pockets of her raincloak and then on the hallstand
 <lb n="10146"/> but nowhere could she find it. Then she asked all the children
 <lb n="10147"/> had any of them eaten it - by mistake, of course - but the
 <lb n="10148"/> children all said no and looked as if they did not like to eat
 <lb n="10149"/> cakes if they were to be accused of stealing. Everybody had a
-  <lb n="10150"/> solution for the mystery and <persName xml:id="msd">Mrs Donnelly</persName> said it was plain
-  <lb n="10151"/> that <persName xml:id="mar">Maria</persName> had left it behind her in the tram. <persName xml:id="mar">Maria</persName>, remem=
+  <lb n="10150"/> solution for the mystery and <persName xml:id="msd">Mrs Donnelly</persName> said <said who="Mrs Donnelly" direct="false">it was plain
+  <lb n="10151"/> that <persName xml:id="mar">Maria</persName> had left it behind her in the tram.</said> <persName xml:id="mar">Maria</persName>, remem=
 <lb n="10152"/> bering how confused the gentleman with the greyish moustache
 <lb n="10153"/> had made her, coloured with shame and vexation and disap=
 <lb n="10154"/> pointment. At the thought of the failure of her little surprise
 <lb n="10155"/> and of the two and fourpence she had thrown away for nothing
 <lb n="10156"/> she nearly cried outright.</p>
-  <lb n="10157"/> <p>But <persName xml:id="jd">Joe</persName> said it didn't matter and made her sit down by the
+  <lb n="10157"/> <p>But <persName xml:id="jd">Joe</persName> said <said who="Joe Donnelly" direct="false">it didn't matter</said> and made her sit down by the
 <lb n="10158"/> fire. He was very nice with her. He told her all that went on in
 <lb n="10159"/> his office, repeating for her a smart answer which he had made
   <lb n="10160"/> to the manager. <persName xml:id="mar">Maria</persName> did not understand why <persName xml:id="jd">Joe</persName> laughed so
-<lb n="10161"/> much over the answer he had made but she said that the
+<lb n="10161"/> much over the answer he had made but she said that <said who="Maria" direct="false">the
 <lb n="10162"/> manager must have been a very overbearing person to deal
-  <lb n="10163"/> with. <persName xml:id="jd">Joe</persName> said he wasn't so bad when you knew how to take
+  <lb n="10163"/> with.</said> <persName xml:id="jd">Joe</persName> said <said who="Joe Donnelly" direct="false">he wasn't so bad when you knew how to take
 <lb n="10164"/> him, that he was a decent sort so long as you didn't rub him the
-  <lb n="10165"/> wrong way. <persName xml:id="msd">Mrs Donnelly</persName> played the piano for the children
+  <lb n="10165"/> wrong way.</said> <persName xml:id="msd">Mrs Donnelly</persName> played the piano for the children
 <lb n="10166"/> and they danced and sang. Then the two nextdoor girls handed
 <lb n="10167"/> round the nuts. Nobody could find the nutcracker and <persName xml:id="jd">Joe</persName> was
 <lb n="10168"/> nearly getting cross over it and asked how did they expect
@@ -171,17 +171,17 @@
 <lb n="10170"/> didn't like nuts and that they weren't to bother about her.
   <lb n="10171"/> Then <persName xml:id="jd">Joe</persName> asked would she take a bottle of stout and <persName xml:id="msd">Mrs
   <lb n="10172"/> Donnelly</persName> said there was port wine too in the house if she would
-  <lb n="10173"/> prefer that. <persName xml:id="mar">Maria</persName> said she would rather they didn't ask her to
-  <lb n="10174"/> take anything: but <persName xml:id="jd">Joe</persName> insisted.</p>
+  <lb n="10173"/> prefer that. <persName xml:id="mar">Maria</persName> said <said who="Maria" direct="false">she would rather they didn't ask her to
+  <lb n="10174"/> take anything</said>: but <persName xml:id="jd">Joe</persName> insisted.</p>
   <lb n="10175"/> <p>So <persName xml:id="mar">Maria</persName> let him have his way and they sat by the fire
   <lb n="10176"/> talking over old times and <persName xml:id="mar">Maria</persName> thought she would put in a
-  <lb n="10177"/> good word for <persName xml:id="ad">Alphy</persName>. But <persName xml:id="jd">Joe</persName> cried that God might strike him
-<lb n="10178"/> stone dead if ever he spoke a word to his brother again and
-  <lb n="10179"/> <persName xml:id="mar">Maria</persName> said she was sorry she had mentioned the matter. <persName xml:id="msd">Mrs
+  <lb n="10177"/> good word for <persName xml:id="ad">Alphy</persName>. But <persName xml:id="jd">Joe</persName> cried that <said who="Joe Donnelly" direct="false">God might strike him
+  <lb n="10178"/> stone dead if ever he spoke a word to his brother again</said> and
+  <lb n="10179"/> <persName xml:id="mar">Maria</persName> said<said who="Maria" direct="false"> she was sorry she had mentioned the matter.</said> <persName xml:id="msd">Mrs
   <lb n="10180"/> Donnelly</persName> told her husband it was a great shame for him to
-  <lb n="10181"/> speak that way of his own flesh and blood but <persName xml:id="jd">Joe</persName> said that
+  <lb n="10181"/> speak that way of his own flesh and blood but <persName xml:id="jd">Joe</persName> said that<said who="Joe Donnelly" direct="false">
   <lb n="10182"/> <persName xml:id="ad">Alphy</persName> was no brother of his and there was nearly being a row
-  <lb n="10183"/> on the head of it. But <persName xml:id="jd">Joe</persName> said he would not lose his temper on
+  <lb n="10183"/> on the head of it.</said> But <persName xml:id="jd">Joe</persName> said he would not lose his temper on
 <lb n="10184"/> account of the night it was and asked his wife to open some
 <lb n="10185"/> more stout. The two nextdoor girls had arranged some Hallow
 <lb n="10186"/> Eve games and soon everything was merry again. <persName xml:id="mar">Maria</persName> was
@@ -210,17 +210,17 @@
 <lb n="10209"/> got the prayerbook.</p>
   <lb n="10210"/> <p>After that <persName xml:id="msd">Mrs Donnelly</persName> played Miss McCloud's Reel for
   <lb n="10211"/> the children and <persName xml:id="jd">Joe</persName> made <persName xml:id="mar">Maria</persName> take a glass of wine. Soon
-  <lb n="10212"/> they were all quite merry again and <persName xml:id="msd">Mrs Donnelly</persName> said <persName xml:id="mar">Maria</persName>
+  <lb n="10212"/> they were all quite merry again and <persName xml:id="msd">Mrs Donnelly</persName> said<said who="Mrs Donnelly" direct="false"> <persName xml:id="mar">Maria</persName>
 <lb n="10213"/> would enter a convent before the year was out because she had
-  <lb n="10214"/> got the prayerbook. <persName xml:id="mar">Maria</persName> had never seen <persName xml:id="jd">Joe</persName> so nice to her as
+  <lb n="10214"/> got the prayerbook.</said> <persName xml:id="mar">Maria</persName> had never seen <persName xml:id="jd">Joe</persName> so nice to her as
 <lb n="10215"/> he was that night, so full of pleasant talk and reminiscences.
-<lb n="10216"/> She said they were all very good to her.</p>
+  <lb n="10216"/> She said <said who="Maria" direct="false">they were all very good to her.</said></p>
 <lb n="10217"/> <p>At last the children grew tired and sleepy and <persName xml:id="jd">Joe</persName> asked
   <lb n="10218"/> <persName xml:id="mar">Maria</persName> would she not sing some little song before she went, one
   <lb n="10219"/> of the old songs. <persName xml:id="msd">Mrs Donnelly</persName> said <emph>Do, please, <persName xml:id="mar">Maria</persName>!</emph> and so
   <lb n="10220"/> <persName xml:id="mar">Maria</persName> had to get up and stand beside the piano. <persName xml:id="msd">Mrs Donnelly</persName>
   <lb n="10221"/> bade the children be quiet and listen to <persName xml:id="mar">Maria</persName>'s song. Then she
-  <lb n="10222"/> played the prelude and said <emph>Now, <persName xml:id="mar">Maria</persName>!</emph> and <persName xml:id="mar">Maria</persName>, blushing
+  <lb n="10222"/> played the prelude and said<said who="Mrs Donnelly" direct="false"> <emph>Now, <persName xml:id="mar">Maria</persName>!</emph></said> and <persName xml:id="mar">Maria</persName>, blushing
 <lb n="10223"/> very much, began to sing in a tiny quavering voice. She sang <emph>I
 <lb n="10224"/> dreamt that I dwelt</emph> and when she came to the second verse she
 <lb n="10225"/> sang again:</p>
@@ -233,9 +233,9 @@
 <lb n="10232"/> But I also dreamt, which pleased me most,
 <lb n="10233"/> That you loved me still the same.</emph></p>
 <lb n="10234"/> <p>But no one tried to show her her mistake and, when she had
-  <lb n="10235"/> ended her song, <persName xml:id="jd">Joe</persName> was very much moved. He said that there
+  <lb n="10235"/> ended her song, <persName xml:id="jd">Joe</persName> was very much moved. He said that <said who="Joe Donnelly" direct="false">there
 <lb n="10236"/> was no time like the long ago and no music for him like poor
-<lb n="10237"/> old Balfe, whatever other people might say; and his eyes filled
+  <lb n="10237"/> old Balfe, whatever other people might say;</said> and his eyes filled
 <lb n="10238"/> up so much with tears that he could not find what he was
 <lb n="10239"/> looking for and in the end he had to ask his wife to tell him
 <lb n="10240"/> where the corkscrew was.</p>

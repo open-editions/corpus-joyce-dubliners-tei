@@ -46,19 +46,19 @@ Villona				vi
 --------------------------------------------------------------			
                                 Two gallants						
 Corley				cy			
-Lenehan				le			
+Lenehan				len			
 Mac				mc	
 --------------------------------------------------------------		
                                The boarding house						
 Bantam Lyons			bl			
-Jack Mooney			jm			
+Jack Mooney			jmo			
 Mary				ma			
 Mr.Leonard			ml			
 Mr.Meade			me			
 Mr.Mooney			mmy			
 Mr.Sheridan			ms			
 Polly Mooney			pm			
-Mr.Doran			dr			
+Mr.Doran			bd			
 Mrs.Mooney			my
 -------------------------------------------------------------			
                                  A little cloud						
@@ -76,7 +76,7 @@ Charlie				ch
 Farrington			fn			
 Higgins				hs			
 Kirwan				ki			
-Leonard				ld			
+Leonard				pl			
 Miss Delacour			md			
 Miss Parker			mp			
 Mr Alleyne			ma			
@@ -113,17 +113,16 @@ Mrs.Sinico			msi
 P.Dunne				pd	
 -----------------------------------------------------------------		
                         Ivy Day in the Committe Room						
-Bantam				ba			
+Bantam	Lyons			bl			
 Colgan				cl			
 Crofton				cr			
 Father Burke			fb			
 Father Keon			fk			
 Keegan/Pat			ke			
 Larry Hynes			lh			
-Mr Fanning			fa			
+Mr Fanning			jf			
 Mr Henchy/John			hn			
-Mr Hynes/Joe/Joe Hynes		hy			
-Mr Lyons			ly			
+Mr Hynes/Joe/Joe Hynes		hy									
 Mr O'Connor/Mat			moc			
 Mr Tierney			ti			
 Mrs Lyons			msly			
@@ -142,10 +141,10 @@ Mr Bell				bl
 Mr Duggan			dg			
 Mr Fitzpatrick			fz			
 Mr Hendrick			hd			
-Mr Holohan			ho			
+Mr Holohan			hh			
 Mr Kearney			mke			
 Mr Meade			md			
-Mr O'Madden Burke		mb			
+Mr O'Madden Burke		omb			
 Mrs Kearney			ke			
 Mrs Pat Campbell		pc
 ------------------------------------------------------------------			
@@ -162,11 +161,11 @@ John Gray			jg
 John MacHale			jm			
 Martin/Mr Cunningham		mc			
 Michael Grimes			mg			
-Mr Fanning			mf			
+Mr Fanning			jf			
 Mr Fogarty			fg			
 Mr Goldberg			gb			
 Mr Hendrick			hn			
-Mr M'Coy			mco			
+Mr M'Coy			cpm			
 Mrs Kernan			mk			
 Mrs M'Coy			mmco			
 O'Carroll			oc			

@@ -153,8 +153,8 @@
 <lb n="05152"/> At the corner of <place> <location> <geo> 53.342903 -6.259439 </geo> </location> <placeName> Grafton Street </placeName> </place> a short fat man was putting two
 <lb n="05153"/> handsome ladies on a car in charge of another fat man. The car
 <lb n="05154"/> drove off and the short fat man caught sight of the party.
-  <lb n="05155"/> <said who="">―</said><persName xml:id="ar">André</persName>!
-  <lb n="05156"/> <said who="">―</said>It's <persName xml:id="fa">Farley</persName>!</p>
+  <lb n="05155"/> <said who="Farley">―<persName xml:id="ar">André</persName>!</said>
+  <lb n="05156"/> <said who="André">―It's <persName xml:id="fa">Farley</persName>!</said></p>
   <lb n="05157"/> <p>A torrent of talk followed. <persName xml:id="fa">Farley</persName> was an American. No one
   <lb n="05158"/> knew very well what the talk was about. <persName xml:id="vi">Villona</persName> and <persName xml:id="ar">Rivière</persName>
 <lb n="05159"/> were the noisiest but all the men were excited. They got up on
@@ -164,7 +164,7 @@
   <lb n="05163"/> few seconds, as it seemed to <persName xml:id="jd">Jimmy</persName>, they were walking out of
 <lb n="05164"/> <place> <location> <geo> 53.297184 -6.135135 </geo> </location> <placeName> Kingstown station </placeName> </place>. The ticket collector saluted <persName xml:id="jd">Jimmy</persName>; he was
 <lb n="05165"/> an old man.
-<lb n="05166"/> <said who="">―</said>Fine night, sir!</p>
+<lb n="05166"/> <said who="ticket collector">―Fine night, sir!</said></p>
 <lb n="05167"/> <p>It was a serene summer night; the harbour lay like a
 <lb n="05168"/> darkened mirror at their feet. They proceeded towards it with
 <lb n="05169"/> linked arms, singing <emph>Cadet Roussel</emph> in chorus, stamping their
@@ -173,7 +173,7 @@
 <lb n="05172"/> <p>They got into a rowboat at the slip and made out for the
 <lb n="05173"/> American's yacht. There was to be supper, music, cards. <persName xml:id="vi">Vil=
   <lb n="05174"/> lona</persName> said with conviction:
-<lb n="05175"/> <said who="">―</said>It is beautiful!</p>
+<lb n="05175"/> <said who="Villona">―It is beautiful!</said></p>
   <lb n="05176"/> <p>There was a yacht piano in the cabin. <persName xml:id="vi">Villona</persName> played a waltz
   <lb n="05177"/> for <persName xml:id="fa">Farley</persName> and <persName xml:id="ar">Rivière</persName>, <persName xml:id="fa">Farley</persName> acting as cavalier and <persName xml:id="ar">Rivière</persName> as
 <lb n="05178"/> lady. Then an impromptu square dance, the men devising
@@ -205,7 +205,7 @@
 <lb n="05204"/> It was a terrible game. They stopped just before the end of it to
 <lb n="05205"/> drink for luck. <persName xml:id="jd">Jimmy</persName> understood that the game lay between
   <lb n="05206"/> <persName xml:id="ro">Routh</persName> and <persName xml:id="cs">Ségouin</persName>. What excitement! <persName xml:id="jd">Jimmy</persName> was excited too;
-<lb n="05207"/> he would lose, of course. How much had he written away? The
+<lb n="05207"/> he would lose, of course. <said who="Jimmy" aloud="false">How much had he written away? </said>The
 <lb n="05208"/> men rose to their feet to play the last tricks, talking and
   <lb n="05209"/> gesticulating. <persName xml:id="ro">Routh</persName> won. The cabin shook with the young
 <lb n="05210"/> men's cheering and the cards were bundled together. They be=
@@ -217,5 +217,5 @@
 <lb n="05216"/> his head between his hands, counting the beats of his temples.
 <lb n="05217"/> The cabin door opened and he saw the Hungarian standing in a
 <lb n="05218"/> shaft of grey light:
-<lb n="05219"/> <said who="">―</said>Daybreak, gentlemen!</p>
+<lb n="05219"/> <said who="Villona">―Daybreak, gentlemen!</said></p>
 </div> <!-- End of story -->
