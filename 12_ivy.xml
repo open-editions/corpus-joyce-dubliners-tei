@@ -175,7 +175,7 @@
 <lb n="12171"/> <said who="Mr Henchy">―O, he's as tricky as they make 'em,</said> said <persName xml:id="hn">Mr Henchy</persName>. <said who="Mr Henchy">He
     <lb n="12172"/> hasn't got those little pig's eyes for nothing. Blast his soul!</said>
 <lb n="12173"/> Couldn't he pay up like a man instead of: <said who="Dicky Tierney" direct="false" rend="italics">O, now, <persName xml:id="hn">Mr Henchy</persName>,
-    <lb n="12174"/> I must speak to <persName xml:id="fa">Mr Fanning</persName> ... I've spent a lot of money?</said> Mean
+    <lb n="12174"/> I must speak to <persName xml:id="jf">Mr Fanning</persName> ... I've spent a lot of money?</said> Mean
 <lb n="12175"/> little shoeboy of hell! I suppose he forgets the time his little old
 <lb n="12176"/> father kept the hand-me-down shop in Mary's Lane.</said>
 <lb n="12177"/> <said who="Mr O'Connor">―But is that a fact?</said> asked <persName xml:id="moc">Mr O'Connor</persName>.
@@ -262,7 +262,7 @@
 <lb n="12258"/> <said who="Mr Henchy">―Won't you come in and sit down?</said>
 <lb n="12259"/> <said who="Father Keon">―No, no, no!</said> said <persName xml:id="fk">Father Keon</persName>, speaking in a discreet indul=
 <lb n="12260"/> gent velvety voice, <said who="Father Keon">don't let me disturb you now! I'm just look=
-    <lb n="12261"/> ing for <persName xml:id="fa">Mr Fanning</persName> ...</said>
+    <lb n="12261"/> ing for <persName xml:id="jf">Mr Fanning</persName> ...</said>
 <lb n="12262"/> <said who="Mr Henchy">―He's round at the <placeName type="pub" sameAs="Tierney's pub">Black Eagle</placeName>,</said> said <persName xml:id="hn">Mr Henchy</persName>. <said who="Mr Henchy">But won't
 <lb n="12263"/> you come in and sit down a minute?</said>
 <lb n="12264"/> <said who="Father Keon">―No, no, thank you. It was just a little business matter,</said> said
@@ -282,7 +282,7 @@
 <lb n="12278"/> <said who="Mr Henchy">―Hm?</said>
 <lb n="12279"/> <said who="Mr O'Connor">―What is he exactly?</said>
 <lb n="12280"/> <said who="Mr Henchy">―Ask me an easier one,</said> said <persName xml:id="hn">Mr Henchy</persName>.
-    <lb n="12281"/> <said who="Mr O'Connor">―<persName xml:id="fa">Fanning</persName> and himself seem to me very thick. They're often in
+    <lb n="12281"/> <said who="Mr O'Connor">―<persName xml:id="jf">Fanning</persName> and himself seem to me very thick. They're often in
 <lb n="12282"/> Kavanagh's together. Is he a priest at all?</said>
 <lb n="12283"/> <said who="Mr Henchy">―'Mmmyes, I believe so ... I think he's what you call a black
 <lb n="12284"/> sheep. We haven't many of them, thank God, but we have a
@@ -400,9 +400,9 @@
 <lb n="12396"/> devil .....</said>
 <lb n="12397"/> <said who="Crofton">―Where did the boose come from?</said> asked the young man. <said who="Crofton">Did
 <lb n="12398"/> the cow calve?</said>
-    <lb n="12399"/> <said who="Mr O'Connor">―O, of course, <persName xml:id="ba">Bantam</persName> spots the drink first thing!</said> said <persName xml:id="hn">Mr
+    <lb n="12399"/> <said who="Mr O'Connor">―O, of course, <persName xml:id="bl">Bantam</persName> spots the drink first thing!</said> said <persName xml:id="hn">Mr
     <lb n="12400"/> O'Connor</persName> laughing.
-<lb n="12401"/> <said who="Mr Lyons">―Is that the way you chaps canvass,</said> said <persName xml:id="ly">Mr Lyons</persName>, <said who="Mr Lyons">and
+<lb n="12401"/> <said who="Bantam Lyons">―Is that the way you chaps canvass,</said> said <persName xml:id="bl">Mr Lyons</persName>, <said who="Mr Lyons">and
     <lb n="12402"/> <persName xml:id="cr">Crofton</persName> and I out in the cold and rain looking for votes?</said>
 <lb n="12403"/> <said who="Mr Henchy">―Why, blast your soul,</said> said <persName xml:id="hn">Mr Henchy</persName>. <said who="Mr Henchy">I'd get more votes in
 <lb n="12404"/> five minutes than you two'd get in a week.</said>
@@ -412,10 +412,10 @@
 <lb n="12408"/> <said who="Mr Henchy">Did you ever see this little trick?</said></p>
 <lb n="12409"/> <p>He took two bottles from the table and, carrying them to the
 <lb n="12410"/> fire, put them on the hob. Then he sat down again by the fire
-    <lb n="12411"/> and took another drink from his bottle. <persName xml:id="ly">Mr Lyons</persName> sat on the
+    <lb n="12411"/> and took another drink from his bottle. <persName xml:id="bl">Mr Lyons</persName> sat on the
 <lb n="12412"/> edge of the table, pushed his hat towards the nape of his neck
 <lb n="12413"/> and began to swing his legs.
-    <lb n="12414"/> <said who="Mr Lyons">―Which is my bottle? </said>he asked.
+    <lb n="12414"/> <said who="Bantam Lyons">―Which is my bottle? </said>he asked.
 <lb n="12415"/> <said who="Mr Henchy">―This lad</said>, said <persName xml:id="hn">Mr Henchy</persName>.</p>
     <lb n="12416"/> <p><persName xml:id="cr">Mr Crofton</persName> sat down on a box and looked fixedly at the
 <lb n="12417"/> other bottle on the hob. He was silent for two reasons. The
@@ -427,11 +427,11 @@
 <lb n="12423"/> to the nationalist candidate, he had been engaged to work for
     <lb n="12424"/> <persName xml:id="ti">Mr Tierney</persName>.</p>
 <lb n="12425"/> <p>In a few minutes an apologetic <emph>Pok!</emph> was heard as the cork
-    <lb n="12426"/> flew out of <persName xml:id="ly">Mr Lyons</persName>'s bottle. <persName xml:id="ly">Mr Lyons</persName> jumped off the table,
+    <lb n="12426"/> flew out of <persName xml:id="bl">Mr Lyons</persName>'s bottle. <persName xml:id="bl">Mr Lyons</persName> jumped off the table,
 <lb n="12427"/> went to the fire, took his bottle and carried it back to the table.
 <lb n="12428"/> <said who="Mr Henchy">―I was just telling them, <persName xml:id="cr">Crofton</persName>,</said> said <persName xml:id="hn">Mr Henchy</persName>, <said who="Mr Henchy">that we
 <lb n="12429"/> got a good few votes today.</said>
-    <lb n="12430"/> <said who="Mr Lyons">―Who did you get? </said>asked <persName xml:id="ly">Mr Lyons</persName>.
+    <lb n="12430"/> <said who="Bantam Lyons">―Who did you get? </said>asked <persName xml:id="bl">Mr Lyons</persName>.
 <lb n="12431"/> <said who="Mr Henchy">―Well, I got Parkes for one and I got Atkinson for two and I
 <lb n="12432"/> got Ward of Dawson Street. Fine old chap he is, too—regular
 <lb n="12433"/> old toff, old conservative! <said who="Ward?" direct="false" rend="italics">But isn't your candidate a national=
@@ -442,7 +442,7 @@
 <lb n="12438"/> rates? He's a prominent and respected citizen</said>, said I, <said who="Mr Henchy" direct="false" rend="italics">and a
 <lb n="12439"/> Poor Law Guardian and he doesn't belong to any party, good
 <lb n="12440"/> bad or indifferent.</said> That's the way to talk to 'em.</said>
-<lb n="12441"/> <said who="Mr Lyons">―And what about the address to the King?</said> said <persName xml:id="ly">Mr Lyons</persName>,
+<lb n="12441"/> <said who="Bantam Lyons">―And what about the address to the King?</said> said <persName xml:id="bl">Mr Lyons</persName>,
 <lb n="12442"/> after drinking and smacking his lips.
 <lb n="12443"/> <said who="Mr Henchy">―Listen to me,</said> said <persName xml:id="hn">Mr Henchy</persName>. <said who="Mr Henchy">What we want in this
 <lb n="12444"/> country, as I said to old Ward, is capital. The King's coming
@@ -463,17 +463,17 @@
 <lb n="12459"/> are we going to insult the man when he comes over here on a
     <lb n="12460"/> friendly visit? Eh? Isn't that right, <persName xml:id="cr">Crofton</persName>?</said></p>
     <lb n="12461"/> <p><persName xml:id="cr">Mr Crofton</persName> nodded his head.
-<lb n="12462"/> <said who="Mr Lyons">―But after all now,</said> said <persName xml:id="ly">Mr Lyons</persName> argumentatively, <said who="Mr Lyons">King
+<lb n="12462"/> <said who="Bantam Lyons">―But after all now,</said> said <persName xml:id="bl">Mr Lyons</persName> argumentatively, <said who="Bantam Lyons">King
 <lb n="12463"/> Edward's life, you know, is not the very .....</said>
 <lb n="12464"/> <said who="Mr Henchy">―Let bygones be bygones,</said> said <persName xml:id="hn">Mr Henchy</persName>. <said who="Mr Henchy">I admire the man
 <lb n="12465"/> personally. He's just an ordinary knockabout like you and me.
 <lb n="12466"/> He's fond of his glass of grog and he's a bit of a rake, perhaps,
 <lb n="12467"/> and he's a good sportsman. Damn it, can't we Irish play fair?</said>
-<lb n="12468"/> <said who="Mr Lyons">―That's all very fine,</said> said <persName xml:id="ly">Mr Lyons</persName>. <said who="Mr Lyons">But look at the case of
+<lb n="12468"/> <said who="Bantam Lyons">―That's all very fine,</said> said <persName xml:id="bl">Mr Lyons</persName>. <said who="Bantam Lyons">But look at the case of
     <lb n="12469"/> <persName xml:id="pl">Parnell</persName> now.</said>
 <lb n="12470"/> <said who="Mr Henchy">―In the name of God,</said> said <persName xml:id="hn">Mr Henchy</persName>, <said who="Mr Henchy">where's the analogy
 <lb n="12471"/> between the two cases?</said>
-<lb n="12472"/> <said who="Mr Lyons">―What I mean,</said> said <persName xml:id="ly">Mr Lyons</persName>, <said who="Mr Lyons">is we have our ideals. Why,
+<lb n="12472"/> <said who="Bantam Lyons">―What I mean,</said> said <persName xml:id="bl">Mr Lyons</persName>, <said who="Bantam Lyons">is we have our ideals. Why,
 <lb n="12473"/> now, would we welcome a man like that? Do you think now
     <lb n="12474"/> after what he did <persName xml:id="pl">Parnell</persName> was a fit man to lead us? Do you
 <lb n="12475"/> think he was a man I'd like the lady who is now <persName xml:id="msly">Mrs Lyons</persName> to
@@ -501,7 +501,7 @@
     <lb n="12497"/> <said who="Mr O'Connor">―Sit down, <persName xml:id="hy">Joe</persName>,</said> said <persName xml:id="moc">Mr O'Connor</persName>, <said who="Mr O'Connor">we're just talking about
 <lb n="12498"/> the Chief.</said>
 <lb n="12499"/> <said who="Mr Henchy">―Aye, aye!</said> said <persName xml:id="hn">Mr Henchy</persName>.</p>
-    <lb n="12500"/> <p><persName xml:id="hy">Mr Hynes</persName> sat on the side of the table near <persName xml:id="ly">Mr Lyons</persName> but
+    <lb n="12500"/> <p><persName xml:id="hy">Mr Hynes</persName> sat on the side of the table near <persName xml:id="bl">Mr Lyons</persName> but
 <lb n="12501"/> said nothing.
 <lb n="12502"/> <said who="Mr Henchy">―There's one of them, anyhow,</said> said <persName xml:id="hn">Mr Henchy</persName>, <said who="Mr Henchy">that didn't
     <lb n="12503"/> renege him. By God, I'll say that for you, <persName xml:id="hy">Joe</persName>! No, by God, you
@@ -593,7 +593,7 @@
 </div>
     <lb n="12566"/> <p><persName xml:id="hy">Mr Hynes</persName> sat down again on the table. When he had
 <lb n="12567"/> finished his recitation there was a silence and then a burst of
-    <lb n="12568"/> clapping: even <persName xml:id="ly">Mr Lyons</persName> clapped. The applause continued for
+    <lb n="12568"/> clapping: even <persName xml:id="bl">Mr Lyons</persName> clapped. The applause continued for
 <lb n="12569"/> a little time. When it had ceased all the auditors drank from
 <lb n="12570"/> their bottles in silence.</p>
     <lb n="12571"/> <p><emph>Pok!</emph> The cork flew out of <persName xml:id="hy">Mr Hynes</persName>'s bottle but <persName xml:id="hy">Mr Hynes</persName>
